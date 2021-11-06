@@ -7,8 +7,8 @@ import torchvision.models as models
 from tqdm import tqdm
 
 import config
-import data
-import utils
+from data_utils.vivqa_image import ViVQAImages
+from data_utils import utils
 
 
 class ResNet(nn.Module):
@@ -28,8 +28,8 @@ class ResNet(nn.Module):
 
 
 def create_vivqa_loader(path):
-    transform = utils.get_transform(config.image_size, config.central_fraction)
-    dataset = data.ViVQAImages(path, transform=transform)
+    transform = utils.get_transform(config.image_size)
+    dataset = ViVQAImages(path, transform=transform)
     data_loader = torch.utils.data.DataLoader(
         dataset,
         batch_size=config.preprocess_batch_size,
@@ -60,7 +60,7 @@ def main():
 
         i = j = 0
         for ids, imgs in tqdm(loader):
-            imgs = torch.tensor(imgs).cuda()
+            imgs = imgs.clone().cuda()
             out = net(imgs)
 
             j = i + imgs.size(0)

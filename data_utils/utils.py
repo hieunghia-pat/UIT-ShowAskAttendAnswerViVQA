@@ -37,9 +37,8 @@ def preprocess_answer(answer):
     answer = re.sub(" ", "_", answer.strip()).lower()
     return answer
 
-def get_transform(target_size, central_fraction=1.0):
+def get_transform(target_size):
     return transforms.Compose([
-        transforms.Scale(int(target_size / central_fraction)),
         transforms.Resize(target_size),
         transforms.ToTensor(),
         transforms.Normalize(mean=[0.485, 0.456, 0.406],
