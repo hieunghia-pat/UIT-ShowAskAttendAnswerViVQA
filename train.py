@@ -103,7 +103,7 @@ def main():
 
     dataset = ViVQA(config.json_train_path, config.preprocessed_path)
 
-    net = nn.DataParallel(ASAA(dataset.num_tokens, dataset.output_cats)).cuda()
+    net = nn.DataParallel(ASAA(dataset.num_tokens, len(dataset.output_cats))).cuda()
     optimizer = optim.Adam([p for p in net.parameters() if p.requires_grad])
 
     tracker = Tracker()
