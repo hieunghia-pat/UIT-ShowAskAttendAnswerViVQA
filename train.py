@@ -10,7 +10,8 @@ from tqdm import tqdm
 import config
 from model.asaa import ASAA
 from data_utils.vivqa import ViVQA, get_loader
-import utils
+from metric_utils.metrics import Metrics
+from metric_utils.tracker import Tracker
 
 
 def update_learning_rate(optimizer, iteration):
@@ -20,7 +21,7 @@ def update_learning_rate(optimizer, iteration):
 
 
 total_iterations = 0
-
+metrics = Metrics()
 
 def run(net, loader, optimizer, tracker, train=False, prefix='', epoch=0):
     """ Run an epoch over the given loader """
@@ -31,15 +32,20 @@ def run(net, loader, optimizer, tracker, train=False, prefix='', epoch=0):
         net.eval()
         tracker_class, tracker_params = tracker.MeanMonitor, {}
         answ = []
-        idxs = []
         accs = []
+        pres = []
+        recs = []
+        f1s = []
 
     tq = tqdm(loader, desc='{} Epoch {:03d}'.format(prefix, epoch), ncols=0)
     loss_tracker = tracker.track('{}_loss'.format(prefix), tracker_class(**tracker_params))
-    acc_tracker = tracker.track('{}_acc'.format(prefix), tracker_class(**tracker_params))
+    acc_tracker = tracker.track('{}_accuracy'.format(prefix), tracker_class(**tracker_params))
+    pre_tracker = tracker.track('{}_precision'.format(prefix), tracker_class(**tracker_params))
+    rec_tracker = tracker.track('{}_recall'.format(prefix), tracker_class(**tracker_params))
+    f1_tracker = tracker.track('{}_F1'.format(prefix), tracker_class(**tracker_params))
 
     log_softmax = nn.LogSoftmax().cuda()
-    for v, q, a, idx, q_len in tq:
+    for v, q, a, q_len in tq:
         v.cuda()
         q.cuda()
         a.cuda()
@@ -48,7 +54,7 @@ def run(net, loader, optimizer, tracker, train=False, prefix='', epoch=0):
         out = net(v, q, q_len)
         nll = -log_softmax(out)
         loss = (nll * a / 10).sum(dim=1).mean()
-        acc = utils.batch_accuracy(out.data, a.data).cpu()
+        scores = metrics.get_scores(out.cpu(), a.cpu())
 
         if train:
             global total_iterations
@@ -61,23 +67,27 @@ def run(net, loader, optimizer, tracker, train=False, prefix='', epoch=0):
             total_iterations += 1
         else:
             # store information about evaluation of this minibatch
-            _, answer = out.data.cpu().max(dim=1)
+            _, answer = out.cpu().max(dim=1)
             answ.append(answer.view(-1))
-            accs.append(acc.view(-1))
-            idxs.append(idx.view(-1).clone())
+            accs.append(scores["accuracy"])
+            pres.append(scores["precision"])
+            recs.append(scores["recall"])
+            f1s.append(scores["F1"])
 
-        loss_tracker.append(loss.data[0])
-        # acc_tracker.append(acc.mean())
-        for a in acc:
-            acc_tracker.append(a.item())
-        fmt = '{:.4f}'.format
-        tq.set_postfix(loss=fmt(loss_tracker.mean.value), acc=fmt(acc_tracker.mean.value))
+        loss_tracker.append(loss.item())
+        acc_tracker(scores["accuracy"])
+        pre_tracker(scores["precision"])
+        rec_tracker(scores["recall"])
+        f1_tracker(scores["F1"])
+        fmt = 'Loss: {:.4f} - Accuracy: {:.4f} - Precision: {:.4f} - Recall: {:.4f} - F1 score: {:.4f}'.format
+        tq.set_postfix(loss=fmt(loss_tracker.mean.value), acc=fmt(acc_tracker.mean.value), 
+                        pre=fmt(pre_tracker.mean.value), rec=fmt(rec_tracker.mean.value), f1=fmt(f1_tracker.mean.value))
 
     if not train:
         answ = list(torch.cat(answ, dim=0))
         accs = list(torch.cat(accs, dim=0))
-        idxs = list(torch.cat(idxs, dim=0))
-        return answ, accs, idxs
+
+        return answ, accs, pres, recs, f1s
 
 
 def main():
@@ -96,7 +106,7 @@ def main():
     net = nn.DataParallel(ASAA(dataset.num_tokens, dataset.output_cats)).cuda()
     optimizer = optim.Adam([p for p in net.parameters() if p.requires_grad])
 
-    tracker = utils.Tracker()
+    tracker = Tracker()
     config_as_dict = {k: v for k, v in vars(config).items() if not k.startswith('__')}
 
     for i in range(config.epochs):
@@ -112,7 +122,9 @@ def main():
             'eval': {
                 'answers': r[0],
                 'accuracies': r[1],
-                'idx': r[2],
+                "precisions": r[2],
+                "recalls": r[3],
+                "f1": r[4]
             },
             'vocab': train_loader.dataset.vocab,
         }
