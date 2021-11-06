@@ -2,3 +2,5 @@ __pycache__
 *.pyc
 vqa
 examine.py
+
+*.h5

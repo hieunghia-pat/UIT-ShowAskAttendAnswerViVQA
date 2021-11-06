@@ -9,8 +9,8 @@ def apply_attention(input, attention):
     input = input.view(n, 1, c, -1) # [n, 1, c, s]
     attention = attention.view(n, glimpses, -1)
     attention = F.softmax(attention, dim=-1).unsqueeze(2) # [n, g, 1, s]
-    weighted = attention * input # [n, g, v, s]
-    weighted_mean = weighted.sum(dim=-1) # [n, g, v]
+    weighted = attention * input # [n, g, c, s]
+    weighted_mean = weighted.sum(dim=-1) # [n, g, c]
     return weighted_mean.view(n, -1)
 
 def tile_2d_over_nd(feature_vector, feature_map):

@@ -1,12 +1,12 @@
 import torch
-from vector import pretrained_aliases
+from data_utils.vector import Vectors
+from data_utils.vector import pretrained_aliases
+from data_utils.utils import preprocess_answer, preprocess_question
 from collections import defaultdict, Counter
 import logging
 import six
-from vector import Vectors
 import os
 import json
-from data_utils.utils import preprocess_answer, preprocess_question
 
 logger = logging.getLogger(__name__)
 
@@ -75,14 +75,11 @@ class Vocab(object):
             assert unk_init is None and vectors_cache is None
 
     def make_vocab(self, json_dir):
-        splits = ["train"]
         counter = Counter()
-        for split in splits:
-            json_data = json.load(open(os.path.join(json_dir, f"vivqa_{split}_2017.json")))
-            for ann in json_data["annotations"]:
-                question = preprocess_question(ann["question"])
-                answer = preprocess_answer(ann["answer"])
-                counter.update(question.append(answer))
+        json_data = json.load(open(os.path.join(json_dir)))
+        for ann in json_data["annotations"]:
+            question = preprocess_question(ann["question"])
+            counter.update(question)
 
         return counter
 

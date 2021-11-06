@@ -8,14 +8,14 @@ from torch.nn import init
 
 import config
 
-class Net(nn.Module):
+class ASAA(nn.Module):
     """ Re-implementation of ``Show, Ask, Attend, and Answer: A Strong Baseline For Visual Question Answering'' [0]
 
     [0]: https://arxiv.org/abs/1704.03162
     """
 
-    def __init__(self, embedding_tokens):
-        super(Net, self).__init__()
+    def __init__(self, embedding_tokens, num_output_cats):
+        super(ASAA, self).__init__()
         question_features = 1024
         vision_features = config.output_features
         glimpses = 2
@@ -36,7 +36,7 @@ class Net(nn.Module):
         self.classifier = Classifier(
             in_features=glimpses * vision_features + question_features,
             mid_features=1024,
-            out_features=config.max_answers,
+            out_features=num_output_cats,
             drop=0.5,
         )
 

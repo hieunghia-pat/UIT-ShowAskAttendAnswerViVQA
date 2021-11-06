@@ -1,18 +1,15 @@
 import sys
 import os.path
-import math
-import json
 
 import torch
 import torch.nn as nn
 import torch.optim as optim
-from torch.autograd import Variable
 import torch.backends.cudnn as cudnn
 from tqdm import tqdm
 
 import config
-import data
-import model
+from model.asaa import ASAA
+from data_utils.vivqa import ViVQA, get_loader
 import utils
 
 
@@ -37,20 +34,16 @@ def run(net, loader, optimizer, tracker, train=False, prefix='', epoch=0):
         idxs = []
         accs = []
 
-    tq = tqdm(loader, desc='{} E{:03d}'.format(prefix, epoch), ncols=0)
+    tq = tqdm(loader, desc='{} Epoch {:03d}'.format(prefix, epoch), ncols=0)
     loss_tracker = tracker.track('{}_loss'.format(prefix), tracker_class(**tracker_params))
     acc_tracker = tracker.track('{}_acc'.format(prefix), tracker_class(**tracker_params))
 
     log_softmax = nn.LogSoftmax().cuda()
     for v, q, a, idx, q_len in tq:
-        var_params = {
-            'volatile': not train,
-            'requires_grad': False,
-        }
-        v = Variable(v.cuda(async=True), **var_params)
-        q = Variable(q.cuda(async=True), **var_params)
-        a = Variable(a.cuda(async=True), **var_params)
-        q_len = Variable(q_len.cuda(async=True), **var_params)
+        v.cuda()
+        q.cuda()
+        a.cuda()
+        q_len.cuda()
 
         out = net(v, q, q_len)
         nll = -log_softmax(out)
@@ -98,18 +91,18 @@ def main():
 
     cudnn.benchmark = True
 
-    train_loader = data.get_loader(train=True)
-    val_loader = data.get_loader(val=True)
+    dataset = ViVQA(config.json_train_path, config.preprocessed_path)
 
-    net = nn.DataParallel(model.Net(train_loader.dataset.num_tokens)).cuda()
+    net = nn.DataParallel(ASAA(dataset.num_tokens, dataset.output_cats)).cuda()
     optimizer = optim.Adam([p for p in net.parameters() if p.requires_grad])
 
     tracker = utils.Tracker()
     config_as_dict = {k: v for k, v in vars(config).items() if not k.startswith('__')}
 
     for i in range(config.epochs):
-        _ = run(net, train_loader, optimizer, tracker, train=True, prefix='train', epoch=i)
-        r = run(net, val_loader, optimizer, tracker, train=False, prefix='val', epoch=i)
+        train_loader, val_loader = get_loader(dataset)
+        _ = run(net, train_loader, optimizer, tracker, train=True, prefix='Train', epoch=i)
+        r = run(net, val_loader, optimizer, tracker, train=False, prefix='Val', epoch=i)
 
         results = {
             'name': name,

@@ -1,5 +1,6 @@
 import torch
 from torch.utils import data
+from torch.utils.data.dataset import random_split
 from data_utils.utils import preprocess_question, preprocess_answer
 from data_utils.vocab import Vocab
 import h5py
@@ -14,7 +15,7 @@ class ViVQA(data.Dataset):
             json_data = json.load(fd)
 
         # vocab
-        self.vocab = Vocab(json_data, specials=["<unk>", "<sos>", "<eos>"])
+        self.vocab = Vocab(json_path)
 
         # q and a
         self.questions, self.answers, self.image_ids = self.load_json(json_data)
@@ -26,8 +27,12 @@ class ViVQA(data.Dataset):
     @property
     def max_question_length(self):
         if not hasattr(self, '_max_length'):
-            self._max_length = max(map(len, self.question))
-        return self._max_length
+            self._max_length = max(map(len, self.questions)) + 2
+        return self._max_length + 2
+
+    @property
+    def output_cats(self):
+        return list(set(self.answers))
 
     @property
     def num_tokens(self):
@@ -63,8 +68,8 @@ class ViVQA(data.Dataset):
         # answer vec will be a vector of answer counts to determine which answers will contribute to the loss.
         # this should be multiplied with 0.1 * negative log-likelihoods that a model produces and then summed up
         # to get the loss that is weighted by how many humans gave that answer
-        answer_vec = torch.zeros(len(self.answers))
-        answer_vec[self.answers.index(answer)] = 1
+        answer_vec = torch.zeros(len(self.output_cats))
+        answer_vec[self.output_cats.index(answer)] = 1
 
         return answer_vec
 
@@ -90,7 +95,7 @@ class ViVQA(data.Dataset):
         return v, q, a, q_length
 
     def __len__(self):
-        return len(self.anns)
+        return len(self.questions)
 
 def collate_fn(batch):
     # put question lengths in descending order so that we can use packed sequences later
@@ -98,20 +103,30 @@ def collate_fn(batch):
     return data.dataloader.default_collate(batch)
 
 
-def get_loader(train=False, test=False):
+def get_loader(dataset):
     """ Returns a data loader for the desired split """
-    assert train + test == 1, 'need to set exactly one of {train, test} to True'
-    json_path = config.json_train_path if train else config.json_test_path
-    split = ViVQA(
-        json_path,
-        config.preprocessed_path
-    )
-    loader = torch.utils.data.DataLoader(
-        split,
+
+    train_len = int(len(dataset) * 0.8)
+    val_len = len(dataset) - train_len
+
+    trainset, valset = random_split(dataset, [train_len, val_len], generator=torch.Generator().manual_seed(13))
+    
+    train_loader = torch.utils.data.DataLoader(
+        trainset,
         batch_size=config.batch_size,
-        shuffle=train,  # only shuffle the data in training
+        shuffle=True,  # only shuffle the data in training
         pin_memory=True,
         num_workers=config.data_workers,
         collate_fn=collate_fn,
     )
-    return loader
+
+    val_loader = torch.utils.data.DataLoader(
+        valset,
+        batch_size=config.batch_size,
+        shuffle=True,  # only shuffle the data in training
+        pin_memory=True,
+        num_workers=config.data_workers,
+        collate_fn=collate_fn,
+    )
+
+    return train_loader, val_loader
