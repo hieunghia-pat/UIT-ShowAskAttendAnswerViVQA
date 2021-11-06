@@ -1,13 +1,16 @@
 # paths
-qa_path = 'vqa'  # directory containing the question and annotation jsons
-train_path = 'mscoco/train2014'  # directory of training images
-val_path = 'mscoco/val2014'  # directory of validation images
-test_path = 'mscoco/test2015'  # directory of test images
+qa_path = '../ViVQA'  # directory containing the question and annotation jsons
+train_path = '../ViVQA/train'  # directory of training images
+# val_path = '../ViVQA/val'  # directory of validation images
+val_path = ""
+test_path = '../ViVQA/test'  # directory of test images
 preprocessed_path = './resnet-14x14.h5'  # path where preprocessed features are saved to and loaded from
 vocabulary_path = 'vocab.json'  # path where the used vocabularies for question and answers are saved to
+json_train_path = "../ViVQA/vivqa_train_2017.json"
+json_test_path = "../ViVQA/vivqa_test_2017.json"
 
 task = 'OpenEnded'
-dataset = 'mscoco'
+dataset = 'vivqa'
 
 # preprocess config
 preprocess_batch_size = 64
