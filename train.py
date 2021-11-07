@@ -123,7 +123,7 @@ def main():
                 max_f1 = returned["F1"]
                 torch.save(results, os.path.join(config.model_checkpoint, f"model_best_fold_{k+1}.pth"))
 
-        print(f"Finished for stage {k+1}. Best F1 score in fold: {max_f1}")
+        print(f"Finished for stage {k+1}. Best F1 score in stage: {max_f1}")
         print("="*13)
 
         # change roles of the folds
