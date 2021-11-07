@@ -81,21 +81,21 @@ def run(net, loaders, optimizer, tracker, train=False, prefix='', epoch=0):
             pre_tracker.append(scores["precision"])
             rec_tracker.append(scores["recall"])
             f1_tracker.append(scores["F1"])
-            fmt = '{}: {:.4f}'.format
-            tq.set_postfix(loss=fmt("Loss", loss_tracker.mean.value), acc=fmt("Accuracy", acc_tracker.mean.value), 
-                            pre=fmt("Precision", pre_tracker.mean.value), rec=fmt("Recall", rec_tracker.mean.value), f1=fmt("F1 score", f1_tracker.mean.value))
+            fmt = '{:.4f}'.format
+            tq.set_postfix(loss=fmt(loss_tracker.mean.value), accuracy=fmt(acc_tracker.mean.value), 
+                            precision=fmt(pre_tracker.mean.value), recall=fmt(rec_tracker.mean.value), f1=fmt(f1_tracker.mean.value))
 
         if not train:
             answ = list(torch.cat(answ, dim=0))
             accs = list(torch.cat(accs, dim=0))
 
-        return {
-            "answers": answ,
-            "accuracy": mean(accs),
-            "precision": mean(pres),
-            "recall": mean(recs),
-            "F1": mean(f1s)
-        }
+            return {
+                "answers": answ,
+                "accuracy": mean(accs),
+                "precision": mean(pres),
+                "recall": mean(recs),
+                "F1": mean(f1s)
+            }
 
 
 def main():
