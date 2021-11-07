@@ -1,5 +1,6 @@
 import sys
 import os.path
+from statistics import mean
 
 import torch
 import torch.nn as nn
@@ -37,7 +38,7 @@ def run(net, loader, optimizer, tracker, train=False, prefix='', epoch=0):
         recs = []
         f1s = []
 
-    tq = tqdm(loader, desc='{} Epoch {:03d}'.format(prefix, epoch), ncols=0)
+    tq = tqdm(loader, desc='{} - Epoch {:03d}'.format(prefix, epoch), ncols=0)
     loss_tracker = tracker.track('{}_loss'.format(prefix), tracker_class(**tracker_params))
     acc_tracker = tracker.track('{}_accuracy'.format(prefix), tracker_class(**tracker_params))
     pre_tracker = tracker.track('{}_precision'.format(prefix), tracker_class(**tracker_params))
@@ -52,7 +53,7 @@ def run(net, loader, optimizer, tracker, train=False, prefix='', epoch=0):
         q_len.cuda()
 
         out = net(v, q, q_len)
-        nll = -log_softmax(out, dim=-1)
+        nll = -log_softmax(out)
         loss = (nll * a / 10).sum(dim=1).mean()
         scores = metrics.get_scores(out.cpu(), a.cpu())
 
@@ -87,7 +88,13 @@ def run(net, loader, optimizer, tracker, train=False, prefix='', epoch=0):
         answ = list(torch.cat(answ, dim=0))
         accs = list(torch.cat(accs, dim=0))
 
-        return answ, accs, pres, recs, f1s
+    return {
+        "answers": answ,
+        "accuracy": mean(accs),
+        "precision": mean(pres),
+        "recall": mean(recs),
+        "F1": mean(f1s)
+    }
 
 
 def main():
@@ -111,8 +118,8 @@ def main():
 
     for i in range(config.epochs):
         train_loader, val_loader = get_loader(dataset)
-        _ = run(net, train_loader, optimizer, tracker, train=True, prefix='Train', epoch=i)
-        r = run(net, val_loader, optimizer, tracker, train=False, prefix='Val', epoch=i)
+        run(net, train_loader, optimizer, tracker, train=True, prefix='Training', epoch=i)
+        r = run(net, val_loader, optimizer, tracker, train=False, prefix='Validation', epoch=i)
 
         results = {
             'name': name,
@@ -120,15 +127,15 @@ def main():
             'config': config_as_dict,
             'weights': net.state_dict(),
             'eval': {
-                'answers': r[0],
-                'accuracies': r[1],
-                "precisions": r[2],
-                "recalls": r[3],
-                "f1": r[4]
+                'answer': r["answer"],
+                'accuracy': r["accuracy"],
+                "precision": r["precision"],
+                "recall": r["recall"],
+                "f1": r["F1"]
             },
-            'vocab': train_loader.dataset.vocab,
+            'vocab': dataset.vocab,
         }
-        torch.save(results, target_name)
+        # torch.save(results, target_name)
 
 
 if __name__ == '__main__':
