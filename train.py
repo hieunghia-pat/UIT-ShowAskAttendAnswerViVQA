@@ -45,7 +45,7 @@ def run(net, loader, optimizer, tracker, train=False, prefix='', epoch=0):
     rec_tracker = tracker.track('{}_recall'.format(prefix), tracker_class(**tracker_params))
     f1_tracker = tracker.track('{}_F1'.format(prefix), tracker_class(**tracker_params))
 
-    log_softmax = nn.LogSoftmax().cuda()
+    log_softmax = nn.LogSoftmax(dim=-1).cuda()
     for v, q, a, q_len in tq:
         v.cuda()
         q.cuda()
