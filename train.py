@@ -31,11 +31,6 @@ def run(net, loaders, optimizer, tracker, train=False, prefix='', epoch=0):
     else:
         net.eval()
         tracker_class, tracker_params = tracker.MeanMonitor, {}
-        answ = np.array([])
-        accs = np.array([])
-        pres = np.array([])
-        recs = np.array([])
-        f1s = np.array([])
 
     for loader in loaders:
         tq = tqdm(loader, desc='Epoch {:03d} - {} - Fold {}'.format(epoch, prefix, loaders.index(loader)+1), ncols=0)
@@ -66,14 +61,6 @@ def run(net, loaders, optimizer, tracker, train=False, prefix='', epoch=0):
                 optimizer.step()
 
                 total_iterations += 1
-            else:
-                # store information about evaluation of this minibatch
-                _, answer = out.cpu().max(dim=1)
-                np.append(answ, answer.view(-1), axis=0)
-                np.append(accs, scores["accuracy"], axis=0)
-                np.append(pres, scores["precision"], axis=0)
-                np.append(recs, scores["recall"], axis=0)
-                np.append(f1s, scores["F1"], axis=0)
 
             loss_tracker.append(loss.item())
             acc_tracker.append(scores["accuracy"])
@@ -86,11 +73,10 @@ def run(net, loaders, optimizer, tracker, train=False, prefix='', epoch=0):
 
         if not train:
             return {
-                "answers": answ,
-                "accuracy": np.mean(accs),
-                "precision": np.mean(pres),
-                "recall": np.mean(recs),
-                "F1": np.mean(f1s)
+                "accuracy": acc_tracker.mean.value,
+                "precision": pre_tracker.mean.value,
+                "recall": rec_tracker.mean.value,
+                "F1": np.mean(f1_tracker.mean.value)
             }
 
 
