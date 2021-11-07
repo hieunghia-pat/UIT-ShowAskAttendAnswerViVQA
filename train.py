@@ -52,7 +52,7 @@ def run(net, loader, optimizer, tracker, train=False, prefix='', epoch=0):
         q_len.cuda()
 
         out = net(v, q, q_len)
-        nll = -log_softmax(out)
+        nll = -log_softmax(out, dim=-1)
         loss = (nll * a / 10).sum(dim=1).mean()
         scores = metrics.get_scores(out.cpu(), a.cpu())
 

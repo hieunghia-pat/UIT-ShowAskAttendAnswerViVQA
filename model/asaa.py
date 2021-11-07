@@ -45,7 +45,7 @@ class ASAA(nn.Module):
     def initialize(self):
         for module in self.modules():
             if isinstance(module, nn.Linear) or isinstance(module, nn.Conv2d):
-                init.xavier_uniform(module.weight)
+                init.xavier_uniform_(module.weight)
                 if module.bias is not None:
                     module.bias.data.zero_()
 

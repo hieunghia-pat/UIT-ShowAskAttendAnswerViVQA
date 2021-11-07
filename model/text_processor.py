@@ -18,7 +18,7 @@ class TextProcessor(nn.Module):
         self.lstm.bias_ih_l0.data.zero_()
         self.lstm.bias_hh_l0.data.zero_()
 
-        init.xavier_uniform(self.embedding.weight)
+        init.xavier_uniform_(self.embedding.weight)
 
     def _init_lstm(self, weight):
         for w in weight.chunk(4, 0):
