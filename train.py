@@ -31,11 +31,11 @@ def run(net, loaders, optimizer, tracker, train=False, prefix='', epoch=0):
     else:
         net.eval()
         tracker_class, tracker_params = tracker.MeanMonitor, {}
-        answ = np.array()
-        accs = np.array()
-        pres = np.array()
-        recs = np.array()
-        f1s = np.array()
+        answ = np.array([])
+        accs = np.array([])
+        pres = np.array([])
+        recs = np.array([])
+        f1s = np.array([])
 
     for loader in loaders:
         tq = tqdm(loader, desc='Epoch {:03d} - {} - Fold {}'.format(epoch, prefix, loaders.index(loader)+1), ncols=0)
