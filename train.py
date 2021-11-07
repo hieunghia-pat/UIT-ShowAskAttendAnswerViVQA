@@ -39,7 +39,7 @@ def run(net, loaders, optimizer, tracker, train=False, prefix='', epoch=0):
         f1s = []
 
     for loader in loaders:
-        tq = tqdm(loader, desc='Fold {} - {} - Epoch {:03d}'.format(loaders.index(loader)+1, prefix, epoch), ncols=0)
+        tq = tqdm(loader, desc='Epoch {:03d} - {} - Fold {}'.format(epoch, prefix, loaders.index(loader)+1), ncols=0)
         loss_tracker = tracker.track('{}_loss'.format(prefix), tracker_class(**tracker_params))
         acc_tracker = tracker.track('{}_accuracy'.format(prefix), tracker_class(**tracker_params))
         pre_tracker = tracker.track('{}_precision'.format(prefix), tracker_class(**tracker_params))
