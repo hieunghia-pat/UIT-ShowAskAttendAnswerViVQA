@@ -6,7 +6,6 @@ import torch.backends.cudnn as cudnn
 from tqdm import tqdm
 
 import numpy as np
-from statistics import mean
 
 import config
 from model.asaa import ASAA
@@ -32,11 +31,11 @@ def run(net, loaders, optimizer, tracker, train=False, prefix='', epoch=0):
     else:
         net.eval()
         tracker_class, tracker_params = tracker.MeanMonitor, {}
-        answ = []
-        accs = []
-        pres = []
-        recs = []
-        f1s = []
+        answ = np.array()
+        accs = np.array()
+        pres = np.array()
+        recs = np.array()
+        f1s = np.array()
 
     for loader in loaders:
         tq = tqdm(loader, desc='Epoch {:03d} - {} - Fold {}'.format(epoch, prefix, loaders.index(loader)+1), ncols=0)
@@ -70,11 +69,11 @@ def run(net, loaders, optimizer, tracker, train=False, prefix='', epoch=0):
             else:
                 # store information about evaluation of this minibatch
                 _, answer = out.cpu().max(dim=1)
-                answ.append(answer.view(-1))
-                accs.append(scores["accuracy"])
-                pres.append(scores["precision"])
-                recs.append(scores["recall"])
-                f1s.append(scores["F1"])
+                np.append(answ, answer.view(-1), axis=0)
+                np.append(accs, scores["accuracy"], axis=0)
+                np.append(pres, scores["precision"], axis=0)
+                np.append(recs, scores["recall"], axis=0)
+                np.append(f1s, scores["F1"], axis=0)
 
             loss_tracker.append(loss.item())
             acc_tracker.append(scores["accuracy"])
@@ -86,15 +85,12 @@ def run(net, loaders, optimizer, tracker, train=False, prefix='', epoch=0):
                             precision=fmt(pre_tracker.mean.value), recall=fmt(rec_tracker.mean.value), f1=fmt(f1_tracker.mean.value))
 
         if not train:
-            answ = list(np.concatenate(answ, axis=0))
-            accs = list(np.concatenate(accs, axis=0))
-
             return {
                 "answers": answ,
-                "accuracy": mean(accs),
-                "precision": mean(pres),
-                "recall": mean(recs),
-                "F1": mean(f1s)
+                "accuracy": np.mean(accs),
+                "precision": np.mean(pres),
+                "recall": np.mean(recs),
+                "F1": np.mean(f1s)
             }
 
 
