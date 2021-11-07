@@ -47,11 +47,6 @@ def run(net, loader, optimizer, tracker, train=False, prefix='', epoch=0):
 
     log_softmax = nn.LogSoftmax(dim=-1).cuda()
     for v, q, a, q_len in tq:
-        v.cuda()
-        q.cuda()
-        a.cuda()
-        q_len.cuda()
-
         out = net(v, q, q_len)
         nll = -log_softmax(out)
         loss = (nll * a / 10).sum(dim=1).mean()
