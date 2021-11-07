@@ -47,6 +47,11 @@ def run(net, loader, optimizer, tracker, train=False, prefix='', epoch=0):
 
     log_softmax = nn.LogSoftmax(dim=-1).cuda()
     for v, q, a, q_len in tq:
+        v = v.cuda()
+        q = q.cuda()
+        a = a.cuda()
+        q_len = q_len.cuda()
+
         out = net(v, q, q_len)
         nll = -log_softmax(out)
         loss = (nll * a / 10).sum(dim=1).mean()
@@ -71,13 +76,13 @@ def run(net, loader, optimizer, tracker, train=False, prefix='', epoch=0):
             f1s.append(scores["F1"])
 
         loss_tracker.append(loss.item())
-        acc_tracker(scores["accuracy"])
-        pre_tracker(scores["precision"])
-        rec_tracker(scores["recall"])
-        f1_tracker(scores["F1"])
-        fmt = 'Loss: {:.4f} - Accuracy: {:.4f} - Precision: {:.4f} - Recall: {:.4f} - F1 score: {:.4f}'.format
-        tq.set_postfix(loss=fmt(loss_tracker.mean.value), acc=fmt(acc_tracker.mean.value), 
-                        pre=fmt(pre_tracker.mean.value), rec=fmt(rec_tracker.mean.value), f1=fmt(f1_tracker.mean.value))
+        acc_tracker.append(scores["accuracy"])
+        pre_tracker.append(scores["precision"])
+        rec_tracker.append(scores["recall"])
+        f1_tracker.append(scores["F1"])
+        fmt = '{}: {:.4f}'.format
+        tq.set_postfix(loss=fmt("Loss", loss_tracker.mean.value), acc=fmt("Accuracy", acc_tracker.mean.value), 
+                        pre=fmt("Precision", pre_tracker.mean.value), rec=fmt("Recall", rec_tracker.mean.value), f1=fmt("F1 score", f1_tracker.mean.value))
 
     if not train:
         answ = list(torch.cat(answ, dim=0))

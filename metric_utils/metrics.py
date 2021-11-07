@@ -11,9 +11,9 @@ class Metrics(object):
         true = torch.argmax(true, dim=-1).tolist()
         
         acc = accuracy_score(true, predicted)
-        pre = precision_score(true, predicted)
-        recall = recall_score(true, predicted)
-        f1 = f1_score(true, predicted)
+        pre = precision_score(true, predicted, average="micro")
+        recall = recall_score(true, predicted, average="micro")
+        f1 = f1_score(true, predicted, average="micro")
 
         return {
             "accuracy": acc,
