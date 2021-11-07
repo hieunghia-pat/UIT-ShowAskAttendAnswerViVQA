@@ -107,27 +107,21 @@ def collate_fn(batch):
 def get_loader(dataset):
     """ Returns a data loader for the desired split """
 
-    train_len = int(len(dataset) * 0.8)
-    val_len = len(dataset) - train_len
+    fold_size = int(len(dataset) * 0.25)
 
-    trainset, valset = random_split(dataset, [train_len, val_len], generator=torch.Generator().manual_seed(13))
+    subdatasets = random_split(dataset, [fold_size, fold_size, fold_size, len(dataset) - fold_size*3], generator=torch.Generator().manual_seed(13))
     
-    train_loader = torch.utils.data.DataLoader(
-        trainset,
-        batch_size=config.batch_size,
-        shuffle=True,  # only shuffle the data in training
-        pin_memory=True,
-        num_workers=config.data_workers,
-        collate_fn=collate_fn,
-    )
+    folds = []
+    for subdataset in subdatasets:
+        folds.append(
+            torch.utils.data.DataLoader(
+                subdataset,
+                batch_size=config.batch_size,
+                shuffle=True,
+                pin_memory=True,
+                num_workers=config.data_workers,
+                collate_fn=collate_fn,
+        ))
 
-    val_loader = torch.utils.data.DataLoader(
-        valset,
-        batch_size=config.batch_size,
-        shuffle=True,  # only shuffle the data in training
-        pin_memory=True,
-        num_workers=config.data_workers,
-        collate_fn=collate_fn,
-    )
 
-    return train_loader, val_loader
+    return folds
