@@ -13,6 +13,8 @@ from data_utils.vivqa import ViVQA, get_loader
 from metric_utils.metrics import Metrics
 from metric_utils.tracker import Tracker
 
+import os
+
 
 def update_learning_rate(optimizer, iteration):
     lr = config.initial_lr * 0.5**(float(iteration) / config.lr_halflife)
@@ -85,46 +87,50 @@ def main():
     cudnn.benchmark = True
 
     dataset = ViVQA(config.json_train_path, config.preprocessed_path)
-
-    net = nn.DataParallel(ASAA(dataset.num_tokens, len(dataset.output_cats))).cuda()
-    optimizer = optim.Adam([p for p in net.parameters() if p.requires_grad])
-
-    tracker = Tracker()
-    config_as_dict = {k: v for k, v in vars(config).items() if not k.startswith('__')}
-
-    max_f1 = 0 # for saving the best model
-
     folds = get_loader(dataset)
     k_fold = len(folds) - 1
 
-    for e in range(config.epochs):
+    for k in range(k_fold):
+        print(f"Fold {k+1}:")
+        net = nn.DataParallel(ASAA(dataset.num_tokens, len(dataset.output_cats))).cuda()
+        optimizer = optim.Adam([p for p in net.parameters() if p.requires_grad])
+
+        tracker = Tracker()
+        config_as_dict = {k: v for k, v in vars(config).items() if not k.startswith('__')}
+
+        max_f1 = 0 # for saving the best model
+        for e in range(config.epochs):
+            run(net, folds[:-1], optimizer, tracker, train=True, prefix='Training', epoch=e)
+            returned = run(net, [folds[-1]], optimizer, tracker, train=False, prefix='Validation', epoch=e)
+
+            print("+"*13)
+
+            results = {
+                'tracker': tracker.to_dict(),
+                'config': config_as_dict,
+                'weights': net.state_dict(),
+                'eval': {
+                    'accuracy': returned["accuracy"],
+                    "precision": returned["precision"],
+                    "recall": returned["recall"],
+                    "f1": returned["F1"]
+                },
+                'vocab': dataset.vocab,
+            }
+        
+            torch.save(results, os.path.join(config.model_checkpoint, f"model_last_fold_{k+1}.pth"))
+            if returned["F1"] > max_f1:
+                max_f1 = returned["F1"]
+                torch.save(results, os.path.join(config.model_checkpoint, f"model_best_fold_{k+1}.pth"))
+
+        print(f"Finished for fold {k+1}. Best F1 score in fold: {max_f1}")
+        print("="*13)
+
+        # change roles of the folds
         for i in range(k_fold):
             tmp = folds[i]
             folds[i] = folds[i-1]
             folds[i-1] = tmp
-        run(net, folds[:-1], optimizer, tracker, train=True, prefix='Training', epoch=e)
-        returned = run(net, [folds[-1]], optimizer, tracker, train=False, prefix='Validation', epoch=e)
-
-        print("+"*10)
-
-        results = {
-            'tracker': tracker.to_dict(),
-            'config': config_as_dict,
-            'weights': net.state_dict(),
-            'eval': {
-                'accuracy': returned["accuracy"],
-                "precision": returned["precision"],
-                "recall": returned["recall"],
-                "f1": returned["F1"]
-            },
-            'vocab': dataset.vocab,
-        }
-    
-        torch.save(results, config.model_checkpoint)
-        if returned["F1"] > max_f1:
-            max_f1 = returned["F1"]
-            torch.save(results, config.best_model_checkpoint)
-
 
 if __name__ == '__main__':
     main()

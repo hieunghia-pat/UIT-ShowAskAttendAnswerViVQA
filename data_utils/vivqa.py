@@ -107,9 +107,9 @@ def collate_fn(batch):
 def get_loader(dataset):
     """ Returns a data loader for the desired split """
 
-    fold_size = int(len(dataset) * 0.25)
+    fold_size = int(len(dataset) * 0.2)
 
-    subdatasets = random_split(dataset, [fold_size, fold_size, fold_size, len(dataset) - fold_size*3], generator=torch.Generator().manual_seed(13))
+    subdatasets = random_split(dataset, [fold_size, fold_size, fold_size, fold_size, len(dataset) - fold_size*4], generator=torch.Generator().manual_seed(13))
     
     folds = []
     for subdataset in subdatasets:
