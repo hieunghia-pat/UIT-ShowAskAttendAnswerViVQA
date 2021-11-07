@@ -101,13 +101,7 @@ def collate_fn(batch):
     # put question lengths in descending order so that we can use packed sequences later
     batch.sort(key=lambda x: x[-1], reverse=True)
 
-    v, q, a, q_len = batch
-    v = v.cuda()
-    q = q.cuda()
-    a = a.cuda()
-    q_len = q_len.cuda()
-
-    return data.dataloader.default_collate((v, q, a, q_len))
+    return data.dataloader.default_collate(batch)
 
 
 def get_loader(dataset):
