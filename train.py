@@ -39,7 +39,7 @@ def run(net, loaders, optimizer, tracker, train=False, prefix='', epoch=0):
         f1s = []
 
     for loader in loaders:
-        tq = tqdm(loader, desc='Fold {} - {} - Epoch {:03d}'.format(loaders.index(loader), prefix, epoch), ncols=0)
+        tq = tqdm(loader, desc='Fold {} - {} - Epoch {:03d}'.format(loaders.index(loader)+1, prefix, epoch), ncols=0)
         loss_tracker = tracker.track('{}_loss'.format(prefix), tracker_class(**tracker_params))
         acc_tracker = tracker.track('{}_accuracy'.format(prefix), tracker_class(**tracker_params))
         pre_tracker = tracker.track('{}_precision'.format(prefix), tracker_class(**tracker_params))
@@ -89,23 +89,16 @@ def run(net, loaders, optimizer, tracker, train=False, prefix='', epoch=0):
             answ = list(torch.cat(answ, dim=0))
             accs = list(torch.cat(accs, dim=0))
 
-    return {
-        "answers": answ,
-        "accuracy": mean(accs),
-        "precision": mean(pres),
-        "recall": mean(recs),
-        "F1": mean(f1s)
-    }
+        return {
+            "answers": answ,
+            "accuracy": mean(accs),
+            "precision": mean(pres),
+            "recall": mean(recs),
+            "F1": mean(f1s)
+        }
 
 
 def main():
-    if len(sys.argv) > 1:
-        name = ' '.join(sys.argv[1:])
-    else:
-        from datetime import datetime
-        name = datetime.now().strftime("%Y-%m-%d_%H:%M:%S")
-    target_name = os.path.join('logs', '{}.pth'.format(name))
-    print('will save to {}'.format(target_name))
 
     cudnn.benchmark = True
 
@@ -128,19 +121,18 @@ def main():
             folds[i] = folds[i-1]
             folds[i-1] = tmp
         run(net, folds[:-1], optimizer, tracker, train=True, prefix='Training', epoch=i)
-        r = run(net, folds[-1], optimizer, tracker, train=False, prefix='Validation', epoch=i)
+        returned = run(net, folds[-1], optimizer, tracker, train=False, prefix='Validation', epoch=i)
 
         results = {
-            'name': name,
             'tracker': tracker.to_dict(),
             'config': config_as_dict,
             'weights': net.state_dict(),
             'eval': {
-                'answer': r["answer"],
-                'accuracy': r["accuracy"],
-                "precision": r["precision"],
-                "recall": r["recall"],
-                "f1": r["F1"]
+                'answer': returned["answer"],
+                'accuracy': returned["accuracy"],
+                "precision": returned["precision"],
+                "recall": returned["recall"],
+                "f1": returned["F1"]
             },
             'vocab': dataset.vocab,
         }

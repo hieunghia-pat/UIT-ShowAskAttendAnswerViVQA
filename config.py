@@ -24,6 +24,6 @@ epochs = 50
 batch_size = 2
 initial_lr = 1e-3  # default Adam lr
 lr_halflife = 50000  # in iterations
-data_workers = 2
+data_workers = 0
 # model_checkpoint = saved_model
 # best_model_checkpoint = 
