@@ -115,13 +115,13 @@ def main():
     folds = get_loader(dataset)
     k_fold = len(folds) - 1
 
-    for i in range(config.epochs):
+    for e in range(config.epochs):
         for i in range(k_fold):
             tmp = folds[i]
             folds[i] = folds[i-1]
             folds[i-1] = tmp
-        run(net, folds[:-1], optimizer, tracker, train=True, prefix='Training', epoch=i)
-        returned = run(net, folds[-1], optimizer, tracker, train=False, prefix='Validation', epoch=i)
+        run(net, folds[:-1], optimizer, tracker, train=True, prefix='Training', epoch=e)
+        returned = run(net, folds[-1], optimizer, tracker, train=False, prefix='Validation', epoch=e)
 
         results = {
             'tracker': tracker.to_dict(),
