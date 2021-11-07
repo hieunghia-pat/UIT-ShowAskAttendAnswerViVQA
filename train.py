@@ -121,7 +121,7 @@ def main():
             folds[i] = folds[i-1]
             folds[i-1] = tmp
         run(net, folds[:-1], optimizer, tracker, train=True, prefix='Training', epoch=e)
-        returned = run(net, folds[-1], optimizer, tracker, train=False, prefix='Validation', epoch=e)
+        returned = run(net, [folds[-1]], optimizer, tracker, train=False, prefix='Validation', epoch=e)
 
         results = {
             'tracker': tracker.to_dict(),
