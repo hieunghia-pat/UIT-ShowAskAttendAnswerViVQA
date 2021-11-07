@@ -110,7 +110,6 @@ def main():
             'config': config_as_dict,
             'weights': net.state_dict(),
             'eval': {
-                'answer': returned["answer"],
                 'accuracy': returned["accuracy"],
                 "precision": returned["precision"],
                 "recall": returned["recall"],
