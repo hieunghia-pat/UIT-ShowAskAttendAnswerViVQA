@@ -91,7 +91,7 @@ def main():
     k_fold = len(folds) - 1
 
     for k in range(k_fold):
-        print(f"Fold {k+1}:")
+        print(f"Stage {k+1}:")
         net = nn.DataParallel(ASAA(dataset.num_tokens, len(dataset.output_cats))).cuda()
         optimizer = optim.Adam([p for p in net.parameters() if p.requires_grad])
 
@@ -123,7 +123,7 @@ def main():
                 max_f1 = returned["F1"]
                 torch.save(results, os.path.join(config.model_checkpoint, f"model_best_fold_{k+1}.pth"))
 
-        print(f"Finished for fold {k+1}. Best F1 score in fold: {max_f1}")
+        print(f"Finished for stage {k+1}. Best F1 score in fold: {max_f1}")
         print("="*13)
 
         # change roles of the folds
