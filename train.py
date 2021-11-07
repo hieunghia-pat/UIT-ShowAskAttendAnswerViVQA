@@ -105,6 +105,8 @@ def main():
         run(net, folds[:-1], optimizer, tracker, train=True, prefix='Training', epoch=e)
         returned = run(net, [folds[-1]], optimizer, tracker, train=False, prefix='Validation', epoch=e)
 
+        print("+"*10)
+
         results = {
             'tracker': tracker.to_dict(),
             'config': config_as_dict,
