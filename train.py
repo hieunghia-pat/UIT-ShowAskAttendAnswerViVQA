@@ -138,8 +138,8 @@ def main():
         }
     
         torch.save(results, config.model_checkpoint)
-        if r["F1"] > max_f1:
-            max_f1 = r["F1"]
+        if returned["F1"] > max_f1:
+            max_f1 = returned["F1"]
             torch.save(results, config.best_model_checkpoint)
 
 
