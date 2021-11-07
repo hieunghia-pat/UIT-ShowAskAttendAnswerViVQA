@@ -1,12 +1,12 @@
-import sys
-import os.path
-from statistics import mean
-
 import torch
 import torch.nn as nn
 import torch.optim as optim
 import torch.backends.cudnn as cudnn
+
 from tqdm import tqdm
+
+import numpy as np
+from statistics import mean
 
 import config
 from model.asaa import ASAA
@@ -86,8 +86,8 @@ def run(net, loaders, optimizer, tracker, train=False, prefix='', epoch=0):
                             precision=fmt(pre_tracker.mean.value), recall=fmt(rec_tracker.mean.value), f1=fmt(f1_tracker.mean.value))
 
         if not train:
-            answ = list(torch.cat(answ, dim=0))
-            accs = list(torch.cat(accs, dim=0))
+            answ = list(np.concatenate(answ, axis=0))
+            accs = list(np.concatenate(accs, axis=0))
 
             return {
                 "answers": answ,
