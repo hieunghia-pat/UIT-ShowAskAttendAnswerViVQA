@@ -75,7 +75,7 @@ class ViVQA(data.Dataset):
         image_id = self.image_ids[idx]
         v = self._load_image(image_id)
 
-        return v, q, a, image_id, q_length
+        return v, q, a, q_length
 
     def __len__(self):
         return len(self.questions)
