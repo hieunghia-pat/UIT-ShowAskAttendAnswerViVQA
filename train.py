@@ -86,22 +86,25 @@ def main():
 
     cudnn.benchmark = True
 
-    dataset = ViVQA(config.json_train_path, config.preprocessed_path)
-    folds = get_loader(dataset)
+    train_dataset = ViVQA(config.json_train_path, config.preprocessed_path)
+    test_dataset = ViVQA(config.json_test_path, config.preprocessed_path)
+    folds, test_fold = get_loader(train_dataset, test_dataset)
     k_fold = len(folds) - 1
 
     for k in range(k_fold):
         print(f"Stage {k+1}:")
-        net = nn.DataParallel(ASAA(dataset.num_tokens, len(dataset.output_cats))).cuda()
+        net = nn.DataParallel(ASAA(train_dataset.num_tokens, len(train_dataset.output_cats))).cuda()
         optimizer = optim.Adam([p for p in net.parameters() if p.requires_grad])
 
         tracker = Tracker()
         config_as_dict = {k: v for k, v in vars(config).items() if not k.startswith('__')}
 
         max_f1 = 0 # for saving the best model
+        f1_test = 0
         for e in range(config.epochs):
             run(net, folds[:-1], optimizer, tracker, train=True, prefix='Training', epoch=e)
-            returned = run(net, [folds[-1]], optimizer, tracker, train=False, prefix='Validation', epoch=e)
+            val_returned = run(net, [folds[-1]], optimizer, tracker, train=False, prefix='Validation', epoch=e)
+            test_returned = run(net, [test_fold], optimizer, tracker, train=False, prefix='Evaluation', epoch=e)
 
             print("+"*13)
 
@@ -110,20 +113,22 @@ def main():
                 'config': config_as_dict,
                 'weights': net.state_dict(),
                 'eval': {
-                    'accuracy': returned["accuracy"],
-                    "precision": returned["precision"],
-                    "recall": returned["recall"],
-                    "f1": returned["F1"]
+                    'accuracy': val_returned["accuracy"],
+                    "precision": val_returned["precision"],
+                    "recall": val_returned["recall"],
+                    "f1": val_returned["F1"],
+                    "f1_test": test_returned["F1"]
                 },
-                'vocab': dataset.vocab,
+                'vocab': train_dataset.vocab,
             }
         
             torch.save(results, os.path.join(config.model_checkpoint, f"model_last_fold_{k+1}.pth"))
-            if returned["F1"] > max_f1:
-                max_f1 = returned["F1"]
+            if val_returned["F1"] > max_f1:
+                max_f1 = val_returned["F1"]
+                f1_test = test_returned["F1"]
                 torch.save(results, os.path.join(config.model_checkpoint, f"model_best_fold_{k+1}.pth"))
 
-        print(f"Finished for stage {k+1}. Best F1 score in stage: {max_f1}")
+        print(f"Finished for stage {k+1}. Best F1 score: {max_f1}. F1 score on test: {f1_test}")
         print("="*13)
 
         # change roles of the folds
