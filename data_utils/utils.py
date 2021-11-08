@@ -2,10 +2,12 @@ from torchvision import transforms
 import re
 
 def preprocess_question(question):
+    question = re.sub("\"", "", question)
     question = question.lower().strip().split()
     return ["<sos>"] + question + ["<eos>"]
 
 def preprocess_answer(answer):
+    answer = re.sub("\"", "", answer)
     answer = re.sub(" ", "_", answer.strip()).lower()
     return answer
 

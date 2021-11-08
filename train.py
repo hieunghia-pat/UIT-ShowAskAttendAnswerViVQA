@@ -8,6 +8,7 @@ from tqdm import tqdm
 import numpy as np
 
 import config
+from data_utils.vocab import Vocab
 from model.asaa import ASAA
 from data_utils.vivqa import ViVQA, get_loader
 from metric_utils.metrics import Metrics
@@ -50,7 +51,7 @@ def run(net, loaders, optimizer, tracker, train=False, prefix='', epoch=0):
             q_len = q_len.cuda()
 
             out = net(v, q, q_len)
-            scores = metrics.get_scores(out.cpu(), a.cpu())
+            scores = metrics.get_scores(loader.dataset.vocab._decode_answer(out.cpu()), loader.dataset.vocab._decode_answer(a.cpu()))
 
             if train:
                 global total_iterations
@@ -80,7 +81,7 @@ def run(net, loaders, optimizer, tracker, train=False, prefix='', epoch=0):
                 "accuracy": acc_tracker.mean.value,
                 "precision": pre_tracker.mean.value,
                 "recall": rec_tracker.mean.value,
-                "F1": np.mean(f1_tracker.mean.value)
+                "F1": f1_tracker.mean.value
             }
 
 
@@ -88,8 +89,11 @@ def main():
 
     cudnn.benchmark = True
 
-    train_dataset = ViVQA(config.json_train_path, config.preprocessed_path)
-    folds= get_loader(train_dataset)
+    vocab = Vocab([config.json_train_path, config.json_test_path], 
+                            specials=["<pad>", "<sos", "<eos>"])
+    train_dataset = ViVQA(config.json_train_path, config.preprocessed_path, vocab)
+    test_dataset = ViVQA(config.json_test_path, config.preprocessed_path, vocab)
+    folds, test_fold = get_loader(train_dataset, test_dataset)
     k_fold = len(folds) - 1
 
     for k in range(k_fold):
@@ -101,9 +105,11 @@ def main():
         config_as_dict = {k: v for k, v in vars(config).items() if not k.startswith('__')}
 
         max_f1 = 0 # for saving the best model
+        f1_test = 0
         for e in range(config.epochs):
             run(net, folds[:-1], optimizer, tracker, train=True, prefix='Training', epoch=e)
             val_returned = run(net, [folds[-1]], optimizer, tracker, train=False, prefix='Validation', epoch=e)
+            test_returned = run(net, [test_fold], optimizer, tracker, train=False, prefix='Evaluation', epoch=e)
 
             print("+"*13)
 
@@ -115,18 +121,21 @@ def main():
                     'accuracy': val_returned["accuracy"],
                     "precision": val_returned["precision"],
                     "recall": val_returned["recall"],
-                    "f1": val_returned["F1"]
+                    "f1-val": val_returned["F1"],
+                    "f1-test": test_returned["F1"]
+
                 },
                 'vocab': train_dataset.vocab,
             }
         
-            torch.save(results, os.path.join(config.model_checkpoint, f"model_last_fold_{k+1}.pth"))
+            torch.save(results, os.path.join(config.model_checkpoint, f"model_last_stage_{k+1}.pth"))
             if val_returned["F1"] > max_f1:
                 max_f1 = val_returned["F1"]
+                f1_test = test_returned["F1"]
                 torch.save(results, os.path.join(config.model_checkpoint, f"model_best_fold_{k+1}.pth"))
 
-        print(f"Finished for stage {k+1}. Best F1 score: {max_f1}.")
-        print("="*13)
+        print(f"Finished for stage {k+1}. Best F1 score: {max_f1}. F1 score on test set: {f1_test}")
+        print("="*31)
 
         # change roles of the folds
         for i in range(k_fold):

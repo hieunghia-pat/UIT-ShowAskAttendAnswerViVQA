@@ -9,13 +9,13 @@ import config
 
 class ViVQA(data.Dataset):
     """ VQA dataset, open-ended """
-    def __init__(self, json_path, image_features_path):
+    def __init__(self, json_path, image_features_path, vocab=None):
         super(ViVQA, self).__init__()
         with open(json_path, 'r') as fd:
             json_data = json.load(fd)
 
         # vocab
-        self.vocab = Vocab(json_path)
+        self.vocab = Vocab([json_path]) if vocab is None else vocab
 
         # q and a
         self.questions, self.answers, self.image_ids = self.load_json(json_data)
@@ -56,23 +56,6 @@ class ViVQA(data.Dataset):
         coco_id_to_index = {id: i for i, id in enumerate(coco_ids)}
         return coco_id_to_index
 
-    def _encode_question(self, question):
-        """ Turn a question into a vector of indices and a question length """
-        vec = torch.ones(self.max_question_length).long() * self.vocab.stoi["<pad>"]
-        for i, token in enumerate(question):
-            vec[i] = self.vocab.stoi[token]
-        return vec, len(question)
-
-    def _encode_answer(self, answer):
-        """ Turn an answer into a vector """
-        # answer vec will be a vector of answer counts to determine which answers will contribute to the loss.
-        # this should be multiplied with 0.1 * negative log-likelihoods that a model produces and then summed up
-        # to get the loss that is weighted by how many humans gave that answer
-        answer_vec = torch.zeros(len(self.output_cats))
-        answer_vec[self.output_cats.index(answer)] = 1
-
-        return answer_vec
-
     def _load_image(self, image_id):
         """ Load an image """
         if not hasattr(self, 'features_file'):
@@ -87,12 +70,12 @@ class ViVQA(data.Dataset):
         return torch.from_numpy(img)
 
     def __getitem__(self, idx):
-        q, q_length = self._encode_question(self.questions[idx])
-        a = self._encode_answer(self.answers[idx])
+        q, q_length = self.vocab._encode_question(self.questions[idx])
+        a = self.vocab._encode_answer(self.answers[idx])
         image_id = self.image_ids[idx]
         v = self._load_image(image_id)
 
-        return v, q, a, q_length
+        return v, q, a, image_id, q_length
 
     def __len__(self):
         return len(self.questions)
@@ -104,7 +87,7 @@ def collate_fn(batch):
     return data.dataloader.default_collate(batch)
 
 
-def get_loader(train_dataset):
+def get_loader(train_dataset, test_dataset=None):
     """ Returns a data loader for the desired split """
 
     fold_size = int(len(train_dataset) * 0.2)
@@ -121,5 +104,16 @@ def get_loader(train_dataset):
                 pin_memory=True,
                 num_workers=config.data_workers,
                 collate_fn=collate_fn))
+
+    if test_dataset:
+        test_fold = torch.utils.data.DataLoader(
+                        test_dataset,
+                        batch_size=config.batch_size,
+                        shuffle=True,
+                        pin_memory=True,
+                        num_workers=config.data_workers,
+                        collate_fn=collate_fn)
+
+        return folds, test_fold
 
     return folds
