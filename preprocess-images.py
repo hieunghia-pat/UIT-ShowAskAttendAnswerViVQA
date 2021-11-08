@@ -46,9 +46,10 @@ def main():
     net = ResNet().cuda()
     net.eval()
 
-    loader = create_vivqa_loader(config.train_path)
+    train_loader = create_vivqa_loader(config.train_path)
+    test_loader = create_vivqa_loader(config.test_path)
     features_shape = (
-        len(loader.dataset),
+        len(train_loader.dataset) + len(test_loader.dataset),
         config.output_features,
         config.output_size,
         config.output_size
@@ -56,10 +57,19 @@ def main():
 
     with h5py.File(config.preprocessed_path, 'w', libver='latest') as fd:
         features = fd.create_dataset('features', shape=features_shape, dtype='float16')
-        coco_ids = fd.create_dataset('ids', shape=(len(loader.dataset),), dtype='int32')
+        coco_ids = fd.create_dataset('ids', shape=(len(train_loader.dataset) + len(test_loader.dataset), ), dtype='int32')
 
         i = j = 0
-        for ids, imgs in tqdm(loader):
+        for ids, imgs in tqdm(train_loader):
+            imgs = imgs.clone().cuda()
+            out = net(imgs)
+
+            j = i + imgs.size(0)
+            features[i:j, :, :] = out.data.cpu().numpy().astype('float16')
+            coco_ids[i:j] = ids.numpy().astype('int32')
+            i = j
+
+        for ids, imgs in tqdm(test_loader):
             imgs = imgs.clone().cuda()
             out = net(imgs)
 

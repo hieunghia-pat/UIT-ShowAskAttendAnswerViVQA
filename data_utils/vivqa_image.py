@@ -3,7 +3,7 @@ import os
 from PIL import Image
 
 class ViVQAImages(data.Dataset):
-    """ Dataset for MSCOCO images located in a folder on the filesystem """
+    """ Dataset for ViVQA images located in a folder on the filesystem """
     def __init__(self, path, transform=None):
         super(ViVQAImages, self).__init__()
         self.path = path
