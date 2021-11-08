@@ -133,7 +133,7 @@ def main():
             if val_returned["F1"] > max_f1:
                 max_f1 = val_returned["F1"]
                 f1_test = test_returned["F1"]
-                torch.save(results, os.path.join(config.model_checkpoint, f"model_best_fold_{k+1}.pth"))
+                torch.save(results, os.path.join(config.model_checkpoint, f"model_best_stage_{k+1}.pth"))
 
         print(f"Finished for stage {k+1}. Best F1 score: {max_f1}. F1 score on test set: {f1_test}")
         print("="*31)

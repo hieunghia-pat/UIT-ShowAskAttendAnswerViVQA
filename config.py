@@ -20,7 +20,7 @@ output_features = 2048  # number of feature maps thereof
 central_fraction = 0.875  # only take this much of the centre when scaling and centre cropping
 
 # training config
-epochs = 50
+epochs = 30
 batch_size = 64
 initial_lr = 1e-3  # default Adam lr
 lr_halflife = 50000  # in iterations
