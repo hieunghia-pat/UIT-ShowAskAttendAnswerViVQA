@@ -13,7 +13,7 @@ task = 'OpenEnded'
 dataset = 'vivqa'
 
 # preprocess config
-preprocess_batch_size = 64
+preprocess_batch_size = 4
 image_size = (448, 448)  # scale shorter end of image to this size and centre crop
 output_size = image_size[0] // 32  # size of the feature maps after processing through a network
 output_features = 2048  # number of feature maps thereof
@@ -21,7 +21,7 @@ central_fraction = 0.875  # only take this much of the centre when scaling and c
 
 # training config
 epochs = 50
-batch_size = 2
+batch_size = 64
 initial_lr = 1e-3  # default Adam lr
 lr_halflife = 50000  # in iterations
 data_workers = 0

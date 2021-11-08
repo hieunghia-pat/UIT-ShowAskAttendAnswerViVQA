@@ -50,8 +50,6 @@ def run(net, loaders, optimizer, tracker, train=False, prefix='', epoch=0):
             q_len = q_len.cuda()
 
             out = net(v, q, q_len)
-            nll = -log_softmax(out)
-            loss = (nll * a / 10).sum(dim=1).mean()
             scores = metrics.get_scores(out.cpu(), a.cpu())
 
             if train:
@@ -59,10 +57,14 @@ def run(net, loaders, optimizer, tracker, train=False, prefix='', epoch=0):
                 update_learning_rate(optimizer, total_iterations)
 
                 optimizer.zero_grad()
+                nll = -log_softmax(out)
+                loss = (nll * a / 10).sum(dim=1).mean()
                 loss.backward()
                 optimizer.step()
 
                 total_iterations += 1
+            else:
+                loss = 0
 
             loss_tracker.append(loss.item())
             acc_tracker.append(scores["accuracy"])
