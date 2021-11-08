@@ -109,7 +109,7 @@ class Vocab(object):
 
     def _decode_question(self, question_vecs):
         questions = []
-        for vec in question_vecs.cpu():
+        for vec in question_vecs:
             questions.append(" ".join([self.itos[idx] for idx in vec.tolist() if idx > 0]))
 
         return questions

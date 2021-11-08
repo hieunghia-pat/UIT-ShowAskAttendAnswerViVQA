@@ -5,11 +5,14 @@ from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_sc
 from tqdm import tqdm
 
 class Metrics(object):
-    def __init__(self):
-        pass
+    def __init__(self, vocab):
+        self.vocab = vocab
 
     def get_scores(self, predicted, true):
         """ Compute the accuracies, precision, recall and F1 score for a batch of predictions and answers """
+
+        predicted = self.vocab._decode_answer(predicted)
+        true = self.vocab._decode_answer(true)
 
         acc = accuracy_score(true, predicted)
         pre = precision_score(true, predicted, average="micro")

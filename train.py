@@ -51,7 +51,7 @@ def run(net, loaders, optimizer, tracker, train=False, prefix='', epoch=0):
             q_len = q_len.cuda()
 
             out = net(v, q, q_len)
-            scores = metrics.get_scores(loader.dataset.vocab._decode_answer(out.cpu()), loader.dataset.vocab._decode_answer(a.cpu()))
+            scores = metrics.get_scores(out.cpu(), a.cpu())
 
             if train:
                 global total_iterations
