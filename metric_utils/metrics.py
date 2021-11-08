@@ -5,7 +5,7 @@ from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_sc
 from tqdm import tqdm
 
 class Metrics(object):
-    def __init__(self, vocab):
+    def __init__(self, vocab=None):
         self.vocab = vocab
 
     def get_scores(self, predicted, true):
