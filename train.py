@@ -89,8 +89,7 @@ def main():
     cudnn.benchmark = True
 
     train_dataset = ViVQA(config.json_train_path, config.preprocessed_path)
-    test_dataset = ViVQA(config.json_test_path, config.preprocessed_path)
-    folds, test_fold = get_loader(train_dataset, test_dataset)
+    folds= get_loader(train_dataset)
     k_fold = len(folds) - 1
 
     for k in range(k_fold):
@@ -102,11 +101,9 @@ def main():
         config_as_dict = {k: v for k, v in vars(config).items() if not k.startswith('__')}
 
         max_f1 = 0 # for saving the best model
-        f1_test = 0
         for e in range(config.epochs):
             run(net, folds[:-1], optimizer, tracker, train=True, prefix='Training', epoch=e)
             val_returned = run(net, [folds[-1]], optimizer, tracker, train=False, prefix='Validation', epoch=e)
-            test_returned = run(net, [test_fold], optimizer, tracker, train=False, prefix='Evaluation', epoch=e)
 
             print("+"*13)
 
@@ -118,8 +115,7 @@ def main():
                     'accuracy': val_returned["accuracy"],
                     "precision": val_returned["precision"],
                     "recall": val_returned["recall"],
-                    "f1": val_returned["F1"],
-                    "f1_test": test_returned["F1"]
+                    "f1": val_returned["F1"]
                 },
                 'vocab': train_dataset.vocab,
             }
@@ -127,10 +123,9 @@ def main():
             torch.save(results, os.path.join(config.model_checkpoint, f"model_last_fold_{k+1}.pth"))
             if val_returned["F1"] > max_f1:
                 max_f1 = val_returned["F1"]
-                f1_test = test_returned["F1"]
                 torch.save(results, os.path.join(config.model_checkpoint, f"model_best_fold_{k+1}.pth"))
 
-        print(f"Finished for stage {k+1}. Best F1 score: {max_f1}. F1 score on test: {f1_test}")
+        print(f"Finished for stage {k+1}. Best F1 score: {max_f1}.")
         print("="*13)
 
         # change roles of the folds

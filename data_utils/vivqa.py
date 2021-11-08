@@ -104,7 +104,7 @@ def collate_fn(batch):
     return data.dataloader.default_collate(batch)
 
 
-def get_loader(train_dataset, test_dataset):
+def get_loader(train_dataset):
     """ Returns a data loader for the desired split """
 
     fold_size = int(len(train_dataset) * 0.2)
@@ -122,12 +122,4 @@ def get_loader(train_dataset, test_dataset):
                 num_workers=config.data_workers,
                 collate_fn=collate_fn))
 
-    test_fold = torch.utils.data.DataLoader(
-                        test_dataset,
-                        batch_size=config.batch_size,
-                        shuffle=True,
-                        pin_memory=True,
-                        num_workers=config.data_workers,
-                        collate_fn=collate_fn)
-
-    return folds, test_fold
+    return folds
