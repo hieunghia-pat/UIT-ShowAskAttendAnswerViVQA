@@ -8,7 +8,7 @@ from tqdm import tqdm
 
 import config
 from data_utils.vivqa_image import ViVQAImages
-from data_utils import utils
+from data_utils.utils import get_transform
 
 
 class ResNet(nn.Module):
@@ -28,7 +28,7 @@ class ResNet(nn.Module):
 
 
 def create_vivqa_loader(path):
-    transform = utils.get_transform(config.image_size)
+    transform = get_transform(config.image_size)
     dataset = ViVQAImages(path, transform=transform)
     data_loader = torch.utils.data.DataLoader(
         dataset,
