@@ -99,7 +99,7 @@ def main():
 
     for k in range(k_fold):
         print(f"Stage {k+1}:")
-        net = nn.DataParallel(ASAA(train_dataset.num_tokens, len(train_dataset.output_cats))).cuda()
+        net = nn.DataParallel(ASAA(train_dataset.num_tokens, len(train_dataset.vocab.output_cats))).cuda()
         optimizer = optim.Adam([p for p in net.parameters() if p.requires_grad])
 
         tracker = Tracker()

@@ -31,10 +31,6 @@ class ViVQA(data.Dataset):
         return self._max_length + 2
 
     @property
-    def output_cats(self):
-        return list(set(self.answers))
-
-    @property
     def num_tokens(self):
         return len(self.vocab.stoi)
 
