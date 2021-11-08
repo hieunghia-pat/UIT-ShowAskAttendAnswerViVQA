@@ -3,12 +3,10 @@ import re
 
 def preprocess_question(question):
     question = question.lower().strip().split()
-    question = re.sub("\"", "", question)
     return ["<sos>"] + question + ["<eos>"]
 
 def preprocess_answer(answer):
     answer = re.sub(" ", "_", answer.strip()).lower()
-    answer = re.sub("\"", "", answer)
     return answer
 
 def get_transform(target_size):
