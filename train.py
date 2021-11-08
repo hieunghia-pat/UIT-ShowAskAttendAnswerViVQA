@@ -64,7 +64,7 @@ def run(net, loaders, optimizer, tracker, train=False, prefix='', epoch=0):
 
                 total_iterations += 1
             else:
-                loss = 0
+                loss = np.array(0)
 
             loss_tracker.append(loss.item())
             acc_tracker.append(scores["accuracy"])
