@@ -24,7 +24,6 @@ def update_learning_rate(optimizer, iteration):
 
 
 total_iterations = 0
-metrics = Metrics()
 
 def run(net, loaders, optimizer, tracker, train=False, prefix='', epoch=0):
     """ Run an epoch over the given loader """
@@ -91,6 +90,7 @@ def main():
 
     vocab = Vocab([config.json_train_path, config.json_test_path], 
                             specials=["<pad>", "<sos", "<eos>"])
+    metrics = Metrics(vocab)
     train_dataset = ViVQA(config.json_train_path, config.preprocessed_path, vocab)
     test_dataset = ViVQA(config.json_test_path, config.preprocessed_path, vocab)
     folds, test_fold = get_loader(train_dataset, test_dataset)
