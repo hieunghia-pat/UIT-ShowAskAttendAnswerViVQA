@@ -1,0 +1,3001 @@
+481120 - <sos> cái kéo và hạt màu xanh lá cây để ở đâu <eos> --> bát
+147616 - <sos> toa tàu với hình vẽ trên đó dừng lại ở đâu <eos> --> trạm
+509054 - <sos> người phụ nữ lấy một bức ảnh của mình ở đâu <eos> --> gương
+300047 - <sos> màu sắc của những con chim là gì <eos> --> màu_đen
+562830 - <sos> người phụ nữ đang chụp ảnh ở đâu <eos> --> gương
+149810 - <sos> màu sắc của bộ đồ lặn là gì <eos> --> màu_đen
+342709 - <sos> màu sắc của các tính năng là gì <eos> --> màu_đen
+453397 - <sos> màu sắc của đồ đạc là gì <eos> --> màu_trắng
+271576 - <sos> hình ảnh hai con chó ở đâu <eos> --> con_thuyền
+17921 - <sos> hoa loa kèn được đặt ở đâu <eos> --> lọ_cắm_hoa
+204806 - <sos> màu sắc của đi bộ là gì <eos> --> màu_nâu
+480243 - <sos> cô gái đã mỉm cười ở đâu <eos> --> giường
+426985 - <sos> màu của đồ nội thất là gì <eos> --> màu_đen
+71964 - <sos> màu của con chó là gì <eos> --> màu_trắng
+367907 - <sos> màu của con bò là gì <eos> --> màu_đen
+369452 - <sos> màu của chiếc hộp là gì <eos> --> màu_cam
+16513 - <sos> màu của quá cảnh là gì <eos> --> màu_đỏ
+211811 - <sos> màu của mặt phẳng là gì <eos> --> màu_xám
+471278 - <sos> màu của sườn đồi là gì <eos> --> màu_xanh_lá
+370417 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+165559 - <sos> màu của điện thoại là gì <eos> --> màu_đỏ
+279503 - <sos> màu của hỗn hợp là gì <eos> --> màu_xanh_lá
+165172 - <sos> bàn chải đánh răng ở đâu <eos> --> ly
+163991 - <sos> màu của tòa án là gì <eos> --> màu_xanh_dương
+119923 - <sos> màu của nước ép là gì <eos> --> màu_cam
+114204 - <sos> màu của xe buýt là gì <eos> --> màu_đen
+332740 - <sos> màu của bồn tắm là gì <eos> --> màu_trắng
+351262 - <sos> màu của xe máy là gì <eos> --> màu_vàng
+284818 - <sos> bếp đặt ở đâu một mình <eos> --> phòng
+167431 - <sos> màu của băng ghế là gì <eos> --> màu_tía
+549725 - <sos> màu của cái tủ là gì <eos> --> màu_nâu
+331229 - <sos> màu của cánh đồng là gì <eos> --> màu_xanh_lá
+469834 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+149598 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+245846 - <sos> màu của chiếc ô là gì <eos> --> màu_vàng
+470970 - <sos> màu của con chó là gì <eos> --> màu_nâu
+351298 - <sos> màu của xe máy là gì <eos> --> màu_đen
+534980 - <sos> màu của áo khoác là gì <eos> --> màu_xanh_lá
+308686 - <sos> màu của cái tủ là gì <eos> --> màu_xanh_dương
+67331 - <sos> màu của áo khoác là gì <eos> --> màu_cam
+346084 - <sos> màu sắc của váy là gì <eos> --> màu_đen
+201168 - <sos> đồng hồ lớn treo ở đâu <eos> --> tòa_nhà
+254139 - <sos> màu của cà vạt là gì <eos> --> màu_đỏ
+38022 - <sos> màu của xe là gì <eos> --> màu_xanh_lá
+531289 - <sos> màu của bánh là gì <eos> --> màu_vàng
+514204 - <sos> màu của cỏ là gì <eos> --> màu_đen
+79069 - <sos> màu của lửa là gì <eos> --> màu_xanh_lá
+20809 - <sos> màu của ghế là gì <eos> --> màu_cam
+354546 - <sos> màu của cát là gì <eos> --> màu_trắng
+181990 - <sos> màu của cầu là gì <eos> --> màu_tía
+89369 - <sos> màu của áo là gì <eos> --> màu_xám
+223560 - <sos> màu của máng là gì <eos> --> màu_xanh_lá
+343211 - <sos> màu của áo là gì <eos> --> màu_trắng
+301888 - <sos> màu của quầy là gì <eos> --> màu_vàng
+223950 - <sos> màu của gấu là gì <eos> --> màu_nâu
+74901 - <sos> màu của chuối là gì <eos> --> màu_xanh_lá
+440347 - <sos> màu của quần là gì <eos> --> màu_đen
+548118 - <sos> người phụ nữ ở đâu <eos> --> phòng_bếp
+35033 - <sos> màu của rủ là gì <eos> --> màu_đỏ
+207686 - <sos> màu của tường là gì <eos> --> màu_trắng
+178812 - <sos> màu của chảo là gì <eos> --> màu_xanh_dương
+103236 - <sos> bồn tiểu ở đâu <eos> --> phòng_tắm
+150821 - <sos> màu tóc là gì <eos> --> màu_xám
+233379 - <sos> màu mắt là gì <eos> --> màu_vàng
+353237 - <sos> đâu là em bé được tặng một chiếc bánh sinh nhật với một ngọn nến `` 1 '' <eos> --> cái_ghế
+111281 - <sos> hai cô gái đang ở đâu khi một trong số họ chụp ảnh <eos> --> gương
+402113 - <sos> người đàn ông trong một bộ đồ đứng ở đâu <eos> --> ô_cửa
+488373 - <sos> hai đứa trẻ chuẩn bị ăn một bữa ở đâu <eos> --> phòng
+141496 - <sos> phòng tắm trắng đẹp được phản chiếu ở đâu <eos> --> gương
+294934 - <sos> bếp trắng cổ điển đang nằm ở đâu <eos> --> phòng_bếp
+542338 - <sos> màu sắc của chiếc xe đẩy là gì <eos> --> màu_đỏ
+359565 - <sos> những bông hoa nhỏ được đặt ở đâu <eos> --> chai
+473018 - <sos> màu sắc của bông hoa là gì <eos> --> màu_tía
+396871 - <sos> màu sắc của trang phục là gì <eos> --> màu_đen
+211678 - <sos> màu sắc của trang phục là gì <eos> --> màu_xanh_dương
+133482 - <sos> màu sắc của đồng phục là gì <eos> --> màu_đỏ
+200548 - <sos> màu sắc của đồ đạc là gì <eos> --> màu_trắng
+133788 - <sos> màu sắc của hành lý là gì <eos> --> màu_đỏ
+424138 - <sos> màu của con bò là gì <eos> --> màu_đen
+200560 - <sos> màu của máy bay là gì <eos> --> màu_xám
+256189 - <sos> màu của hoa hồng là gì <eos> --> màu_vàng
+42418 - <sos> màu của tòa án là gì <eos> --> màu_xanh_lá
+476103 - <sos> màu của ánh sáng là gì <eos> --> màu_xanh_dương
+226294 - <sos> màu của dĩa nhựa là gì <eos> --> màu_vàng
+463430 - <sos> màu của con chim là gì <eos> --> màu_đen
+479944 - <sos> màu của thời gian là gì <eos> --> màu_vàng
+541944 - <sos> màu của dĩa nhựa là gì <eos> --> màu_đỏ
+8747 - <sos> màu của bàn chải là gì <eos> --> màu_vàng
+493717 - <sos> màu của xe máy là gì <eos> --> màu_cam
+214460 - <sos> màu của chiếc ô là gì <eos> --> màu_cam
+518052 - <sos> màu của dĩa nhựa là gì <eos> --> màu_xanh_lá
+523749 - <sos> màu của con mèo là gì <eos> --> màu_cam
+358384 - <sos> màu của hàng rào là gì <eos> --> màu_xanh_lá
+240405 - <sos> màu của con chó là gì <eos> --> màu_xám
+266310 - <sos> màu của thằn lằn là gì <eos> --> màu_xanh_lá
+520181 - <sos> màu của sương mù là gì <eos> --> màu_xám
+2148 - <sos> màu của vòi nước là gì <eos> --> màu_đỏ
+87338 - <sos> con chó nhỏ đang ở đâu <eos> --> lò_vi_sóng
+427120 - <sos> màu của dấu hiệu là gì <eos> --> màu_đỏ
+323230 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+360975 - <sos> màu của con chim là gì <eos> --> màu_xám
+218982 - <sos> màu của tòa nhà là gì <eos> --> màu_tía
+254197 - <sos> ba quả chanh nằm ở đâu <eos> --> bát
+131832 - <sos> món gà tây sống ở đâu <eos> --> lò_vi_sóng
+481847 - <sos> màu của con bò là gì <eos> --> màu_đen
+425072 - <sos> màu của chiếc tàu là gì <eos> --> màu_đỏ
+354955 - <sos> màu của bình hoa là gì <eos> --> màu_vàng
+282039 - <sos> màu của con chó là gì <eos> --> màu_trắng
+313334 - <sos> màu của cái bát là gì <eos> --> màu_trắng
+328888 - <sos> những con gấu bông ở đâu <eos> --> cái_rổ
+108407 - <sos> màu của cà vạt là gì <eos> --> màu_tía
+540110 - <sos> màu của xe tải là gì <eos> --> màu_xám
+77989 - <sos> màu của mặt phẳng là gì <eos> --> màu_trắng
+96157 - <sos> màu của chiếc hộp là gì <eos> --> màu_xám
+315462 - <sos> màu của xe máy là gì <eos> --> màu_cam
+117931 - <sos> con mèo đen nằm ở đâu <eos> --> chậu
+571646 - <sos> màu của con chim là gì <eos> --> màu_xám
+125213 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+49096 - <sos> nhiều bát súp nằm ở đâu <eos> --> quán_ăn
+438314 - <sos> màu của bìa là gì <eos> --> màu_cam
+105110 - <sos> màu của áo là gì <eos> --> màu_xám
+204806 - <sos> màu của gấu là gì <eos> --> màu_nâu
+491845 - <sos> màu của vali là gì <eos> --> màu_đen
+8999 - <sos> màu của bàn là gì <eos> --> màu_trắng
+79111 - <sos> màu của táo là gì <eos> --> màu_xanh_lá
+412563 - <sos> màu của tường là gì <eos> --> màu_tía
+64954 - <sos> màu của bánh là gì <eos> --> màu_trắng
+267022 - <sos> màu của ghế là gì <eos> --> màu_vàng
+464650 - <sos> người phụ nữ đang sử dụng một công cụ ktichen để tạo ra thứ gì đó ở đâu <eos> --> bát
+290511 - <sos> màu sắc của các dấu hiệu là gì <eos> --> màu_xanh_lá
+372390 - <sos> màu sắc của bãi đậu xe là gì <eos> --> màu_xám
+572341 - <sos> người phụ nữ đang cưỡi ngựa ở đâu <eos> --> phòng
+48943 - <sos> máy bay màu xanh đang đỗ ở đâu <eos> --> ga-ra
+102923 - <sos> màu sắc của người đi làm là gì <eos> --> màu_vàng
+236769 - <sos> màu sắc của các ngôi sao là gì <eos> --> màu_trắng
+535448 - <sos> màu sắc của tủ quần áo là gì <eos> --> màu_nâu
+146573 - <sos> màu sắc của những con ngựa là gì <eos> --> màu_nâu
+494637 - <sos> màu sắc của những con ngựa là gì <eos> --> màu_trắng
+222970 - <sos> màu của vật trang trí là gì <eos> --> màu_cam
+404739 - <sos> tàu sắt anh đang đợi ở đâu <eos> --> trạm
+229653 - <sos> người phụ nữ nghỉ ngơi ở đâu <eos> --> giường
+304040 - <sos> màu của chiếc tàu là gì <eos> --> màu_đỏ
+123764 - <sos> màu của con ngựa là gì <eos> --> màu_trắng
+408303 - <sos> màu của ánh sáng là gì <eos> --> màu_đỏ
+557648 - <sos> màu của viên đạn là gì <eos> --> màu_vàng
+438315 - <sos> màu của bồn rửa là gì <eos> --> màu_trắng
+226145 - <sos> màu của bàn tay là gì <eos> --> màu_trắng
+407967 - <sos> màu của chiếc bình là gì <eos> --> màu_đen
+452652 - <sos> màu của tấm thảm là gì <eos> --> màu_đỏ
+569347 - <sos> màu của áo choàng là gì <eos> --> màu_cam
+21151 - <sos> màu của bánh răng là gì <eos> --> màu_đen
+482392 - <sos> màu của con chó là gì <eos> --> màu_nâu
+542946 - <sos> màu của con mèo là gì <eos> --> màu_đen
+165531 - <sos> màu của lướt sóng là gì <eos> --> màu_đen
+201000 - <sos> màu của hàng rào là gì <eos> --> màu_cam
+423826 - <sos> màu của con chó là gì <eos> --> màu_nâu
+374832 - <sos> màu của con chó là gì <eos> --> màu_nâu
+551015 - <sos> màu của thuyền buồm là gì <eos> --> màu_cam
+439779 - <sos> màu của con mèo là gì <eos> --> màu_đen
+438180 - <sos> màu của máy bay là gì <eos> --> màu_xám
+222056 - <sos> màu của hoa cúc là gì <eos> --> màu_tía
+548935 - <sos> màu sắc của đội là gì <eos> --> màu_trắng
+430521 - <sos> màu của cà vạt là gì <eos> --> màu_đỏ
+188457 - <sos> màu của chiếc bình là gì <eos> --> màu_đỏ
+5256 - <sos> màu của xe máy là gì <eos> --> màu_đỏ
+323646 - <sos> màu của bộ đồ là gì <eos> --> màu_nâu
+451535 - <sos> màu của phòng tắm là gì <eos> --> màu_trắng
+78667 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+443377 - <sos> màu của chiếc tàu là gì <eos> --> màu_vàng
+27739 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+313983 - <sos> màu của hàng rào là gì <eos> --> màu_trắng
+306718 - <sos> màu của bầu trời là gì <eos> --> màu_xám
+69383 - <sos> màu sắc của cực là gì <eos> --> màu_xanh_dương
+65191 - <sos> cậu bé đang ngồi ở đâu <eos> --> trạm
+373830 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+216480 - <sos> màu của ghế là gì <eos> --> màu_xám
+502665 - <sos> màu của gạch là gì <eos> --> màu_trắng
+329350 - <sos> màu của giỏ là gì <eos> --> màu_đỏ
+330808 - <sos> màu của tường là gì <eos> --> màu_nâu
+14774 - <sos> màu của cây là gì <eos> --> màu_xanh_lá
+72266 - <sos> màu của áo là gì <eos> --> màu_xanh_dương
+300123 - <sos> màu của gấu là gì <eos> --> màu_nâu
+430710 - <sos> màu của tường là gì <eos> --> màu_tía
+518455 - <sos> màu của gấu là gì <eos> --> màu_trắng
+123646 - <sos> màu của bàn là gì <eos> --> màu_nâu
+429946 - <sos> hai ô đóng ở đâu <eos> --> sân
+188511 - <sos> màu của tường là gì <eos> --> màu_cam
+534130 - <sos> màu của bếp là gì <eos> --> màu_đen
+470028 - <sos> màu của xe là gì <eos> --> màu_đỏ
+565459 - <sos> màu của diều là gì <eos> --> màu_vàng
+507067 - <sos> màu của bảng là gì <eos> --> màu_xanh_lá
+469137 - <sos> ở đâu <eos> --> vườn_bách_thú
+175883 - <sos> em bé đang giữ một món đồ chơi nhồi bông ở đâu <eos> --> giường
+27190 - <sos> những người đang nhìn vào sản phẩm tươi sống ở đâu <eos> --> cửa_hàng
+552199 - <sos> cặp đôi đang chuẩn bị một bữa tối lớn ở đâu <eos> --> phòng_bếp
+529376 - <sos> người phụ nữ đang chuẩn bị thức ăn ở đâu <eos> --> phòng_bếp
+381509 - <sos> cậu bé đang cưỡi một bảng trượt băng ở đâu <eos> --> tòa_nhà
+168500 - <sos> con chó điều tra vòi hoa sen ở đâu <eos> --> phòng_tắm
+20030 - <sos> màu của bàn chải đánh răng là gì <eos> --> màu_xanh_lá
+542541 - <sos> màu sắc của xe cứu hỏa là gì <eos> --> màu_đỏ
+517690 - <sos> pizza đưa vào đâu trên giá kim loại <eos> --> lò_vi_sóng
+579925 - <sos> một quả bóng chày được đánh ở đâu <eos> --> sân_vận_động
+446436 - <sos> màu sắc của chiếc váy là gì <eos> --> màu_cam
+346566 - <sos> màu sắc của bông hoa là gì <eos> --> màu_vàng
+250720 - <sos> màu của nhà vệ sinh là gì <eos> --> màu_nâu
+96154 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+465814 - <sos> màu của chiếc tàu là gì <eos> --> màu_xám
+167622 - <sos> màu của vòi nước là gì <eos> --> màu_tía
+44215 - <sos> màu của kim loại là gì <eos> --> màu_trắng
+566016 - <sos> màu của con mèo là gì <eos> --> màu_đen
+465495 - <sos> màu của con mèo là gì <eos> --> màu_cam
+445143 - <sos> màu của bàn chải là gì <eos> --> màu_đen
+505629 - <sos> màu của con chó là gì <eos> --> màu_nâu
+10222 - <sos> màu của dấu hiệu là gì <eos> --> màu_xanh_lá
+183171 - <sos> màu của chiếc đĩa là gì <eos> --> màu_xanh_dương
+429460 - <sos> màu của con mèo là gì <eos> --> màu_xám
+209106 - <sos> màu của chiếc thuyền là gì <eos> --> màu_vàng
+106269 - <sos> màu của con mèo là gì <eos> --> màu_xám
+328119 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+497731 - <sos> màu của dấu hiệu là gì <eos> --> màu_đỏ
+83151 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+239586 - <sos> màu của cà vạt là gì <eos> --> màu_xám
+513900 - <sos> màu của dĩa nhựa là gì <eos> --> màu_xanh_dương
+288025 - <sos> màu của điểm dừng là gì <eos> --> màu_đỏ
+219413 - <sos> màu của ghế sofa là gì <eos> --> màu_nâu
+461917 - <sos> màu của xe tải là gì <eos> --> màu_xám
+87123 - <sos> màu của bông hoa là gì <eos> --> màu_tía
+512190 - <sos> màu của cà vạt là gì <eos> --> màu_trắng
+294080 - <sos> màu của cái bát là gì <eos> --> màu_trắng
+154916 - <sos> màu của điện thoại là gì <eos> --> màu_đỏ
+402373 - <sos> màu của xe tải là gì <eos> --> màu_xanh_lá
+338197 - <sos> màu của dĩa nhựa là gì <eos> --> màu_trắng
+492698 - <sos> màu của con chó là gì <eos> --> màu_trắng
+473018 - <sos> màu của chiếc bình là gì <eos> --> màu_tía
+394359 - <sos> màu của bầu trời là gì <eos> --> màu_vàng
+109148 - <sos> màu của con mèo là gì <eos> --> màu_trắng
+213536 - <sos> màu của bầu trời là gì <eos> --> màu_xám
+17890 - <sos> hai con cừu đang ở đâu <eos> --> ô_cửa
+192747 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+520422 - <sos> màu của cỏ khô là gì <eos> --> màu_xanh_lá
+316477 - <sos> màu của dĩa nhựa là gì <eos> --> màu_tía
+318225 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+557101 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+135576 - <sos> màu của khay là gì <eos> --> màu_đỏ
+127495 - <sos> màu của bếp là gì <eos> --> màu_trắng
+58245 - <sos> màu của kính là gì <eos> --> màu_xanh_dương
+426143 - <sos> màu của tường là gì <eos> --> màu_tía
+498651 - <sos> màu của áo là gì <eos> --> màu_xanh_dương
+32720 - <sos> màu của áo là gì <eos> --> màu_đen
+534412 - <sos> màu của áo là gì <eos> --> màu_trắng
+390797 - <sos> màu của chuối là gì <eos> --> màu_vàng
+426538 - <sos> màu của cỏ là gì <eos> --> màu_cam
+101245 - <sos> màu của túi là gì <eos> --> màu_nâu
+483837 - <sos> màu của gạo là gì <eos> --> màu_trắng
+213141 - <sos> màu của gấu là gì <eos> --> màu_đen
+95948 - <sos> đoàn tàu dừng ở đâu <eos> --> trạm
+462129 - <sos> những người phụ nữ mặc một chiếc áo khoác màu đỏ ở đâu <eos> --> vạch_kẻ_đường
+350254 - <sos> người đàn ông lớn tuổi đi trượt ván ở đâu <eos> --> đường_phố
+299933 - <sos> con mèo và một con mèo nhồi bông ở đâu <eos> --> cái_ghế
+357385 - <sos> người đàn ông đang ăn bánh cupcake ở đâu <eos> --> văn_phòng
+284020 - <sos> nhà vệ sinh cần được dọn dẹp ở đâu <eos> --> phòng_tắm
+394970 - <sos> màu sắc của các tòa nhà là gì <eos> --> màu_đỏ
+163829 - <sos> màu của máy tính xách tay là gì <eos> --> màu_đen
+182505 - <sos> hai chàng trai đang làm việc ở đâu <eos> --> quán_ăn
+104756 - <sos> màu sắc của bông cải xanh là gì <eos> --> màu_xanh_lá
+101215 - <sos> màu sắc của người phụ nữ là gì <eos> --> màu_trắng
+214932 - <sos> màu của máy bay phản lực là gì <eos> --> màu_xám
+131547 - <sos> màu của nhà vệ sinh là gì <eos> --> màu_trắng
+351591 - <sos> màu sắc của bông hoa là gì <eos> --> màu_xanh_lá
+210322 - <sos> màu của nhà vệ sinh là gì <eos> --> màu_trắng
+32544 - <sos> màu sắc của chiếc váy là gì <eos> --> màu_đen
+425497 - <sos> màu của ván trượt tuyết là gì <eos> --> màu_xanh_dương
+72605 - <sos> con mèo lông xám ngồi ở đâu <eos> --> chậu
+533826 - <sos> con mèo cuộn tròn ngủ ở đâu <eos> --> bát
+187213 - <sos> màu sắc của bông hoa là gì <eos> --> màu_tía
+193759 - <sos> màu sắc của bông hoa là gì <eos> --> màu_vàng
+422375 - <sos> người đàn ông chụp ảnh ở đâu <eos> --> gương
+469667 - <sos> màu của chiếc ghế dài là gì <eos> --> màu_đen
+327324 - <sos> màu sắc của bông hoa là gì <eos> --> màu_trắng
+465229 - <sos> màu sắc của áo khoác là gì <eos> --> màu_đen
+462565 - <sos> nhóm người đi xe đạp ở đâu <eos> --> đường
+79689 - <sos> người đàn ông đang ngồi ở đâu <eos> --> cái_ghế
+256855 - <sos> màu sắc của quần vợt là gì <eos> --> màu_xám
+292973 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+309087 - <sos> thức uống được chứa ở đâu <eos> --> tủ_đá
+411253 - <sos> màu của dấu hiệu là gì <eos> --> màu_vàng
+401232 - <sos> màu của chiếc đĩa là gì <eos> --> màu_trắng
+540943 - <sos> màu của thuyền chèo là gì <eos> --> màu_nâu
+83986 - <sos> màu của tòa nhà là gì <eos> --> màu_xám
+183330 - <sos> màu của chiếc ô là gì <eos> --> màu_đỏ
+365703 - <sos> màu của con voi là gì <eos> --> màu_xám
+553976 - <sos> màu của vòi nước là gì <eos> --> màu_đỏ
+345167 - <sos> màu của máy kéo là gì <eos> --> màu_đỏ
+130553 - <sos> màu của xe máy là gì <eos> --> màu_đỏ
+492040 - <sos> ba người nói chuyện ở đâu <eos> --> phòng_bếp
+227418 - <sos> màu của xe tải là gì <eos> --> màu_đỏ
+109738 - <sos> màu của xe tải là gì <eos> --> màu_đỏ
+150562 - <sos> màu của thiên nga là gì <eos> --> màu_trắng
+350592 - <sos> màu của băng ghế là gì <eos> --> màu_xanh_dương
+149143 - <sos> màu sắc của giày là gì <eos> --> màu_đen
+463655 - <sos> màu của chiếc thuyền là gì <eos> --> màu_xanh_lá
+68764 - <sos> màu của đồng hồ là gì <eos> --> màu_xám
+394970 - <sos> màu của xe tải là gì <eos> --> màu_vàng
+230109 - <sos> màu của chiếc giường là gì <eos> --> màu_tía
+498165 - <sos> màu của gấu bông là gì <eos> --> màu_nâu
+190580 - <sos> màu của con mèo là gì <eos> --> màu_đen
+105134 - <sos> màu của động vật là gì <eos> --> màu_đen
+538916 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+59906 - <sos> màu của quầy là gì <eos> --> màu_xanh_dương
+407751 - <sos> màu của cỏ là gì <eos> --> màu_nâu
+98739 - <sos> màu của giấy là gì <eos> --> màu_nâu
+314949 - <sos> màu của gấu là gì <eos> --> màu_nâu
+83566 - <sos> màu của mỏ là gì <eos> --> màu_cam
+191264 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+37024 - <sos> màu của vali là gì <eos> --> màu_xanh_dương
+215135 - <sos> màu của bếp là gì <eos> --> màu_trắng
+239728 - <sos> màu của cỏ là gì <eos> --> màu_xanh_lá
+131731 - <sos> màu của gấu là gì <eos> --> màu_đen
+550410 - <sos> màu của đĩa là gì <eos> --> màu_xanh_dương
+569356 - <sos> xe tay ga ở đâu <eos> --> ga-ra
+344298 - <sos> người phụ nữ và một đứa trẻ phản chiếu từ đâu <eos> --> gương
+283615 - <sos> người phụ nữ làm việc bên cạnh cô ấy ở đâu <eos> --> phòng_bếp
+366897 - <sos> cặp vợ chồng đang chơi trò chơi điện tử ở đâu <eos> --> phòng
+572474 - <sos> bánh rán xanh và các món khác đãi ở đâu <eos> --> hộp
+478080 - <sos> người đang cầm một hotdog bao bọc bằng gì <eos> --> giấy_bạc
+82255 - <sos> màu sắc của người đàn ông là gì <eos> --> màu_xám
+139275 - <sos> màu của bàn chải đánh răng là gì <eos> --> màu_xanh_dương
+145411 - <sos> màu sắc của các dấu hiệu là gì <eos> --> màu_xanh_dương
+209851 - <sos> màu sắc của thung lũng là gì <eos> --> màu_xanh_lá
+75954 - <sos> màu sắc của khai thác là gì <eos> --> màu_tía
+339597 - <sos> trẻ em đang đánh răng ở đâu <eos> --> nhà_vệ_sinh
+274759 - <sos> màu của điểm đánh dấu là gì <eos> --> màu_cam
+452859 - <sos> màu sắc của công viên là gì <eos> --> màu_xanh_lá
+360528 - <sos> màu sắc của xe buýt là gì <eos> --> màu_đỏ
+104756 - <sos> màu sắc của cái thớt là gì <eos> --> màu_nâu
+439241 - <sos> màu của nhà vệ sinh là gì <eos> --> màu_trắng
+180086 - <sos> màu của ngôi nhà là gì <eos> --> màu_trắng
+381047 - <sos> màu của con mèo là gì <eos> --> màu_nâu
+131833 - <sos> màu của con ngựa là gì <eos> --> màu_đen
+7367 - <sos> màu của cái bát là gì <eos> --> màu_xanh_dương
+167622 - <sos> màu của vòi nước là gì <eos> --> màu_tía
+378491 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+72605 - <sos> màu của con mèo là gì <eos> --> màu_xám
+231126 - <sos> màu của dĩa nhựa là gì <eos> --> màu_đỏ
+433387 - <sos> màu của áo khoác là gì <eos> --> màu_đen
+440885 - <sos> màu của quá cảnh là gì <eos> --> màu_vàng
+462767 - <sos> màu của con mèo là gì <eos> --> màu_trắng
+77569 - <sos> màu của dấu hiệu là gì <eos> --> màu_trắng
+415604 - <sos> màu của con mèo là gì <eos> --> màu_cam
+561891 - <sos> màu của bông hoa là gì <eos> --> màu_tía
+358781 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+163302 - <sos> màu của chiếc tàu là gì <eos> --> màu_vàng
+411849 - <sos> màu của chiếc tàu là gì <eos> --> màu_đen
+556207 - <sos> màu của chiếc thuyền là gì <eos> --> màu_xanh_lá
+324455 - <sos> màu của xe máy là gì <eos> --> màu_vàng
+15002 - <sos> màu của quần short là gì <eos> --> màu_xanh_dương
+5782 - <sos> màu của con chó là gì <eos> --> màu_trắng
+118673 - <sos> màu của chiếc bình là gì <eos> --> màu_xanh_lá
+9069 - <sos> màu của bàn phím là gì <eos> --> màu_trắng
+537213 - <sos> màu của con mèo là gì <eos> --> màu_cam
+561731 - <sos> màu của chiếc đĩa là gì <eos> --> màu_cam
+228915 - <sos> màu của con mèo là gì <eos> --> màu_xám
+81995 - <sos> màu của con ngựa là gì <eos> --> màu_đen
+130880 - <sos> hoa màu hồng lớn ở đâu <eos> --> lọ_cắm_hoa
+211449 - <sos> màu của xe máy là gì <eos> --> màu_xanh_dương
+238768 - <sos> màu của bông hoa là gì <eos> --> màu_tía
+299974 - <sos> màu của tường là gì <eos> --> màu_xanh_lá
+372660 - <sos> màu của lều là gì <eos> --> màu_xanh_dương
+44135 - <sos> màu của áo là gì <eos> --> màu_xanh_dương
+271395 - <sos> màu của xe là gì <eos> --> màu_đen
+350361 - <sos> màu của hồ là gì <eos> --> màu_xanh_dương
+367398 - <sos> người đàn ông ở đâu <eos> --> phòng_ngủ
+256214 - <sos> màu của tv là gì <eos> --> màu_xám
+432053 - <sos> hai nải chuối ở đâu <eos> --> bát
+550410 - <sos> màu của áo là gì <eos> --> màu_trắng
+81397 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+316826 - <sos> màu của chuối là gì <eos> --> màu_xanh_lá
+102620 - <sos> màu của bài là gì <eos> --> màu_xanh_lá
+291526 - <sos> màu của áo là gì <eos> --> màu_xám
+181104 - <sos> màu của tường là gì <eos> --> màu_đen
+416440 - <sos> màu của ghế là gì <eos> --> màu_nâu
+15809 - <sos> màu của sợi là gì <eos> --> màu_xanh_dương
+309660 - <sos> màu của gấu là gì <eos> --> màu_đen
+42705 - <sos> màu của xe là gì <eos> --> màu_trắng
+2197 - <sos> bồn rửa đôi ở đâu là một điều trị kép cho chủ nhà <eos> --> phòng_tắm
+308251 - <sos> cô gái trẻ với cánh tay bị bó đang ở đâu <eos> --> phòng_tắm
+574153 - <sos> nơi nào nhiều chuối treo trên trần nhà <eos> --> phòng
+357865 - <sos> nhà vệ sinh trắng đang đặt ở đâu <eos> --> phòng_tắm
+411208 - <sos> con chó nâu đang nằm ở đâu <eos> --> cái_ghế
+494351 - <sos> màu của nhà vệ sinh là gì <eos> --> màu_trắng
+103881 - <sos> màu sắc của trang phục là gì <eos> --> màu_xanh_lá
+541050 - <sos> màu của áo khoác nỉ là gì <eos> --> màu_nâu
+575469 - <sos> màu sắc của bông hoa là gì <eos> --> màu_tía
+395817 - <sos> người đàn ông đang nằm ở đâu <eos> --> giường
+264976 - <sos> một con mèo đang đứng ở đâu <eos> --> nhà_vệ_sinh
+60953 - <sos> màu của bầu trời là gì <eos> --> màu_xám
+564990 - <sos> màu của bàn phím là gì <eos> --> màu_đen
+193254 - <sos> màu của con mèo là gì <eos> --> màu_đen
+98210 - <sos> màu của xe buýt là gì <eos> --> màu_đỏ
+483089 - <sos> màu của dĩa nhựa là gì <eos> --> màu_xanh_lá
+344896 - <sos> màu của chiếc mũ là gì <eos> --> màu_tía
+192720 - <sos> người đàn ông đang ở đâu <eos> --> trạm
+479593 - <sos> màu của chiếc ô là gì <eos> --> màu_tía
+446783 - <sos> màu của ngôi nhà là gì <eos> --> màu_xanh_dương
+53975 - <sos> màu sắc của vali là gì <eos> --> màu_nâu
+324401 - <sos> màu của chiếc đĩa là gì <eos> --> màu_vàng
+70600 - <sos> màu của ô cửa là gì <eos> --> màu_đỏ
+523390 - <sos> màu của tủ lạnh là gì <eos> --> màu_trắng
+181649 - <sos> màu của gấu bông là gì <eos> --> màu_trắng
+442915 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+468086 - <sos> màu của con ngựa là gì <eos> --> màu_trắng
+23594 - <sos> màu của con chó là gì <eos> --> màu_đen
+531076 - <sos> màu của con mèo là gì <eos> --> màu_đen
+102923 - <sos> màu của chiếc tàu là gì <eos> --> màu_vàng
+19755 - <sos> màu của con bò là gì <eos> --> màu_đen
+531076 - <sos> màu của chiếc cặp là gì <eos> --> màu_đen
+379891 - <sos> màu của phòng ngủ là gì <eos> --> màu_tía
+68860 - <sos> màu của áo khoác là gì <eos> --> màu_đen
+135576 - <sos> màu của chiếc đĩa là gì <eos> --> màu_xanh_dương
+8944 - <sos> màu của xe máy là gì <eos> --> màu_xanh_lá
+50018 - <sos> màu của tủ lạnh là gì <eos> --> màu_đen
+267653 - <sos> màu của con mèo là gì <eos> --> màu_xám
+47944 - <sos> màu của gấu bông là gì <eos> --> màu_tía
+141257 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+524679 - <sos> màu của xe buýt là gì <eos> --> màu_tía
+444043 - <sos> màu của động vật là gì <eos> --> màu_trắng
+410561 - <sos> màu của chiếc mũ là gì <eos> --> màu_đỏ
+292030 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+105110 - <sos> màu của dĩa nhựa là gì <eos> --> màu_vàng
+328427 - <sos> màu của thời gian là gì <eos> --> màu_xanh_dương
+488406 - <sos> màu của lửa là gì <eos> --> màu_vàng
+517958 - <sos> màu của xe là gì <eos> --> màu_đỏ
+212514 - <sos> màu của cây là gì <eos> --> màu_xanh_lá
+143578 - <sos> màu của áo là gì <eos> --> màu_đen
+522611 - <sos> màu của gấu là gì <eos> --> màu_nâu
+11229 - <sos> màu của áo là gì <eos> --> màu_nâu
+429539 - <sos> màu của tường là gì <eos> --> màu_trắng
+520091 - <sos> màu của ghế là gì <eos> --> màu_nâu
+430654 - <sos> màu của áo là gì <eos> --> màu_đỏ
+160910 - <sos> màu của xe là gì <eos> --> màu_xám
+497600 - <sos> màu của ví là gì <eos> --> màu_nâu
+177922 - <sos> màu của tháp là gì <eos> --> màu_đỏ
+137745 - <sos> màu của lửa là gì <eos> --> màu_đỏ
+147290 - <sos> màu của tường là gì <eos> --> màu_vàng
+77003 - <sos> màu của áo là gì <eos> --> màu_đen
+126607 - <sos> màu của gấu là gì <eos> --> màu_nâu
+544279 - <sos> màu của gấu là gì <eos> --> màu_nâu
+133937 - <sos> màu tóc là gì <eos> --> màu_đỏ
+578519 - <sos> người phụ nữ và một đứa trẻ vuốt ve một con cừu ở đâu <eos> --> chuồng
+214852 - <sos> người đàn ông ở đâu trong khi mọi người xem anh ta <eos> --> lồng
+286778 - <sos> cậu bé nhỏ ở đâu trong bộ đồ ngủ <eos> --> giường
+447099 - <sos> màu sắc của sự phân tán là gì <eos> --> màu_cam
+14432 - <sos> con chim trắng lớn dính đầu ở đâu <eos> --> lò_vi_sóng
+132165 - <sos> màu sắc của những con chó là gì <eos> --> màu_nâu
+66444 - <sos> màu sắc của đồng phục là gì <eos> --> màu_đỏ
+432226 - <sos> màu của nhà vệ sinh là gì <eos> --> màu_trắng
+274116 - <sos> màu sắc của trang phục là gì <eos> --> màu_đỏ
+555013 - <sos> màu sắc của bông hoa là gì <eos> --> màu_xanh_dương
+135010 - <sos> màu của nhà vệ sinh là gì <eos> --> màu_trắng
+108914 - <sos> màu sắc của hành tây là gì <eos> --> màu_xanh_lá
+308812 - <sos> màu của sự cân bằng là gì <eos> --> màu_xám
+393412 - <sos> màu của xe tải nhỏ là gì <eos> --> màu_cam
+543264 - <sos> con mèo đang cuộn tròn ở đâu <eos> --> chậu
+490689 - <sos> màu sắc của đôi giày là gì <eos> --> màu_xanh_dương
+466671 - <sos> màu của bông hoa là gì <eos> --> màu_tía
+355270 - <sos> màu của bông hoa là gì <eos> --> màu_vàng
+61780 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+403424 - <sos> màu của chiếc bình là gì <eos> --> màu_cam
+272670 - <sos> màu của nước ép là gì <eos> --> màu_cam
+186268 - <sos> màu của chiếc đĩa là gì <eos> --> màu_xanh_lá
+461361 - <sos> màu của chiếc đĩa là gì <eos> --> màu_xanh_dương
+541109 - <sos> màu của con mèo là gì <eos> --> màu_xám
+260167 - <sos> màu của chiếc cặp là gì <eos> --> màu_vàng
+235410 - <sos> màu của nước ép là gì <eos> --> màu_cam
+265831 - <sos> màu của vùng đất là gì <eos> --> màu_xanh_lá
+551050 - <sos> màu của xe tải là gì <eos> --> màu_đỏ
+327726 - <sos> màu của tấm thảm là gì <eos> --> màu_đỏ
+433968 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+4571 - <sos> màu của băng ghế là gì <eos> --> màu_đỏ
+326583 - <sos> màu của xe buýt là gì <eos> --> màu_đỏ
+427732 - <sos> màu của dấu chấm là gì <eos> --> màu_xanh_dương
+101822 - <sos> màu của chiếc ô là gì <eos> --> màu_đen
+500677 - <sos> màu của lớp lót là gì <eos> --> màu_nâu
+373653 - <sos> màu của xe buýt là gì <eos> --> màu_trắng
+377177 - <sos> màu của lớp phủ là gì <eos> --> màu_trắng
+166750 - <sos> màu của xe đạp là gì <eos> --> màu_tía
+29671 - <sos> màu của vòi nước là gì <eos> --> màu_vàng
+263685 - <sos> đứa trẻ nhỏ đang ở đâu <eos> --> giường
+47944 - <sos> màu của cuốn sách là gì <eos> --> màu_vàng
+365536 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+164381 - <sos> nhóm người đang ngồi ở đâu <eos> --> phòng
+38827 - <sos> màu của con chó là gì <eos> --> màu_nâu
+446307 - <sos> màu của chiếc tàu là gì <eos> --> màu_vàng
+525633 - <sos> màu của sườn đồi là gì <eos> --> màu_xanh_lá
+66283 - <sos> màu của mặt trước là gì <eos> --> màu_trắng
+445774 - <sos> màu của cà vạt là gì <eos> --> màu_xanh_lá
+478314 - <sos> màu của dòng kẻ là gì <eos> --> màu_tía
+318467 - <sos> màu của con chó là gì <eos> --> màu_nâu
+554994 - <sos> màu của bầu trời là gì <eos> --> màu_tía
+556306 - <sos> màu sắc của uống là gì <eos> --> màu_tía
+414647 - <sos> màu của xe đạp là gì <eos> --> màu_xanh_lá
+394483 - <sos> màu của áo là gì <eos> --> màu_xanh_dương
+41938 - <sos> màu của gấu là gì <eos> --> màu_nâu
+176758 - <sos> màu của chuối là gì <eos> --> màu_xanh_lá
+226461 - <sos> màu của gấu là gì <eos> --> màu_đen
+152038 - <sos> màu của dấu là gì <eos> --> màu_xanh_dương
+6715 - <sos> màu của bảng là gì <eos> --> màu_cam
+439940 - <sos> màu của gấu là gì <eos> --> màu_đen
+107836 - <sos> màu của chuối là gì <eos> --> màu_xanh_lá
+181776 - <sos> màu của xe là gì <eos> --> màu_đen
+147782 - <sos> màu của nền là gì <eos> --> màu_đen
+220463 - <sos> màu của áo là gì <eos> --> màu_đen
+237064 - <sos> người đàn ông đang đi bộ bên ngoài gần xe buýt và tòa nhà ở đâu <eos> --> đường
+546473 - <sos> những ván trượt trẻ em này đang thể hiện thiết bị của họ ở đâu <eos> --> đường_phố
+418770 - <sos> con bê nằm ở đâu khi mọi người tụ tập bên ngoài để nhìn <eos> --> chuồng
+299712 - <sos> một số gà cam và bông cải xanh ở đâu <eos> --> bát
+156739 - <sos> cửa mở ở đâu để lộ một nhà vệ sinh <eos> --> phòng
+459921 - <sos> người đứng ở đâu trong khi chụp ảnh tự sướng <eos> --> phòng_tắm
+470046 - <sos> hai người đàn ông đang nhìn lửa ở đâu <eos> --> lò_vi_sóng
+202004 - <sos> con ngựa kéo một chiếc xe lôi ở đâu <eos> --> đường_phố
+221894 - <sos> có nhiều loại rau và trái cây ở đâu <eos> --> bát
+158099 - <sos> xe lửa đỏ và trắng đậu ở đâu <eos> --> trạm
+342618 - <sos> người phụ nữ đang chụp ảnh ở đâu <eos> --> gương
+49338 - <sos> màu của chiếc xe đang chạy là gì <eos> --> màu_đỏ
+125009 - <sos> màu sắc của các dấu hiệu là gì <eos> --> màu_xanh_dương
+41319 - <sos> người đàn ông đã ăn mặc ở đâu <eos> --> áo_vest
+222191 - <sos> màu sắc của ngọn lửa là gì <eos> --> màu_cam
+515434 - <sos> màu sắc của bông hoa là gì <eos> --> màu_trắng
+120399 - <sos> màu của đồ nội thất là gì <eos> --> màu_trắng
+127809 - <sos> con mèo đen đang ngồi ở đâu <eos> --> cây
+550021 - <sos> màu của nhà vệ sinh là gì <eos> --> màu_trắng
+416936 - <sos> màu của vòi nước là gì <eos> --> màu_đỏ
+267416 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+214300 - <sos> màu của chiếc đĩa là gì <eos> --> màu_xanh_dương
+422115 - <sos> màu của áo khoác là gì <eos> --> màu_xám
+483806 - <sos> màu của tòa nhà là gì <eos> --> màu_trắng
+2951 - <sos> màu của dấu hiệu là gì <eos> --> màu_đỏ
+537246 - <sos> màu sắc của vành là gì <eos> --> màu_cam
+492705 - <sos> màu của điểm dừng là gì <eos> --> màu_đỏ
+275037 - <sos> màu của dấu hiệu là gì <eos> --> màu_đỏ
+411792 - <sos> màu của ánh sáng là gì <eos> --> màu_xanh_lá
+229352 - <sos> màu của vùng đât là gì <eos> --> màu_xanh_lá
+476207 - <sos> màu của ruy băng là gì <eos> --> màu_đỏ
+309168 - <sos> màu của dĩa nhựa là gì <eos> --> màu_cam
+567957 - <sos> màu của con chim là gì <eos> --> màu_xanh_dương
+550759 - <sos> màu của con ngựa là gì <eos> --> màu_trắng
+215776 - <sos> màu của vòi nước là gì <eos> --> màu_cam
+41832 - <sos> màu của chiếc đĩa là gì <eos> --> màu_đen
+424160 - <sos> màu của con bò là gì <eos> --> màu_đen
+123764 - <sos> màu của chiếc đĩa là gì <eos> --> màu_cam
+47692 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+531658 - <sos> màu của cánh đồng là gì <eos> --> màu_xanh_lá
+33272 - <sos> màu của chiếc mũ là gì <eos> --> màu_cam
+542751 - <sos> màu của con chim là gì <eos> --> màu_xanh_dương
+551285 - <sos> màu của đối tượng là gì <eos> --> màu_xanh_dương
+46189 - <sos> màu của tòa nhà là gì <eos> --> màu_xám
+397824 - <sos> màu của cà vạt là gì <eos> --> màu_tía
+95554 - <sos> màu của bông hoa là gì <eos> --> màu_trắng
+433225 - <sos> màu của điểm dừng là gì <eos> --> màu_đỏ
+534331 - <sos> màu của vòi nước là gì <eos> --> màu_vàng
+294775 - <sos> màu của món ăn là gì <eos> --> màu_xanh_lá
+256589 - <sos> màu của bếp là gì <eos> --> màu_đỏ
+265315 - <sos> màu của gấu là gì <eos> --> màu_nâu
+292312 - <sos> màu của áo là gì <eos> --> màu_xanh_lá
+397824 - <sos> màu của áo là gì <eos> --> màu_tía
+563559 - <sos> màu của lông là gì <eos> --> màu_xanh_dương
+374977 - <sos> màu của xe là gì <eos> --> màu_xám
+113009 - <sos> màu của chuối là gì <eos> --> màu_xanh_lá
+339151 - <sos> màu của cỏ là gì <eos> --> màu_xanh_lá
+200796 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+102447 - <sos> màu của bảng là gì <eos> --> màu_đỏ
+547100 - <sos> màu của gấu là gì <eos> --> màu_tía
+127921 - <sos> màu của tường là gì <eos> --> màu_xám
+193709 - <sos> màu của cỏ là gì <eos> --> màu_xanh_lá
+307050 - <sos> màu của tường là gì <eos> --> màu_vàng
+577146 - <sos> cò đứng ở đâu <eos> --> đường_phố
+507249 - <sos> xe đạp của người đàn ông và phụ nữ dừng ở đâu <eos> --> giá_đỡ
+451825 - <sos> người đàn ông với một con chó chụp ảnh ở đâu <eos> --> gương
+166233 - <sos> người phụ nữ chụp một bức ảnh của mình ở đâu <eos> --> gương
+188747 - <sos> gương và bàn trang điểm được trang trí ở đâu <eos> --> phòng_ngủ
+304864 - <sos> hai bát hát và một bức tượng ngựa ở đâu <eos> --> phòng_tắm
+343425 - <sos> màu của thứ có một nửa là gì <eos> --> màu_cam
+343999 - <sos> màu sắc của tủ quần áo là gì <eos> --> màu_vàng
+320660 - <sos> màu sắc của chiếc váy là gì <eos> --> màu_đỏ
+532509 - <sos> màu sắc của đồ đạc là gì <eos> --> màu_trắng
+441058 - <sos> màu của đồ nội thất là gì <eos> --> màu_nâu
+439288 - <sos> hươu cao cổ đang ngồi xuống đâu <eos> --> chuồng
+16890 - <sos> màu sắc của bông hoa là gì <eos> --> màu_tía
+64157 - <sos> vali hành lý đang nằm ở đâu <eos> --> phòng
+89446 - <sos> màu của chiếc tàu là gì <eos> --> màu_đỏ
+205023 - <sos> màu của vùng đất là gì <eos> --> màu_xanh_lá
+517395 - <sos> màu của chiếc tàu là gì <eos> --> màu_xanh_dương
+375202 - <sos> nơi trưng bày thú nhồi bông <eos> --> cửa_hàng
+445515 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+80739 - <sos> màu của ánh sáng là gì <eos> --> màu_xanh_lá
+457381 - <sos> màu của cái bát là gì <eos> --> màu_đỏ
+268141 - <sos> màu của con mèo là gì <eos> --> màu_cam
+80339 - <sos> màu của chiếc nắp là gì <eos> --> màu_nâu
+337458 - <sos> màu của chiếc tàu là gì <eos> --> màu_đỏ
+142958 - <sos> màu của cái bàn là gì <eos> --> màu_trắng
+118022 - <sos> màu của chiếc đĩa là gì <eos> --> màu_trắng
+51178 - <sos> pizza rau đang ngồi ở đâu <eos> --> hộp
+50817 - <sos> màu của cà vạt là gì <eos> --> màu_đỏ
+158831 - <sos> màu của chiếc đĩa là gì <eos> --> màu_nâu
+215394 - <sos> con mèo đang nằm ở đâu <eos> --> cái_nồi
+134825 - <sos> màu của chiếc ô là gì <eos> --> màu_tía
+281917 - <sos> màu của dĩa nhựa là gì <eos> --> màu_cam
+308812 - <sos> màu của con mèo là gì <eos> --> màu_xám
+279071 - <sos> màu của quả táo là gì <eos> --> màu_xanh_lá
+142941 - <sos> con chim vàng rơi xuống đâu <eos> --> tách
+211051 - <sos> màu của dấu hiệu là gì <eos> --> màu_vàng
+557308 - <sos> màu của chiếc thuyền là gì <eos> --> màu_trắng
+361811 - <sos> màu của bồn tắm là gì <eos> --> màu_trắng
+503074 - <sos> màu của bãi cỏ là gì <eos> --> màu_xanh_lá
+339757 - <sos> màu của con bò là gì <eos> --> màu_nâu
+135303 - <sos> màu của vòi nước là gì <eos> --> màu_trắng
+178692 - <sos> màu của con mèo là gì <eos> --> màu_đen
+243873 - <sos> màu của áo khoác là gì <eos> --> màu_xám
+517931 - <sos> màu của băng ghế là gì <eos> --> màu_xanh_dương
+101476 - <sos> màu của xe chervolet là gì <eos> --> màu_đỏ
+538281 - <sos> màu của cà vạt là gì <eos> --> màu_đen
+443188 - <sos> màu của nón là gì <eos> --> màu_cam
+302932 - <sos> màu của áo là gì <eos> --> màu_nâu
+322 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+409078 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+357601 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+31733 - <sos> màu của cây là gì <eos> --> màu_cam
+159456 - <sos> màu của cột là gì <eos> --> màu_xanh_dương
+531423 - <sos> màu của áo là gì <eos> --> màu_đỏ
+346617 - <sos> màu của áo là gì <eos> --> màu_xám
+483425 - <sos> màu của áo là gì <eos> --> màu_xám
+159684 - <sos> tàu đang dừng ở đâu <eos> --> trạm
+561323 - <sos> nhóm người đứng ở đâu <eos> --> phòng_bếp
+561715 - <sos> màu của bảng là gì <eos> --> màu_vàng
+533222 - <sos> màu của áo là gì <eos> --> màu_đỏ
+391000 - <sos> màu của bàn là gì <eos> --> màu_xám
+218649 - <sos> màu của nón là gì <eos> --> màu_cam
+309721 - <sos> màu của mỏ là gì <eos> --> màu_cam
+315383 - <sos> người ngồi ở đâu <eos> --> cái_ghế
+456217 - <sos> màu tóc là gì <eos> --> màu_đỏ
+215315 - <sos> hai con voi trưởng thành và một con voi nhỏ ở đâu <eos> --> vườn_bách_thú
+294942 - <sos> người phụ nữ lấy một mảnh bọc nhựa ra khỏi hộp không <eos> --> phòng_bếp
+67655 - <sos> cuộc họp kinh doanh đang diễn ra ở đâu <eos> --> phòng
+387408 - <sos> người phụ nữ đang chụp ảnh mình ở đâu <eos> --> phòng_tắm
+235110 - <sos> màu sắc của người trượt tuyết là gì <eos> --> màu_cam
+55630 - <sos> một con mèo cam đang ngồi ở đâu <eos> --> bát
+298483 - <sos> hai đứa trẻ đứng ở đâu chơi wii <eos> --> thư_viện
+254821 - <sos> màu của máy tính xách tay là gì <eos> --> màu_đỏ
+488605 - <sos> màu của điều khiển từ xa là gì <eos> --> màu_trắng
+10346 - <sos> màu của chiếc ghế dài là gì <eos> --> màu_xanh_dương
+280866 - <sos> màu sắc của đôi giày là gì <eos> --> màu_đỏ
+320660 - <sos> màu sắc của chiếc váy là gì <eos> --> màu_đỏ
+419173 - <sos> màu sắc của trang phục là gì <eos> --> màu_tía
+551829 - <sos> màu sắc của cây cột là gì <eos> --> màu_xanh_lá
+2089 - <sos> màu của xe đang chạy là gì <eos> --> màu_đỏ
+480741 - <sos> màu của chiếc ghế dài là gì <eos> --> màu_đỏ
+356097 - <sos> màu của những đám mây là gì <eos> --> màu_xám
+460737 - <sos> màu sắc của đôi giày là gì <eos> --> màu_xanh_lá
+159567 - <sos> màu sắc của boong tàu là gì <eos> --> màu_tía
+203497 - <sos> màu của gấu bông là gì <eos> --> màu_trắng
+365116 - <sos> màu của tủ lạnh là gì <eos> --> màu_trắng
+86217 - <sos> màu của xe buýt là gì <eos> --> màu_đỏ
+188252 - <sos> màu của bồn cầu là gì <eos> --> màu_trắng
+214523 - <sos> màu của xe tải là gì <eos> --> màu_xanh_lá
+283350 - <sos> màu của áo vest là gì <eos> --> màu_cam
+486247 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+556088 - <sos> màu của bụi cây là gì <eos> --> màu_xanh_lá
+61918 - <sos> màu của cà vạt là gì <eos> --> màu_xanh_dương
+529056 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+460661 - <sos> mèo con đang chơi ở đâu <eos> --> gương
+195812 - <sos> màu của mặt phẳng là gì <eos> --> màu_trắng
+195721 - <sos> màu của bầu trời là gì <eos> --> màu_xám
+391436 - <sos> màu của điểm dừng là gì <eos> --> màu_đỏ
+486609 - <sos> màu của chiếc đĩa là gì <eos> --> màu_xanh_lá
+127810 - <sos> màu của dĩa nhựa là gì <eos> --> màu_vàng
+358717 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+140867 - <sos> gia đình đang ngồi ở đâu <eos> --> phòng
+334616 - <sos> màu của con chó là gì <eos> --> màu_nâu
+59618 - <sos> màu của động cơ là gì <eos> --> màu_xanh_lá
+549488 - <sos> màu của con chó là gì <eos> --> màu_trắng
+80283 - <sos> màu của chiếc tàu là gì <eos> --> màu_đỏ
+549404 - <sos> màu của máy bay là gì <eos> --> màu_trắng
+412781 - <sos> màu của con mèo là gì <eos> --> màu_xám
+25470 - <sos> màu của cái tủ là gì <eos> --> màu_nâu
+249336 - <sos> màu của áo khoác là gì <eos> --> màu_xám
+107362 - <sos> màu của dấu hiệu là gì <eos> --> màu_đỏ
+569567 - <sos> màu của nước ép là gì <eos> --> màu_cam
+186275 - <sos> màu của con bò là gì <eos> --> màu_nâu
+3272 - <sos> màu của vải là gì <eos> --> màu_tía
+92868 - <sos> màu của gấu là gì <eos> --> màu_đen
+316585 - <sos> màu của bảng là gì <eos> --> màu_tía
+49554 - <sos> màu của tháp là gì <eos> --> màu_nâu
+134902 - <sos> màu của sàn là gì <eos> --> màu_xám
+11812 - <sos> màu của xe là gì <eos> --> màu_vàng
+348850 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+180713 - <sos> màu của vali là gì <eos> --> màu_tía
+72592 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+299811 - <sos> màu của khăn là gì <eos> --> màu_xanh_dương
+285042 - <sos> màu của cưỡi là gì <eos> --> màu_xanh_lá
+154507 - <sos> màu của lửa là gì <eos> --> màu_vàng
+282419 - <sos> màu của gấu là gì <eos> --> màu_trắng
+51270 - <sos> màu của áo là gì <eos> --> màu_xanh_dương
+204489 - <sos> màu của rượu là gì <eos> --> màu_đỏ
+361685 - <sos> màu sắc của một <eos> --> màu_trắng
+534687 - <sos> người đàn ông đang chống tay ở đâu khi cầm ván trượt <eos> --> đường_bộ
+546473 - <sos> một vài đứa trẻ với ván trượt đứng ở đâu <eos> --> đường_phố
+140340 - <sos> đồng hồ chỉ thời gian được treo ở đâu <eos> --> trạm
+41404 - <sos> người phụ nữ đang làm việc ở đâu <eos> --> phòng_bếp
+283426 - <sos> màu sắc của người hàn quốc là gì <eos> --> màu_xanh_dương
+525187 - <sos> màu sắc của đèn giao thông là gì <eos> --> màu_vàng
+69081 - <sos> màu sắc của người đàn ông là gì <eos> --> màu_xanh_dương
+553184 - <sos> màu sắc của cây cột là gì <eos> --> màu_vàng
+357117 - <sos> người đang xén lông cừu ở đâu <eos> --> quả_bóng
+534183 - <sos> màu của nhà vệ sinh là gì <eos> --> màu_trắng
+570409 - <sos> màu sắc của hành lý là gì <eos> --> màu_đen
+473411 - <sos> màu sắc của đôi giày là gì <eos> --> màu_xanh_lá
+243657 - <sos> màu sắc của chiếc váy là gì <eos> --> màu_tía
+518883 - <sos> màu sắc của bông hoa là gì <eos> --> màu_vàng
+205875 - <sos> màu sắc của sơ đồ là gì <eos> --> màu_xanh_dương
+264797 - <sos> màu của xe đang chạy là gì <eos> --> màu_xanh_dương
+382435 - <sos> màu của phòng thí nghiệm là gì <eos> --> màu_vàng
+577787 - <sos> màu của dấu hiệu là gì <eos> --> màu_vàng
+374146 - <sos> màu của con chim là gì <eos> --> màu_đỏ
+508531 - <sos> màu của con chó là gì <eos> --> màu_trắng
+564451 - <sos> màu của cái tủ là gì <eos> --> màu_trắng
+334400 - <sos> màu của dấu hiệu là gì <eos> --> màu_đỏ
+468867 - <sos> màu của chiếc giường là gì <eos> --> màu_vàng
+96257 - <sos> màu của con chim là gì <eos> --> màu_nâu
+572353 - <sos> hai con ngựa đứng ở đâu <eos> --> chuồng
+358171 - <sos> màu của chiếc ô là gì <eos> --> màu_cam
+84489 - <sos> hai người đang chơi ở đâu <eos> --> cửa_hàng
+211983 - <sos> màu của kéo cắt là gì <eos> --> màu_đen
+110204 - <sos> màu của tủ đông là gì <eos> --> màu_trắng
+542165 - <sos> màu của con chó là gì <eos> --> màu_xám
+9771 - <sos> màu của vùng nước là gì <eos> --> màu_xanh_dương
+203440 - <sos> màu của xe tải là gì <eos> --> màu_đỏ
+572894 - <sos> màu của vòi nước là gì <eos> --> màu_đen
+491989 - <sos> màu của dĩa nhựa là gì <eos> --> màu_vàng
+276057 - <sos> người phụ nữ nằm ở đâu <eos> --> giường
+280484 - <sos> màu của áo khoác là gì <eos> --> màu_xanh_dương
+154068 - <sos> màu của máy bay là gì <eos> --> màu_xám
+1216 - <sos> màu của chiếc ô là gì <eos> --> màu_cam
+201209 - <sos> màu của quần ngắn là gì <eos> --> màu_đen
+507276 - <sos> màu của mặt phẳng là gì <eos> --> màu_vàng
+21345 - <sos> màu của chiếc mũ là gì <eos> --> màu_tía
+225345 - <sos> màu của vòi nước là gì <eos> --> màu_xanh_lá
+572627 - <sos> màu của con mèo là gì <eos> --> màu_nâu
+171026 - <sos> màu của con chó là gì <eos> --> màu_trắng
+425548 - <sos> màu của máy bay là gì <eos> --> màu_trắng
+193947 - <sos> màu của bảng là gì <eos> --> màu_trắng
+231134 - <sos> màu của tuyết là gì <eos> --> màu_trắng
+547439 - <sos> màu của diều là gì <eos> --> màu_vàng
+126699 - <sos> màu của cốc là gì <eos> --> màu_đỏ
+555794 - <sos> màu của quần là gì <eos> --> màu_xanh_dương
+562382 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+420200 - <sos> màu của xe là gì <eos> --> màu_xanh_dương
+94293 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+267504 - <sos> màu của bảng là gì <eos> --> màu_đen
+470915 - <sos> màu của áo là gì <eos> --> màu_xanh_dương
+337962 - <sos> màu của gấu là gì <eos> --> màu_đen
+208805 - <sos> màu của bảng là gì <eos> --> màu_nâu
+108407 - <sos> màu của áo là gì <eos> --> màu_tía
+139105 - <sos> màu của lá là gì <eos> --> màu_nâu
+175270 - <sos> màu của cổng là gì <eos> --> màu_vàng
+10230 - <sos> màu của áo là gì <eos> --> màu_trắng
+435803 - <sos> màu của lá là gì <eos> --> màu_nâu
+555355 - <sos> màu của xe là gì <eos> --> màu_vàng
+338281 - <sos> màu tóc là gì <eos> --> màu_xanh_dương
+220835 - <sos> người phụ nữ đang chơi một trò chơi video ở đâu <eos> --> phòng
+292931 - <sos> hai con mèo màu cam và trắng ngủ ở đâu <eos> --> bát
+268510 - <sos> người phụ nữ đang chụp ảnh mình ở đâu <eos> --> gương
+392974 - <sos> người đàn ông đang đặt hàng ở đâu <eos> --> quán_ăn
+425037 - <sos> màu sắc của bông hoa là gì <eos> --> màu_trắng
+372740 - <sos> màu của các phương tiện là gì <eos> --> màu_vàng
+139748 - <sos> màu sắc của sinh tố là gì <eos> --> màu_xanh_lá
+411160 - <sos> màu của con mèo là gì <eos> --> màu_đen
+360262 - <sos> màu của máy bay là gì <eos> --> màu_trắng
+250518 - <sos> màu của áo khoác là gì <eos> --> màu_đen
+411792 - <sos> màu của dấu hiệu là gì <eos> --> màu_đỏ
+252420 - <sos> màu của con mèo là gì <eos> --> màu_xám
+336682 - <sos> màu của con bò là gì <eos> --> màu_nâu
+457207 - <sos> màu của tòa án là gì <eos> --> màu_tía
+363031 - <sos> màu của cổ áo là gì <eos> --> màu_tía
+212712 - <sos> màu của chiếc tàu là gì <eos> --> màu_đen
+391652 - <sos> đèn giao thông đang ở đâu <eos> --> đường_phố
+181953 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+110000 - <sos> màu của chiếc ô là gì <eos> --> màu_xanh_dương
+282583 - <sos> màu của quả táo là gì <eos> --> màu_vàng
+453906 - <sos> màu của bụi cây là gì <eos> --> màu_nâu
+401435 - <sos> màu của bánh xe là gì <eos> --> màu_cam
+571671 - <sos> màu của con mèo là gì <eos> --> màu_đen
+245235 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+579667 - <sos> màu của con mèo là gì <eos> --> màu_đen
+68857 - <sos> màu của chiếc bình là gì <eos> --> màu_xanh_lá
+229544 - <sos> màu của chiếc ô là gì <eos> --> màu_tía
+471256 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+507067 - <sos> màu của chiếc chiếu là gì <eos> --> màu_xanh_lá
+23203 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+285493 - <sos> màu của bản vẽ là gì <eos> --> màu_đen
+26171 - <sos> màu của chiếc bình là gì <eos> --> màu_xanh_lá
+497777 - <sos> nhà vệ sinh ngồi ở đâu <eos> --> phòng
+112562 - <sos> màu của lái xe là gì <eos> --> màu_cam
+553735 - <sos> màu của xe buýt là gì <eos> --> màu_xanh_dương
+318164 - <sos> màu của động cơ là gì <eos> --> màu_đen
+467311 - <sos> màu của ô tô là gì <eos> --> màu_vàng
+191473 - <sos> màu của bãi chứa là gì <eos> --> màu_vàng
+447524 - <sos> màu của chiếc tàu là gì <eos> --> màu_đỏ
+169330 - <sos> màu của dấu hiệu là gì <eos> --> màu_xanh_lá
+290566 - <sos> màu của chất lỏng là gì <eos> --> màu_xanh_dương
+491111 - <sos> cô bé đang ngồi ở đâu <eos> --> giường
+560173 - <sos> màu của chiếc thuyền là gì <eos> --> màu_vàng
+45582 - <sos> vải được chất đống ở đâu <eos> --> chậu
+544373 - <sos> màu của trượt tuyết là gì <eos> --> màu_đen
+486630 - <sos> màu của dấu hiệu là gì <eos> --> màu_đỏ
+266083 - <sos> màu sắc của cây là gì <eos> --> màu_xanh_lá
+550875 - <sos> màu của dĩa nhựa là gì <eos> --> màu_tía
+543264 - <sos> con mèo nằm ở đâu <eos> --> chậu
+366975 - <sos> màu của máng là gì <eos> --> màu_xanh_dương
+411007 - <sos> màu của áo là gì <eos> --> màu_xanh_dương
+578169 - <sos> màu của cốc là gì <eos> --> màu_cam
+201278 - <sos> chuyến tàu đậu ở đâu <eos> --> trạm
+491701 - <sos> màu của vali là gì <eos> --> màu_xanh_dương
+494383 - <sos> màu của tường là gì <eos> --> màu_đen
+227935 - <sos> màu của gạch là gì <eos> --> màu_xám
+240590 - <sos> màu của vẹt là gì <eos> --> màu_vàng
+256190 - <sos> màu của ghế là gì <eos> --> màu_đen
+574645 - <sos> màu của áo là gì <eos> --> màu_đen
+448161 - <sos> màu của khay là gì <eos> --> màu_vàng
+279071 - <sos> màu của mảnh là gì <eos> --> màu_xanh_lá
+110250 - <sos> màu của túi là gì <eos> --> màu_xám
+553224 - <sos> màu của ghế là gì <eos> --> màu_đen
+455198 - <sos> màu của xe là gì <eos> --> màu_xanh_dương
+84489 - <sos> người đàn ông và một người phụ nữ dùng thử một trò chơi video ở đâu <eos> --> cửa_hàng
+37244 - <sos> hai người phụ nữ đang chuẩn bị một bữa ăn ở đâu <eos> --> phòng_bếp
+550746 - <sos> người đàn ông trẻ đang đội mũ khi đứng ở đâu <eos> --> phòng_bếp
+428116 - <sos> hình ảnh của một con chó được phản chiếu ở đâu <eos> --> gương
+331759 - <sos> nơi nấu ăn chuẩn bị thức ăn và bữa ăn <eos> --> phòng_bếp
+246573 - <sos> trạm xe buýt hai tầng đã dừng ở đâu <eos> --> đường_phố
+292662 - <sos> xe cứu hỏa mô hình cũ nằm ở đâu <eos> --> phòng
+195889 - <sos> một con mèo màu cam đang ngủ ở đâu <eos> --> giường
+531967 - <sos> người phụ nữ trẻ treo áp phích ở đâu <eos> --> phòng_bếp
+408799 - <sos> màu sắc của các sĩ quan là gì <eos> --> màu_vàng
+136929 - <sos> nhiều bánh rán khác nhau nằm ở đâu <eos> --> hộp
+40901 - <sos> người đàn ông đang rửa tay ở đâu <eos> --> phòng_tắm
+483923 - <sos> hoa màu tím được đặt ở đâu <eos> --> lọ_cắm_hoa
+385844 - <sos> màu của nhà vệ sinh là gì <eos> --> màu_xanh_lá
+84670 - <sos> màu sắc của áo khoác là gì <eos> --> màu_vàng
+96653 - <sos> người đi bộ xuyên tuyết ở đâu <eos> --> trượt_tuyết
+392058 - <sos> màu sắc của đầu máy là gì <eos> --> màu_đen
+396137 - <sos> màu của mũ bảo hiểm là gì <eos> --> màu_xanh_dương
+39556 - <sos> màu của các chuyến tàu là gì <eos> --> màu_xanh_dương
+91697 - <sos> màu của tòa nhà là gì <eos> --> màu_vàng
+125213 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+398952 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+425292 - <sos> màu của con bò là gì <eos> --> màu_đen
+276507 - <sos> màu của con mèo là gì <eos> --> màu_đen
+205934 - <sos> bông hoa trắng cắm ở đâu <eos> --> lọ_cắm_hoa
+41233 - <sos> màu của chiếc giường là gì <eos> --> màu_cam
+143334 - <sos> màu của bề mặt là gì <eos> --> màu_xám
+395050 - <sos> màu của đồng cỏ là gì <eos> --> màu_xanh_lá
+45459 - <sos> màu của các thẻ là gì <eos> --> màu_vàng
+374723 - <sos> màu của tòa nhà là gì <eos> --> màu_đỏ
+426429 - <sos> màu của chiếc đĩa là gì <eos> --> màu_trắng
+332427 - <sos> màu của phòng tắm là gì <eos> --> màu_trắng
+105640 - <sos> màu của chiếc ô là gì <eos> --> màu_đỏ
+239052 - <sos> màu của bông hoa là gì <eos> --> màu_trắng
+425550 - <sos> màu của chiếc đĩa là gì <eos> --> màu_trắng
+88603 - <sos> màu của phòng tắm là gì <eos> --> màu_vàng
+309168 - <sos> màu của dĩa nhựa là gì <eos> --> màu_cam
+563535 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+423455 - <sos> màu của con bò là gì <eos> --> màu_nâu
+286141 - <sos> màu của con mèo là gì <eos> --> màu_cam
+454039 - <sos> màu của ánh sáng là gì <eos> --> màu_đỏ
+127495 - <sos> màu của cái tủ là gì <eos> --> màu_trắng
+575902 - <sos> màu của con mèo là gì <eos> --> màu_đen
+275658 - <sos> màu của xe ngựa là gì <eos> --> màu_đỏ
+238768 - <sos> màu của bông hoa là gì <eos> --> màu_tía
+424760 - <sos> màu của con mèo là gì <eos> --> màu_đen
+269557 - <sos> màu của bàn tay là gì <eos> --> màu_tía
+208910 - <sos> màu của con chó là gì <eos> --> màu_đen
+555625 - <sos> màu của chiếc hộp là gì <eos> --> màu_xanh_dương
+159567 - <sos> màu của xe buýt là gì <eos> --> màu_tía
+439940 - <sos> màu của gấu là gì <eos> --> màu_đen
+154770 - <sos> màu của cỏ là gì <eos> --> màu_xanh_lá
+35573 - <sos> màu của gối là gì <eos> --> màu_đỏ
+226695 - <sos> màu của cửa là gì <eos> --> màu_trắng
+140243 - <sos> màu của cây là gì <eos> --> màu_cam
+73671 - <sos> màu của đĩa là gì <eos> --> màu_xanh_lá
+550126 - <sos> màu của rèm là gì <eos> --> màu_trắng
+155205 - <sos> màu của bìa là gì <eos> --> màu_đỏ
+336088 - <sos> màu của vải là gì <eos> --> màu_vàng
+450940 - <sos> màu của áo là gì <eos> --> màu_nâu
+395397 - <sos> màu của lửa là gì <eos> --> màu_trắng
+147276 - <sos> màu của cỏ là gì <eos> --> màu_xám
+530248 - <sos> màu của tường là gì <eos> --> màu_trắng
+47451 - <sos> màu của mét là gì <eos> --> màu_xanh_dương
+18917 - <sos> món thịt và mì ống với rau phục vụ ở đâu <eos> --> bát
+147520 - <sos> nơi nào hai người đàn ông di chuyển bên cạnh nhau <eos> --> trượt_tuyết
+402357 - <sos> một con voi đi về phía máy ảnh ở đâu <eos> --> vườn_bách_thú
+246923 - <sos> xe máy và quần áo được trưng bày ở đâu <eos> --> cửa_sổ
+170045 - <sos> người phụ nữ đang làm gì đó ở đâu <eos> --> phòng_bếp
+301916 - <sos> những đứa trẻ đang chơi bóng chày ở đâu <eos> --> đường_phố
+541994 - <sos> màu của máy tính xách tay là gì <eos> --> màu_xám
+68283 - <sos> nhà vệ sinh và bồn tắm ở đâu <eos> --> phòng_tắm
+8773 - <sos> màu sắc của nở hoa là gì <eos> --> màu_đỏ
+129006 - <sos> một số bánh mì nướng ở đâu <eos> --> lò_vi_sóng
+458642 - <sos> màu sắc của thực phẩm là gì <eos> --> màu_nâu
+279129 - <sos> màu sắc của linh vật là gì <eos> --> màu_xanh_lá
+574066 - <sos> bánh donuts đang được nướng ở đâu <eos> --> cỗ_máy
+148551 - <sos> màu sắc của quần áo là gì <eos> --> màu_đen
+499639 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+225579 - <sos> màu của xe máy là gì <eos> --> màu_đỏ
+411485 - <sos> màu của con mèo là gì <eos> --> màu_xám
+213366 - <sos> xe cứu hỏa đậu ở đâu <eos> --> ga-ra
+103158 - <sos> màu của vòi nước là gì <eos> --> màu_đỏ
+87629 - <sos> màu của con mèo là gì <eos> --> màu_trắng
+57810 - <sos> người phụ nữ nằm ở đâu <eos> --> giường
+74403 - <sos> màu của chiếc đĩa là gì <eos> --> màu_trắng
+5256 - <sos> màu của xe máy là gì <eos> --> màu_đỏ
+170253 - <sos> màu của thiên nga là gì <eos> --> màu_trắng
+549413 - <sos> màu của chiếc giường là gì <eos> --> màu_trắng
+301527 - <sos> màu của xe máy là gì <eos> --> màu_đỏ
+297465 - <sos> màu của gia súc là gì <eos> --> màu_đen
+84448 - <sos> màu của con mèo là gì <eos> --> màu_xám
+540848 - <sos> màu của xe buýt là gì <eos> --> màu_đỏ
+558066 - <sos> màu của quả bóng là gì <eos> --> màu_vàng
+311568 - <sos> màu của dấu hiệu là gì <eos> --> màu_đỏ
+441058 - <sos> màu của căn phòng là gì <eos> --> màu_xanh_lá
+145945 - <sos> màu của xe buýt là gì <eos> --> màu_xanh_lá
+56664 - <sos> màu của ánh sáng là gì <eos> --> màu_đỏ
+375801 - <sos> màu của áo khoác là gì <eos> --> màu_đỏ
+284383 - <sos> màu của bánh rán là gì <eos> --> màu_vàng
+314714 - <sos> màu của con chó là gì <eos> --> màu_đen
+277141 - <sos> màu của căn phòng là gì <eos> --> màu_tía
+304065 - <sos> màu của vòi nước là gì <eos> --> màu_trắng
+92575 - <sos> màu của nước ép là gì <eos> --> màu_cam
+202629 - <sos> màu của khu vực là gì <eos> --> màu_xanh_lá
+194676 - <sos> màu của xe tải là gì <eos> --> màu_trắng
+61506 - <sos> màu của con ngựa là gì <eos> --> màu_đen
+418808 - <sos> màu của chiếc bình là gì <eos> --> màu_tía
+333102 - <sos> màu của tam giác là gì <eos> --> màu_đỏ
+15016 - <sos> màu của con chim là gì <eos> --> màu_trắng
+305549 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+157604 - <sos> màu của tòa nhà là gì <eos> --> màu_nâu
+183123 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+368811 - <sos> màu của gấu bông là gì <eos> --> màu_tía
+380425 - <sos> màu của dơi là gì <eos> --> màu_vàng
+224878 - <sos> màu của gấu là gì <eos> --> màu_đen
+374133 - <sos> gấu bông nằm ở đâu <eos> --> giường
+164346 - <sos> màu của bảng là gì <eos> --> màu_xanh_lá
+19002 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+52818 - <sos> màu của táo là gì <eos> --> màu_đỏ
+308470 - <sos> màu của vỏ là gì <eos> --> màu_tía
+333280 - <sos> màu của chân là gì <eos> --> màu_đen
+29182 - <sos> màu của gấu là gì <eos> --> màu_đen
+438315 - <sos> màu của nút là gì <eos> --> màu_xanh_lá
+413414 - <sos> màu của ghế là gì <eos> --> màu_đỏ
+461024 - <sos> màu của gạch là gì <eos> --> màu_trắng
+445187 - <sos> màu của ghế là gì <eos> --> màu_vàng
+370029 - <sos> màu của xe là gì <eos> --> màu_vàng
+159704 - <sos> người phụ nữ tóc vàng đang thay đổi trang phục của cô ấy ở đâu <eos> --> phòng_ngủ
+28012 - <sos> cô gái đang ngồi ở đâu trong khi cô ấy trên điện thoại của mình <eos> --> cái_ghế
+518109 - <sos> chàng trai trẻ đang sử dụng máy tính xách tay ở đâu <eos> --> phòng
+291770 - <sos> con chim xanh đầy màu sắc đang bay xung quanh đâu <eos> --> lồng
+346456 - <sos> biển báo màu vàng báo rẽ phía trước ở đâu <eos> --> đường_bộ
+238915 - <sos> hai con chó đứng ở đâu bên ngoài <eos> --> hồ_bơi
+201417 - <sos> người trượt ván đang biểu diễn ở đâu <eos> --> sân
+125230 - <sos> màu sắc của các dấu hiệu là gì <eos> --> màu_vàng
+554731 - <sos> con mèo màu xám đậm nằm ở đâu <eos> --> băng_ghế
+434519 - <sos> vài con cừu màu khác nhau ở đâu <eos> --> chuồng
+336621 - <sos> nơi nào có nhiều cam màu của đồng <eos> --> bát
+373252 - <sos> con mèo đang cuộn tròn ở đâu <eos> --> chậu
+521769 - <sos> màu sắc của bông hoa là gì <eos> --> màu_tía
+110761 - <sos> màu sắc của cà vạt là gì <eos> --> màu_đen
+112395 - <sos> màu sắc của tán lá là gì <eos> --> màu_xanh_lá
+117637 - <sos> màu sắc của chiếc khăn là gì <eos> --> màu_tía
+293966 - <sos> màu của đoạn giới thiệu là gì <eos> --> màu_đỏ
+479720 - <sos> màu sắc của chất liệu là gì <eos> --> màu_nâu
+250827 - <sos> màu của phòng tắm là gì <eos> --> màu_trắng
+219254 - <sos> màu của xe máy là gì <eos> --> màu_xanh_lá
+238336 - <sos> kẹo dẻo màu nằm ở đâu <eos> --> bát
+195420 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+360020 - <sos> màu của cái bát là gì <eos> --> màu_trắng
+529188 - <sos> màu của con mèo là gì <eos> --> màu_đen
+19013 - <sos> màu của chiếc bình là gì <eos> --> màu_xanh_lá
+145645 - <sos> màu của xe buýt là gì <eos> --> màu_đỏ
+479120 - <sos> màu của cà vạt là gì <eos> --> màu_nâu
+290412 - <sos> màu của dĩa nhựa là gì <eos> --> màu_xanh_dương
+60054 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+387365 - <sos> màu của ngôi nhà là gì <eos> --> màu_vàng
+309695 - <sos> màu sắc của kéo là gì <eos> --> màu_xanh_dương
+119870 - <sos> màu của cái bát là gì <eos> --> màu_xanh_dương
+108556 - <sos> màu của con mèo là gì <eos> --> màu_trắng
+447135 - <sos> màu của ô tô là gì <eos> --> màu_vàng
+352835 - <sos> màu của chiếc đĩa là gì <eos> --> màu_trắng
+333355 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+378832 - <sos> màu của con mèo là gì <eos> --> màu_cam
+174406 - <sos> màu của dấu hiệu là gì <eos> --> màu_vàng
+247422 - <sos> màu của áo khoác là gì <eos> --> màu_xanh_dương
+340109 - <sos> màu của ánh sáng là gì <eos> --> màu_đỏ
+72126 - <sos> màu của mặt phẳng là gì <eos> --> màu_xám
+92366 - <sos> màu của quần short là gì <eos> --> màu_trắng
+48944 - <sos> màu của áo là gì <eos> --> màu_đỏ
+209993 - <sos> màu của cỏ là gì <eos> --> màu_xanh_lá
+110250 - <sos> màu của túi là gì <eos> --> màu_đen
+97339 - <sos> màu của giấy là gì <eos> --> màu_trắng
+208121 - <sos> màu của bìa là gì <eos> --> màu_xanh_dương
+198788 - <sos> màu của bảng là gì <eos> --> màu_tía
+571553 - <sos> màu của gấu là gì <eos> --> màu_đen
+577225 - <sos> màu của ghế là gì <eos> --> màu_xám
+482064 - <sos> màu của cây là gì <eos> --> màu_trắng
+294620 - <sos> màu của xe là gì <eos> --> màu_đen
+563340 - <sos> màu của chuối là gì <eos> --> màu_vàng
+269360 - <sos> màu của áo là gì <eos> --> màu_đen
+21138 - <sos> màu của chăn là gì <eos> --> màu_tía
+532509 - <sos> màu của tường là gì <eos> --> màu_xanh_dương
+40129 - <sos> màu của nón là gì <eos> --> màu_cam
+331868 - <sos> màu của rèm là gì <eos> --> màu_đỏ
+429113 - <sos> màu của crouches là gì <eos> --> màu_đen
+25516 - <sos> màu của dây là gì <eos> --> màu_đen
+395627 - <sos> màu của bếp là gì <eos> --> màu_trắng
+568143 - <sos> màu của xe là gì <eos> --> màu_xanh_dương
+7224 - <sos> màu của gấu là gì <eos> --> màu_nâu
+516541 - <sos> màu tóc là gì <eos> --> màu_xanh_lá
+26645 - <sos> con chó đang cưỡi ngựa ở đâu trong khi treo đầu ra khỏi cửa sổ <eos> --> xe_ô_tô
+157190 - <sos> người đàn ông đang làm thức uống màu xanh lá ở đâu <eos> --> máy_xay
+570016 - <sos> đóng cửa trái cây và rau quả ở đâu <eos> --> cửa_hàng
+281557 - <sos> phụ nữ đang ăn thức ăn ở đâu <eos> --> quán_ăn
+244478 - <sos> màu của đèn giao thông là gì <eos> --> màu_vàng
+385305 - <sos> màu sắc của hành khách là gì <eos> --> màu_vàng
+500356 - <sos> màu sắc của bông hoa là gì <eos> --> màu_tía
+202431 - <sos> màu sắc của chiếc váy là gì <eos> --> màu_xanh_dương
+24204 - <sos> màu của chiếc ghế dài là gì <eos> --> màu_đỏ
+78320 - <sos> màu sắc của bông hoa là gì <eos> --> màu_tía
+455132 - <sos> màu của các chuyến tàu là gì <eos> --> màu_cam
+476589 - <sos> màu sắc của trường hợp là gì <eos> --> màu_xanh_lá
+534791 - <sos> màu của đèn dừng là gì <eos> --> màu_vàng
+145761 - <sos> màu của xe buýt là gì <eos> --> màu_đỏ
+466499 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+233808 - <sos> màu của gấu bông là gì <eos> --> màu_nâu
+476127 - <sos> màu của mái nhà là gì <eos> --> màu_trắng
+303012 - <sos> màu của bàn chân là gì <eos> --> màu_trắng
+229884 - <sos> màu của chiếc đĩa là gì <eos> --> màu_cam
+464809 - <sos> màu của ruy băng là gì <eos> --> màu_vàng
+557698 - <sos> màu của cà vạt là gì <eos> --> màu_đỏ
+132516 - <sos> trẻ mới biết đi ở đâu <eos> --> giường
+246396 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+454996 - <sos> màu của mèo con là gì <eos> --> màu_cam
+78339 - <sos> màu của con mèo là gì <eos> --> màu_xám
+327549 - <sos> màu của vòi nước là gì <eos> --> màu_xanh_dương
+32949 - <sos> màu của băng ghế là gì <eos> --> màu_xanh_lá
+566482 - <sos> màu của chiếc đĩa là gì <eos> --> màu_xám
+6512 - <sos> màu của chiếc đĩa là gì <eos> --> màu_trắng
+175116 - <sos> màu của chiếc đĩa là gì <eos> --> màu_trắng
+81841 - <sos> màu của ánh sáng là gì <eos> --> màu_đỏ
+307567 - <sos> màu của máy bay là gì <eos> --> màu_xanh_lá
+562849 - <sos> màu của phòng tắm là gì <eos> --> màu_trắng
+138456 - <sos> màu của đàn con là gì <eos> --> màu_đen
+172751 - <sos> màu của con chim là gì <eos> --> màu_nâu
+143339 - <sos> màu của vòi nước là gì <eos> --> màu_đỏ
+71828 - <sos> màu của con bò là gì <eos> --> màu_trắng
+35145 - <sos> màu của xe đạp là gì <eos> --> màu_cam
+335411 - <sos> màu của vòi nước là gì <eos> --> màu_vàng
+430710 - <sos> màu của ánh sáng là gì <eos> --> màu_tía
+268739 - <sos> màu của áo hoodie là gì <eos> --> màu_tía
+12678 - <sos> màu sắc của bikini là gì <eos> --> màu_vàng
+149555 - <sos> màu của gấu bông là gì <eos> --> màu_xanh_dương
+497500 - <sos> pizza đang được nấu ở đâu <eos> --> chảo
+194643 - <sos> màu của xe đạp là gì <eos> --> màu_xanh_lá
+331551 - <sos> màu của chiếc đĩa là gì <eos> --> màu_đỏ
+74002 - <sos> màu của cái bát là gì <eos> --> màu_trắng
+52096 - <sos> bánh mì sandwich nằm ở đâu <eos> --> dĩa
+290849 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+456422 - <sos> màu của bộ đồ là gì <eos> --> màu_đỏ
+261202 - <sos> màu của gấu là gì <eos> --> màu_nâu
+175805 - <sos> màu của gấu là gì <eos> --> màu_nâu
+32986 - <sos> màu của bìa là gì <eos> --> màu_vàng
+397599 - <sos> màu của nón là gì <eos> --> màu_cam
+56667 - <sos> gấu bông nằm ở đâu <eos> --> giường
+464715 - <sos> màu của nửa là gì <eos> --> màu_cam
+29600 - <sos> màu của gấu là gì <eos> --> màu_đen
+104482 - <sos> màu của chăn là gì <eos> --> màu_trắng
+299647 - <sos> màu của ghế là gì <eos> --> màu_xanh_dương
+458328 - <sos> màu của xe là gì <eos> --> màu_tía
+101895 - <sos> màu của gối là gì <eos> --> màu_đen
+465695 - <sos> màu của vali là gì <eos> --> màu_đỏ
+31882 - <sos> vài người đi đâu <eos> --> xe_tải
+198561 - <sos> màu mắt là gì <eos> --> màu_nâu
+107900 - <sos> người đàn ông đang mặc một bộ đồ ở đâu <eos> --> sân_vườn
+199628 - <sos> hai chậu thời trang cũ đang đứng ở đâu <eos> --> phòng_tắm
+476151 - <sos> người đàn ông đang đánh răng ở đâu <eos> --> phòng_tắm
+185700 - <sos> màu sắc của vật đang cầm là gì <eos> --> màu_xanh_lá
+79090 - <sos> màu sắc của người đàn ông là gì <eos> --> màu_đen
+229821 - <sos> màu sắc của các dấu hiệu là gì <eos> --> màu_nâu
+107630 - <sos> màu của máy bay phản lực là gì <eos> --> màu_xanh_dương
+38771 - <sos> màu của nhà vệ sinh là gì <eos> --> màu_trắng
+423389 - <sos> màu sắc của cậu bé là gì <eos> --> màu_đen
+201299 - <sos> hoa hồng trắng và trắng ở đâu <eos> --> lọ_cắm_hoa
+470871 - <sos> màu sắc của áo choàng là gì <eos> --> màu_xám
+324443 - <sos> màu của nhà vệ sinh là gì <eos> --> màu_trắng
+329011 - <sos> một con chó đang tắm ở đâu <eos> --> chậu
+86908 - <sos> màu của nhà vệ sinh là gì <eos> --> màu_vàng
+49254 - <sos> màu sắc của thành phố là gì <eos> --> màu_vàng
+579258 - <sos> một ông già đặt gỗ ở đâu <eos> --> thùng_chứa
+218121 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+397010 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+323379 - <sos> màu của bộ đồ là gì <eos> --> màu_đen
+439875 - <sos> màu của gấu bông là gì <eos> --> màu_nâu
+23203 - <sos> màu của thiết bị là gì <eos> --> màu_vàng
+224938 - <sos> người phụ nữ nhìn ở đâu <eos> --> gương
+187869 - <sos> màu của ngôi nhà là gì <eos> --> màu_đỏ
+364885 - <sos> màu sắc của đội là gì <eos> --> màu_xanh_lá
+577884 - <sos> màu của con mèo là gì <eos> --> màu_xám
+431060 - <sos> màu của con mèo là gì <eos> --> màu_đen
+94444 - <sos> màu của con mèo là gì <eos> --> màu_xám
+29299 - <sos> màu của máy bay là gì <eos> --> màu_vàng
+374133 - <sos> màu của chiếc giường là gì <eos> --> màu_xanh_dương
+100331 - <sos> màu của xe buýt là gì <eos> --> màu_đỏ
+394 - <sos> màu của dĩa nhựa là gì <eos> --> màu_tía
+80094 - <sos> màu của con chó là gì <eos> --> màu_đen
+542138 - <sos> màu của chiếc đĩa là gì <eos> --> màu_trắng
+229603 - <sos> màu của con chó là gì <eos> --> màu_đen
+220518 - <sos> màu của chiếc bình là gì <eos> --> màu_trắng
+489762 - <sos> màu của dĩa nhựa là gì <eos> --> màu_xanh_lá
+265315 - <sos> màu của gấu bông là gì <eos> --> màu_nâu
+518455 - <sos> màu của gấu bông là gì <eos> --> màu_trắng
+413927 - <sos> màu của dĩa nhựa là gì <eos> --> màu_vàng
+161337 - <sos> màu của chiếc ô là gì <eos> --> màu_tía
+281285 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+115156 - <sos> màu của các tấm là gì <eos> --> màu_xanh_dương
+394436 - <sos> màu của động cơ là gì <eos> --> màu_xanh_dương
+224468 - <sos> màu của con chó là gì <eos> --> màu_nâu
+263493 - <sos> màu của con mèo là gì <eos> --> màu_cam
+511454 - <sos> màu của đường ray là gì <eos> --> màu_xanh_lá
+105600 - <sos> màu của trượt tuyết là gì <eos> --> màu_tía
+262012 - <sos> màu của chiếc ô là gì <eos> --> màu_vàng
+271301 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+464602 - <sos> nhà vệ sinh trắng ở đâu <eos> --> phòng_tắm
+102281 - <sos> màu của cà vạt là gì <eos> --> màu_đỏ
+506315 - <sos> màu của áo choàng là gì <eos> --> màu_vàng
+169779 - <sos> màu của áo khoác là gì <eos> --> màu_tía
+308968 - <sos> màu của xe ngựa là gì <eos> --> màu_xanh_dương
+212074 - <sos> bồ vệ sinh nằm ở đâu <eos> --> phòng_tắm
+503715 - <sos> màu của gấu là gì <eos> --> màu_nâu
+543468 - <sos> màu của kính là gì <eos> --> màu_xanh_lá
+438448 - <sos> màu của vali là gì <eos> --> màu_đen
+364458 - <sos> màu của áo là gì <eos> --> màu_tía
+430654 - <sos> màu của diều là gì <eos> --> màu_đỏ
+290285 - <sos> màu của cây là gì <eos> --> màu_cam
+18482 - <sos> màu của khăn là gì <eos> --> màu_vàng
+69081 - <sos> màu của cưỡi là gì <eos> --> màu_xanh_dương
+45543 - <sos> màu của cam là gì <eos> --> màu_đen
+459819 - <sos> nintendo wii với hình ảnh của một tay cầm bộ điều khiển trò chơi ở đâu <eos> --> hộp
+99295 - <sos> táo, quả mâm xôi và hạt cà phê nổi bật ở đâu <eos> --> ảnh_chụp
+298458 - <sos> một vài đứa trẻ đang chơi một trò chơi video ở đâu <eos> --> cửa_hàng
+291538 - <sos> xe buýt trường học đang được phản chiếu ở đâu <eos> --> gương
+354692 - <sos> con vịt nhiều màu được phản chiếu ở đâu <eos> --> cửa_sổ
+95241 - <sos> người đàn ông đang phục vụ pizza ở đâu <eos> --> gian_hàng
+467594 - <sos> màu sắc của sự chuyên nghiệp là gì <eos> --> màu_xanh_lá
+25708 - <sos> một số mì hỗn hợp ở đâu <eos> --> bát
+169499 - <sos> màu sắc của cái đó là gì <eos> --> màu_đỏ
+246923 - <sos> xe tay ga đang đậu ở đâu <eos> --> cửa_sổ
+212181 - <sos> màu của tủ lạnh là gì <eos> --> màu_trắng
+334491 - <sos> màu của đồng hồ là gì <eos> --> màu_trắng
+564680 - <sos> màu của con mèo là gì <eos> --> màu_đen
+201640 - <sos> màu của chiếc ô là gì <eos> --> màu_đen
+201273 - <sos> màu của cái bình là gì <eos> --> màu_tía
+445355 - <sos> màu của quả bóng là gì <eos> --> màu_xanh_lá
+581601 - <sos> màu của phòng tắm là gì <eos> --> màu_trắng
+178178 - <sos> màu của con mèo là gì <eos> --> màu_cam
+286141 - <sos> màu của con mèo là gì <eos> --> màu_cam
+426947 - <sos> màu của con chó là gì <eos> --> màu_nâu
+321567 - <sos> màu của con chó là gì <eos> --> màu_trắng
+347048 - <sos> màu sắc của nêm là gì <eos> --> màu_cam
+564483 - <sos> màu của dĩa nhựa là gì <eos> --> màu_vàng
+470539 - <sos> màu của gấu bông là gì <eos> --> màu_đỏ
+110724 - <sos> màu của con bò là gì <eos> --> màu_xanh_dương
+273561 - <sos> màu của tấm thảm là gì <eos> --> màu_đỏ
+158718 - <sos> màu của con chó là gì <eos> --> màu_trắng
+420589 - <sos> hai chuyến tàu dừng ở đâu <eos> --> trạm
+579802 - <sos> màu của xe đạp là gì <eos> --> màu_đỏ
+6426 - <sos> màu của dấu hiệu là gì <eos> --> màu_xanh_dương
+118306 - <sos> màu của vòi nước là gì <eos> --> màu_xám
+518807 - <sos> màu của cái bát là gì <eos> --> màu_xanh_lá
+397044 - <sos> màu của cuốn sách là gì <eos> --> màu_đen
+404424 - <sos> màu của máy ủi là gì <eos> --> màu_vàng
+520674 - <sos> màu của chiếc bình là gì <eos> --> màu_tía
+462292 - <sos> màu của chiếc tàu là gì <eos> --> màu_đỏ
+505028 - <sos> màu của dĩa nhựa là gì <eos> --> màu_cam
+290422 - <sos> màu của ván lướt là gì <eos> --> màu_trắng
+365517 - <sos> màu của bề mặt là gì <eos> --> màu_xám
+376084 - <sos> màu của xe tải là gì <eos> --> màu_vàng
+169854 - <sos> màu của gấu bông là gì <eos> --> màu_nâu
+19380 - <sos> màu của bồn rửa là gì <eos> --> màu_vàng
+1323 - <sos> màu của con mèo là gì <eos> --> màu_cam
+15016 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+124240 - <sos> cửa gương nằm ở đâu <eos> --> phòng_tắm
+581419 - <sos> màu của sàn là gì <eos> --> màu_nâu
+457822 - <sos> màu của áo là gì <eos> --> màu_xám
+537553 - <sos> màu của gấu là gì <eos> --> màu_đen
+547156 - <sos> màu của gạch là gì <eos> --> màu_trắng
+319126 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+306439 - <sos> màu của áo là gì <eos> --> màu_đen
+425672 - <sos> con chó nhìn ở đâu <eos> --> gương
+501523 - <sos> con mèo nằm ở đâu <eos> --> chậu
+357898 - <sos> màu của áo là gì <eos> --> màu_đỏ
+283697 - <sos> màu của bảng là gì <eos> --> màu_trắng
+579798 - <sos> màu của áo là gì <eos> --> màu_đỏ
+40689 - <sos> màu của xe là gì <eos> --> màu_xanh_lá
+365703 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+494190 - <sos> con chó đang ở đâu <eos> --> gương
+391046 - <sos> màu của cát là gì <eos> --> màu_đỏ
+212672 - <sos> màu của áo là gì <eos> --> màu_xanh_dương
+139702 - <sos> màu của cỏ là gì <eos> --> màu_vàng
+167057 - <sos> cô bé đẻ ở đâu <eos> --> giường
+454887 - <sos> màu tóc là gì <eos> --> màu_đỏ
+91656 - <sos> cậu bé đang vuốt ve thú cưng của mình ở đâu <eos> --> chuồng_trại
+509764 - <sos> một con mèo nằm ở đâu, và cái kia đang đứng <eos> --> sàn_nhà
+528587 - <sos> một số người ngồi đang ngồi ở bàn ăn tại đâu <eos> --> phòng
+528882 - <sos> màu sắc của con vật đang đi bộ là gì <eos> --> màu_nâu
+463004 - <sos> người phụ nữ trộn một ít thức ăn ở đâu <eos> --> cái_nồi
+535917 - <sos> ánh sáng không có đèn cố định ở đâu <eos> --> phòng_tắm
+225071 - <sos> màu sắc của thứ đang hạ cánh là gì <eos> --> màu_đen
+57503 - <sos> tủ đông tủ lạnh trắng đang ở đâu <eos> --> phòng_bếp
+294426 - <sos> lưng của một người đứng đầu ở đâu <eos> --> xe_đẩy
+479596 - <sos> nơi nhiều loại trái cây được trưng bày <eos> --> cửa_hàng
+142262 - <sos> màu sắc của người đó là gì <eos> --> màu_đen
+319612 - <sos> màu sắc của bông hoa là gì <eos> --> màu_trắng
+342363 - <sos> màu sắc của bữa tối là gì <eos> --> màu_trắng
+405843 - <sos> một số ván lướt sóng ở đâu <eos> --> sân
+65901 - <sos> màu sắc của đại dương là gì <eos> --> màu_xanh_dương
+2240 - <sos> nhóm động vật dễ thương ở đâu <eos> --> giường
+164657 - <sos> màu của mũ bảo hiểm là gì <eos> --> màu_vàng
+101675 - <sos> màu sắc của đồng hồ là gì <eos> --> màu_tía
+529411 - <sos> màu của con chó là gì <eos> --> màu_trắng
+32183 - <sos> màu của chiếc đĩa là gì <eos> --> màu_trắng
+12626 - <sos> màu của xe buýt là gì <eos> --> màu_đỏ
+111746 - <sos> màu của vòi nước là gì <eos> --> màu_vàng
+456201 - <sos> màu của xe đạp là gì <eos> --> màu_vàng
+370824 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+119449 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+123764 - <sos> màu của chiếc đĩa là gì <eos> --> màu_cam
+322659 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+532779 - <sos> màu của ánh sáng là gì <eos> --> màu_xanh_lá
+345914 - <sos> màu của vòi nước là gì <eos> --> màu_đỏ
+565641 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+547807 - <sos> màu của chiếc ô là gì <eos> --> màu_xanh_dương
+119776 - <sos> màu của con mèo là gì <eos> --> màu_xám
+342342 - <sos> màu của tủ lạnh là gì <eos> --> màu_xám
+358457 - <sos> màu của con bò là gì <eos> --> màu_nâu
+23803 - <sos> màu của nước sốt là gì <eos> --> màu_đỏ
+430711 - <sos> màu của chất lỏng là gì <eos> --> màu_đỏ
+26733 - <sos> màu của mèo con là gì <eos> --> màu_đen
+430142 - <sos> màu của con mèo là gì <eos> --> màu_xám
+292907 - <sos> màu của nhà thờ là gì <eos> --> màu_trắng
+509764 - <sos> màu của con mèo là gì <eos> --> màu_đen
+50256 - <sos> màu của xe tải là gì <eos> --> màu_xanh_dương
+502593 - <sos> màu của con cừu là gì <eos> --> màu_nâu
+453472 - <sos> màu của con mèo là gì <eos> --> màu_xám
+240405 - <sos> màu của con chó là gì <eos> --> màu_nâu
+97951 - <sos> màu của xe máy là gì <eos> --> màu_trắng
+26321 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+72905 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+74524 - <sos> màu của lửa là gì <eos> --> màu_đỏ
+488295 - <sos> màu của bồn là gì <eos> --> màu_trắng
+50553 - <sos> màu của áo là gì <eos> --> màu_đen
+2770 - <sos> màu của gấu là gì <eos> --> màu_xám
+274184 - <sos> màu của gấu là gì <eos> --> màu_nâu
+114079 - <sos> màu của vali là gì <eos> --> màu_xanh_dương
+534331 - <sos> màu của lá là gì <eos> --> màu_đỏ
+38722 - <sos> màu của áo là gì <eos> --> màu_đỏ
+238960 - <sos> màu của gấu là gì <eos> --> màu_nâu
+349914 - <sos> màu của sàn là gì <eos> --> màu_tía
+184642 - <sos> màu của lửa là gì <eos> --> màu_đỏ
+58708 - <sos> màu của áo là gì <eos> --> màu_trắng
+357113 - <sos> màu của gấu là gì <eos> --> màu_nâu
+39993 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+542814 - <sos> màu sắc của một <eos> --> màu_nâu
+460903 - <sos> màu tóc là gì <eos> --> màu_đỏ
+556763 - <sos> màu của tròng <eos> --> màu_tía
+547475 - <sos> đâu là nhiều đầu bếp trong những chiếc mũ cao, mũ trắng chuẩn bị bữa ăn <eos> --> phòng_bếp
+109357 - <sos> hình ảnh cuộc diễu hành trên đường phố trong thành phố ở đâu <eos> --> ảnh_chụp
+317153 - <sos> công nhân đẩy một giỏ hàng với hàng hóa ở đâu <eos> --> kho
+204407 - <sos> hai chiếc ghế nhỏ và tv màn hình phẳng ở đâu <eos> --> phòng
+542642 - <sos> cái bánh pizza đã ăn dở nằm ở đâu <eos> --> hộp
+429038 - <sos> một số người đàn ông chơi game ở đâu <eos> --> chung_cư
+249259 - <sos> màu của máy bay phản lực là gì <eos> --> màu_xám
+540476 - <sos> màu sắc của các dấu hiệu là gì <eos> --> màu_xanh_lá
+431715 - <sos> màu của máy tính xách tay là gì <eos> --> màu_đen
+408048 - <sos> màu sắc của bông cải xanh là gì <eos> --> màu_xanh_lá
+227577 - <sos> màu sắc của tán cây là gì <eos> --> màu_xanh_dương
+143984 - <sos> màu của nhà vệ sinh là gì <eos> --> màu_trắng
+176414 - <sos> màu sắc của bông hoa là gì <eos> --> màu_tía
+311988 - <sos> màu sắc của bông hoa là gì <eos> --> màu_tía
+359775 - <sos> người đặt một ít nho ở đâu <eos> --> bát
+402957 - <sos> màu sắc của bông hoa là gì <eos> --> màu_vàng
+104718 - <sos> màu sắc của các mẫu là gì <eos> --> màu_đen
+557101 - <sos> màu của con bò là gì <eos> --> màu_nâu
+437196 - <sos> màu của bánh rán là gì <eos> --> màu_tía
+489470 - <sos> màu của băng ghế là gì <eos> --> màu_xanh_lá
+242544 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+412516 - <sos> màu của chiếc hộp là gì <eos> --> màu_đen
+272040 - <sos> màu của chiếc xe là gì <eos> --> màu_xám
+465266 - <sos> màu của điểm dừng là gì <eos> --> màu_đỏ
+131300 - <sos> pizza được nấu chín ở đâu <eos> --> lò_vi_sóng
+8836 - <sos> màu của xe buýt là gì <eos> --> màu_xanh_dương
+396494 - <sos> màu của hàng rào là gì <eos> --> màu_cam
+442060 - <sos> màu của bông hoa là gì <eos> --> màu_đỏ
+252868 - <sos> màu của thân cây là gì <eos> --> màu_xanh_dương
+260276 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+390288 - <sos> màu của vòi nước là gì <eos> --> màu_vàng
+359479 - <sos> màu của nước sốt là gì <eos> --> màu_đỏ
+485044 - <sos> màu của con mèo là gì <eos> --> màu_đen
+400926 - <sos> màu của dĩa nhựa là gì <eos> --> màu_tía
+139618 - <sos> màu của chiếc thẻ là gì <eos> --> màu_vàng
+244870 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+337269 - <sos> màu của dĩa nhựa là gì <eos> --> màu_vàng
+400926 - <sos> màu của dĩa nhựa là gì <eos> --> màu_tía
+550063 - <sos> màu của cổ áo là gì <eos> --> màu_đỏ
+543665 - <sos> màu của con cừu là gì <eos> --> màu_trắng
+19151 - <sos> màu của con chim là gì <eos> --> màu_xanh_lá
+373024 - <sos> màu của con mèo là gì <eos> --> màu_đen
+13986 - <sos> màu của con chim là gì <eos> --> màu_xám
+125503 - <sos> màu của lửa là gì <eos> --> màu_vàng
+492774 - <sos> màu của chuột là gì <eos> --> màu_trắng
+130851 - <sos> người đang nằm ở đâu <eos> --> giường
+401235 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+28010 - <sos> màu của áo là gì <eos> --> màu_xám
+362365 - <sos> màu của gấu là gì <eos> --> màu_nâu
+99165 - <sos> màu của đốm là gì <eos> --> màu_xanh_dương
+276634 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+116832 - <sos> màu của lửa là gì <eos> --> màu_vàng
+392319 - <sos> màu của áo là gì <eos> --> màu_xám
+22704 - <sos> màu của sợi là gì <eos> --> màu_cam
+204420 - <sos> màu sắc của những thứ <eos> --> màu_xanh_lá
+488812 - <sos> màu của đèn là gì <eos> --> màu_vàng
+16113 - <sos> màu của đèn là gì <eos> --> màu_đỏ
+212501 - <sos> màu của bài là gì <eos> --> màu_xanh_lá
+172680 - <sos> cậu bé chỉ ở đâu <eos> --> phòng_bếp
+555940 - <sos> màu của áo là gì <eos> --> màu_xanh_lá
+64751 - <sos> chuyến tàu dừng ở đâu <eos> --> trạm
+92319 - <sos> màu của bánh là gì <eos> --> màu_trắng
+39067 - <sos> màu của gạo là gì <eos> --> màu_trắng
+310748 - <sos> màu của gấu là gì <eos> --> màu_nâu
+494391 - <sos> một ông già đang ngồi nhìn một đứa trẻ thả một con diều ở đâu <eos> --> cái_ghế
+66514 - <sos> hai đứa trẻ đang ngồi trên nhà vệ sinh ở đâu <eos> --> phòng_tắm
+275371 - <sos> cuộc gọi trắng của người lớn đang ngủ ở đâu <eos> --> quả_bóng
+340993 - <sos> màu sắc của hành lý là gì <eos> --> màu_xanh_dương
+257712 - <sos> màu sắc của giao thông là gì <eos> --> màu_đỏ
+273602 - <sos> màu sắc của ca nô là gì <eos> --> màu_cam
+511031 - <sos> đầu bếp đang chuẩn bị ở đâu <eos> --> phòng_bếp
+418722 - <sos> salad đã được phục vụ ở đâu <eos> --> bát
+229884 - <sos> màu sắc của thực phẩm là gì <eos> --> màu_vàng
+350506 - <sos> màu của chiếc ghế dài là gì <eos> --> màu_nâu
+57839 - <sos> màu của chiếc ghế dài là gì <eos> --> màu_xanh_dương
+253388 - <sos> con chó nhỏ đang ngủ ở đâu <eos> --> cái_ghế
+253266 - <sos> màu sắc của trang phục là gì <eos> --> màu_xanh_dương
+136540 - <sos> màu sắc của đồ lót là gì <eos> --> màu_đen
+520434 - <sos> màu sắc của người chơi là gì <eos> --> màu_tía
+198561 - <sos> màu của con mèo là gì <eos> --> màu_nâu
+155205 - <sos> màu của chiếc giường là gì <eos> --> màu_đỏ
+367836 - <sos> màu của con mèo là gì <eos> --> màu_xám
+540987 - <sos> màu của ống khói là gì <eos> --> màu_đen
+318811 - <sos> màu của con gấu là gì <eos> --> màu_nâu
+107716 - <sos> màu của con chó là gì <eos> --> màu_đen
+492705 - <sos> màu của dấu hiệu là gì <eos> --> màu_đỏ
+68223 - <sos> màu của ánh sáng là gì <eos> --> màu_đỏ
+419656 - <sos> màu của dấu hiệu là gì <eos> --> màu_xanh_dương
+368435 - <sos> màu của dĩa nhựa là gì <eos> --> màu_xanh_lá
+181990 - <sos> màu của sợi dây là gì <eos> --> màu_tía
+55389 - <sos> màu của gấu bông là gì <eos> --> màu_tía
+191568 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+6263 - <sos> màu của bông hoa là gì <eos> --> màu_trắng
+292973 - <sos> màu của máy bay là gì <eos> --> màu_xám
+165927 - <sos> màu sắc của tấm là gì <eos> --> màu_xanh_dương
+125785 - <sos> màu của chiếc tàu là gì <eos> --> màu_xanh_dương
+402308 - <sos> màu của chiếc tàu là gì <eos> --> màu_đen
+62392 - <sos> màu của băng ghế là gì <eos> --> màu_trắng
+279222 - <sos> màu của xe buýt là gì <eos> --> màu_xanh_lá
+184190 - <sos> màu của băng ghế là gì <eos> --> màu_xanh_lá
+14453 - <sos> màu của con mèo là gì <eos> --> màu_xám
+472519 - <sos> màu của cà vạt là gì <eos> --> màu_vàng
+567523 - <sos> màu của gấu bông là gì <eos> --> màu_xám
+378846 - <sos> màu của cà vạt là gì <eos> --> màu_đen
+312430 - <sos> màu của chiếc bình là gì <eos> --> màu_cam
+90820 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+554731 - <sos> màu của con mèo là gì <eos> --> màu_xám
+92301 - <sos> màu của quần short là gì <eos> --> màu_đen
+214478 - <sos> màu của chăn là gì <eos> --> màu_xanh_dương
+381642 - <sos> màu của bảng là gì <eos> --> màu_nâu
+385749 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+325184 - <sos> hai con voi ở đâu <eos> --> chuồng
+317521 - <sos> màu của vải là gì <eos> --> màu_xanh_dương
+151101 - <sos> màu của lửa là gì <eos> --> màu_đỏ
+499634 - <sos> màu của gấu là gì <eos> --> màu_đen
+262917 - <sos> màu của nền là gì <eos> --> màu_xanh_dương
+126607 - <sos> màu của gấu là gì <eos> --> màu_nâu
+103539 - <sos> màu của áo là gì <eos> --> màu_trắng
+80159 - <sos> giường đang ngồi ở đâu <eos> --> phòng_ngủ
+207740 - <sos> màu của vali là gì <eos> --> màu_đỏ
+395627 - <sos> màu của bệ là gì <eos> --> màu_xanh_dương
+135041 - <sos> màu của đĩa là gì <eos> --> màu_trắng
+22767 - <sos> màu của cây là gì <eos> --> màu_xanh_lá
+378628 - <sos> màu của cỏ là gì <eos> --> màu_xanh_lá
+276870 - <sos> màu của áo là gì <eos> --> màu_xanh_dương
+430335 - <sos> màu của áo là gì <eos> --> màu_trắng
+44388 - <sos> màu của vẹt là gì <eos> --> màu_xám
+426400 - <sos> màu của áo là gì <eos> --> màu_cam
+123539 - <sos> người đàn ông ở đâu trong một đầu bếp đồng phục chuẩn bị thức ăn <eos> --> phòng_bếp
+145606 - <sos> đâu là người đàn ông tổ chức cà vạt cổ để bán <eos> --> cửa_hàng
+325809 - <sos> người đàn ông và phụ nữ đang nói chuyện ở đâu <eos> --> phòng_bếp
+32442 - <sos> người phụ nữ giữ một dấu hiệu màu xanh ở đâu <eos> --> đường_phố
+16664 - <sos> mèo xám và trắng đang ngủ cuộn tròn ở đâu <eos> --> bát
+105531 - <sos> người phụ nữ đang làm bánh rán tươi ở đâu <eos> --> phòng_bếp
+89792 - <sos> phòng khách và phòng ăn rất đẹp ở đâu <eos> --> nhà_ở
+439364 - <sos> con mèo ở đâu với cái đầu mắc kẹt <eos> --> nhà_vệ_sinh
+397894 - <sos> màu của chiếc ghế dài là gì <eos> --> màu_đỏ
+231393 - <sos> màu sắc của cái nêm là gì <eos> --> màu_cam
+484547 - <sos> màu sắc của cỏ dại là gì <eos> --> màu_vàng
+414912 - <sos> màu sắc của đồ đạc là gì <eos> --> màu_trắng
+335477 - <sos> màu sắc của bông hoa là gì <eos> --> màu_tía
+133462 - <sos> màu sắc của bông hoa là gì <eos> --> màu_đỏ
+515065 - <sos> màu của ván trượt tuyết là gì <eos> --> màu_cam
+490992 - <sos> bức tượng được trưng bày ở đâu <eos> --> phòng
+16890 - <sos> màu sắc của bông hoa là gì <eos> --> màu_tía
+314561 - <sos> màu sắc của bông hoa là gì <eos> --> màu_vàng
+222056 - <sos> màu sắc của bông hoa là gì <eos> --> màu_tía
+62329 - <sos> màu của chiếc tàu là gì <eos> --> màu_xanh_dương
+253221 - <sos> màu của con voi là gì <eos> --> màu_tía
+576012 - <sos> màu của xe buýt là gì <eos> --> màu_đỏ
+7090 - <sos> màu của chiếc đĩa là gì <eos> --> màu_trắng
+239586 - <sos> màu của cà vạt là gì <eos> --> màu_xám
+280866 - <sos> màu của con mèo là gì <eos> --> màu_đen
+333863 - <sos> màu của con chó là gì <eos> --> màu_trắng
+17817 - <sos> màu của xe tải là gì <eos> --> màu_xanh_dương
+177786 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+217407 - <sos> màu của bông hoa là gì <eos> --> màu_tía
+210726 - <sos> màu của phòng tắm là gì <eos> --> màu_xanh_lá
+191156 - <sos> hai con mèo đang ở đâu <eos> --> tủ_đá
+101675 - <sos> màu của đồng hồ là gì <eos> --> màu_tía
+141095 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+66930 - <sos> màu của phòng tắm là gì <eos> --> màu_trắng
+118925 - <sos> màu của áo phông là gì <eos> --> màu_trắng
+93667 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+481565 - <sos> màu sắc của đệm là gì <eos> --> màu_xám
+511998 - <sos> màu của con mèo là gì <eos> --> màu_đen
+56828 - <sos> màu sắc của loa là gì <eos> --> màu_đen
+295154 - <sos> màu của trang trí là gì <eos> --> màu_xanh_lá
+335092 - <sos> màu của động vật là gì <eos> --> màu_đen
+157176 - <sos> màu của đồng hồ là gì <eos> --> màu_trắng
+18495 - <sos> màu của các tấm là gì <eos> --> màu_đỏ
+436693 - <sos> màu của chiếc bình là gì <eos> --> màu_trắng
+525450 - <sos> hai đứa trẻ đang ở đâu <eos> --> sân
+571768 - <sos> màu của áo khoác là gì <eos> --> màu_vàng
+168001 - <sos> màu của đồng cỏ là gì <eos> --> màu_xanh_lá
+399818 - <sos> màu của bàn chải là gì <eos> --> màu_xanh_lá
+429644 - <sos> màu của chiếc tàu là gì <eos> --> màu_vàng
+176249 - <sos> màu của vòi nước là gì <eos> --> màu_vàng
+237923 - <sos> màu của áo là gì <eos> --> màu_đen
+479314 - <sos> màu của sân là gì <eos> --> màu_đen
+304627 - <sos> màu của tường là gì <eos> --> màu_trắng
+308277 - <sos> màu của áo là gì <eos> --> màu_đỏ
+519205 - <sos> màu của gấu là gì <eos> --> màu_đen
+297308 - <sos> màu của diều là gì <eos> --> màu_tía
+465906 - <sos> màu của ghế là gì <eos> --> màu_nâu
+241461 - <sos> màu của len là gì <eos> --> màu_nâu
+258671 - <sos> màu của cổng là gì <eos> --> màu_xanh_dương
+195368 - <sos> màu của rèm là gì <eos> --> màu_cam
+203035 - <sos> màu của núm là gì <eos> --> màu_xám
+66246 - <sos> màu của áo là gì <eos> --> màu_xanh_dương
+4705 - <sos> màu của gấu là gì <eos> --> màu_đen
+572859 - <sos> bếp nằm ở đâu <eos> --> phòng_bếp
+7424 - <sos> người đàn ông đang chụp ảnh tự sướng ở đâu <eos> --> gương
+339862 - <sos> đâu là bát trái cây xếp chồng lên nhau <eos> --> bát
+148771 - <sos> nhà vệ sinh phản chiếu trong gương ở đâu <eos> --> phòng_tắm
+51124 - <sos> màu sắc của hoa hướng dương là gì <eos> --> màu_vàng
+26321 - <sos> màu sắc của người phụ nữ là gì <eos> --> màu_đen
+152724 - <sos> con mèo màu cam thò đầu vào đâu <eos> --> bát
+110258 - <sos> hươu cao cổ và ngựa vằn ở đâu <eos> --> vườn_bách_thú
+223283 - <sos> màu của máy tính xách tay là gì <eos> --> màu_đen
+177958 - <sos> màu sắc của các xe bus là gì <eos> --> màu_vàng
+340069 - <sos> người đàn ông đang cắt bánh ở đâu <eos> --> phòng_bếp
+490471 - <sos> bó hoa được sắp xếp ở đâu <eos> --> lọ_cắm_hoa
+200500 - <sos> màu của nhà vệ sinh là gì <eos> --> màu_trắng
+371773 - <sos> con mèo trắng đang ngồi ở đâu <eos> --> chậu
+274356 - <sos> màu của nhà vệ sinh là gì <eos> --> màu_trắng
+530645 - <sos> màu sắc của bông hoa là gì <eos> --> màu_tía
+216226 - <sos> màu sắc của đồng phục là gì <eos> --> màu_trắng
+428149 - <sos> người đàn ông đang ngồi ở đâu <eos> --> xe_ô_tô
+319427 - <sos> màu của chiếc tàu là gì <eos> --> màu_đen
+360165 - <sos> màu của con chó là gì <eos> --> màu_vàng
+87653 - <sos> màu của tủ lạnh là gì <eos> --> màu_trắng
+13274 - <sos> màu của tòa nhà là gì <eos> --> màu_đỏ
+556694 - <sos> màu của con ngựa là gì <eos> --> màu_đen
+569349 - <sos> màu của băng ghế là gì <eos> --> màu_đen
+253247 - <sos> màu của con chó là gì <eos> --> màu_nâu
+285826 - <sos> màu của chiếc ô là gì <eos> --> màu_cam
+546285 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+472312 - <sos> màu sắc của kéo là gì <eos> --> màu_tía
+41818 - <sos> màu của nước ép là gì <eos> --> màu_cam
+280847 - <sos> màu của dĩa nhựa là gì <eos> --> màu_vàng
+426762 - <sos> màu của vỉa hè là gì <eos> --> màu_xám
+270846 - <sos> màu của bông hoa là gì <eos> --> màu_tía
+168480 - <sos> màu của phòng tắm là gì <eos> --> màu_xanh_dương
+226055 - <sos> màu sắc của kéo là gì <eos> --> màu_tía
+490908 - <sos> một số hoa cắm ở đâu <eos> --> lọ_cắm_hoa
+217407 - <sos> màu của bông hoa là gì <eos> --> màu_xanh_dương
+78169 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+324663 - <sos> màu của cánh buồm là gì <eos> --> màu_vàng
+371791 - <sos> màu của tòa nhà là gì <eos> --> màu_trắng
+560997 - <sos> màu của xe buýt là gì <eos> --> màu_đen
+252702 - <sos> màu của cà vạt là gì <eos> --> màu_đỏ
+468182 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+185209 - <sos> màu của máy ảnh là gì <eos> --> màu_đỏ
+96414 - <sos> màu của hàng rào là gì <eos> --> màu_xanh_lá
+70491 - <sos> màu của bề mặt là gì <eos> --> màu_đen
+268510 - <sos> màu của bồn rửa là gì <eos> --> màu_trắng
+88123 - <sos> màu của xe đạp là gì <eos> --> màu_đỏ
+142534 - <sos> màu của bàn phím là gì <eos> --> màu_đen
+368603 - <sos> màu của con mèo là gì <eos> --> màu_đen
+121235 - <sos> màu của xe tải là gì <eos> --> màu_đỏ
+385675 - <sos> màu của xe tải là gì <eos> --> màu_xanh_dương
+29182 - <sos> màu của gấu là gì <eos> --> màu_đen
+243500 - <sos> màu của sân là gì <eos> --> màu_xanh_lá
+127921 - <sos> màu của sàn là gì <eos> --> màu_xám
+228004 - <sos> màu của gấu là gì <eos> --> màu_nâu
+195969 - <sos> màu của container là gì <eos> --> màu_xanh_dương
+506198 - <sos> màu của gấu là gì <eos> --> màu_nâu
+60915 - <sos> màu của áo là gì <eos> --> màu_cam
+59384 - <sos> màu của xe là gì <eos> --> màu_đỏ
+421488 - <sos> màu của bánh là gì <eos> --> màu_trắng
+260134 - <sos> màu của bảng là gì <eos> --> màu_trắng
+286019 - <sos> giường đôi nằm ở đâu <eos> --> phòng_ngủ
+457492 - <sos> màu của túi là gì <eos> --> màu_đỏ
+271568 - <sos> màu của gấu là gì <eos> --> màu_nâu
+251264 - <sos> màu của cây là gì <eos> --> màu_xanh_lá
+1237 - <sos> một người phụ nữ lớn tuổi tạo dáng ở đâu với một con gấu nhồi bông lớn <eos> --> xe_lăn
+134589 - <sos> người phụ nữ đang đưa hành lý của mình ở đâu <eos> --> trạm
+107428 - <sos> hai người đang chơi một trò chơi video ở đâu <eos> --> phòng
+153946 - <sos> màu sắc của những con chim là gì <eos> --> màu_đen
+529963 - <sos> người đàn ông đang đánh răng ở đâu <eos> --> gương
+95178 - <sos> người đàn ông đang điều khiển cái gì <eos> --> xe_tải
+330208 - <sos> màu sắc của người đàn ông là gì <eos> --> màu_xám
+362482 - <sos> đồ chơi nhồi bông mỉm cười ở đâu <eos> --> lò_vi_sóng
+472390 - <sos> màu của bàn chải đánh răng là gì <eos> --> màu_cam
+234006 - <sos> cầu thủ bóng chày swing ở đâu <eos> --> lồng
+103580 - <sos> màu của thứ kẻ sọc là gì <eos> --> màu_trắng
+136323 - <sos> nhiều thuyền được xếp hàng ở đâu <eos> --> bến_du_thuyền
+268141 - <sos> con mèo lớn đang ngồi ở đâu <eos> --> cái_ghế
+481565 - <sos> màu của chiếc ghế dài là gì <eos> --> màu_xám
+240289 - <sos> màu của vật đang ngủ là gì <eos> --> màu_cam
+138621 - <sos> màu sắc của áo thun là gì <eos> --> màu_trắng
+157610 - <sos> màu của những đám mây là gì <eos> --> màu_xám
+374372 - <sos> màu của con chó là gì <eos> --> màu_đen
+458649 - <sos> màu của bầu trời là gì <eos> --> màu_đỏ
+264969 - <sos> màu của chiếc bình là gì <eos> --> màu_xanh_lá
+491525 - <sos> màu của con chó là gì <eos> --> màu_đen
+573961 - <sos> màu của con cừu là gì <eos> --> màu_xám
+8836 - <sos> màu của xe buýt là gì <eos> --> màu_xanh_dương
+305323 - <sos> màu sắc của cực là gì <eos> --> màu_xanh_dương
+331551 - <sos> màu sắc của đĩa là gì <eos> --> màu_đỏ
+68764 - <sos> màu của đồng hồ là gì <eos> --> màu_đen
+493883 - <sos> màu của vòi nước là gì <eos> --> màu_vàng
+104792 - <sos> màu của chiếc ô là gì <eos> --> màu_cam
+110459 - <sos> màu của cà vạt là gì <eos> --> màu_xanh_dương
+419273 - <sos> màu của con mèo là gì <eos> --> màu_xám
+521894 - <sos> màu của mặt phẳng là gì <eos> --> màu_xanh_dương
+445774 - <sos> màu của cà vạt là gì <eos> --> màu_xanh_lá
+364303 - <sos> màu của bầu trời là gì <eos> --> màu_xám
+111727 - <sos> con mèo đang nằm ở đâu <eos> --> chậu
+340929 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+250708 - <sos> màu của con bò là gì <eos> --> màu_nâu
+521657 - <sos> màu của bó hoa là gì <eos> --> màu_xanh_dương
+402980 - <sos> màu của đối tượng là gì <eos> --> màu_xanh_dương
+300896 - <sos> màu sắc của giày là gì <eos> --> màu_đỏ
+73843 - <sos> màu của đường đua là gì <eos> --> màu_xanh_lá
+321577 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+405523 - <sos> màu của cái dĩa là gì <eos> --> màu_trắng
+347697 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+429705 - <sos> màu của quả bóng là gì <eos> --> màu_cam
+35485 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+408815 - <sos> màu của vòi nước là gì <eos> --> màu_đỏ
+164850 - <sos> màu của chiếc ô là gì <eos> --> màu_xanh_dương
+129771 - <sos> màu của chiếc nắp là gì <eos> --> màu_tía
+438314 - <sos> màu của trải giường là gì <eos> --> màu_đỏ
+357272 - <sos> màu của tường là gì <eos> --> màu_trắng
+534384 - <sos> màu của vali là gì <eos> --> màu_nâu
+392974 - <sos> màu của bảng là gì <eos> --> màu_cam
+114080 - <sos> màu của diều là gì <eos> --> màu_đỏ
+327738 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+579781 - <sos> màu của giấy là gì <eos> --> màu_trắng
+89943 - <sos> màu của áo là gì <eos> --> màu_đen
+399984 - <sos> màu của gấu là gì <eos> --> màu_nâu
+532525 - <sos> màu của sứ là gì <eos> --> màu_trắng
+313720 - <sos> màu của áo là gì <eos> --> màu_xanh_lá
+546232 - <sos> màu của nền là gì <eos> --> màu_xanh_lá
+415710 - <sos> màu của ghế là gì <eos> --> màu_vàng
+95320 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+458921 - <sos> chuối nằm ở đâu <eos> --> bát
+338091 - <sos> màu mắt là gì <eos> --> màu_xanh_lá
+335380 - <sos> nhà vệ sinh, bồn rửa và bồn tắm phản chiếu ở đâu <eos> --> gương
+577107 - <sos> hai nhà vệ sinh và hai bồn cầu ở đâu <eos> --> phòng_tắm
+53037 - <sos> màu sắc trang phục của huấn luyện viên là gì <eos> --> màu_nâu
+125015 - <sos> người đàn ông và hai con mèo ở đâu <eos> --> phòng_bếp
+94925 - <sos> những người đang ngồi và đi bộ ở đâu <eos> --> sân_bay
+550870 - <sos> quý ông ngồi xuống ăn pizza ở đâu <eos> --> quán_ăn
+19146 - <sos> màu sắc của người an ủi là gì <eos> --> màu_trắng
+238562 - <sos> những chiếc bánh rán được chứa ở đâu <eos> --> hộp
+319062 - <sos> hai con chó trắng ngồi ở đâu <eos> --> xe_ô_tô
+156326 - <sos> màu sắc của bông hoa là gì <eos> --> màu_tía
+300392 - <sos> màu của nhà vệ sinh là gì <eos> --> màu_xanh_dương
+105600 - <sos> màu sắc của áo tuyết là gì <eos> --> màu_tía
+316477 - <sos> màu sắc của đồ chơi là gì <eos> --> màu_tía
+220218 - <sos> màu sắc của nhân vật là gì <eos> --> màu_tía
+139482 - <sos> màu của nhà vệ sinh là gì <eos> --> màu_trắng
+196473 - <sos> màu của bông hoa là gì <eos> --> màu_tía
+110979 - <sos> con mèo đang ngồi ở đâu <eos> --> hành_lý
+96679 - <sos> màu của con chim là gì <eos> --> màu_trắng
+215776 - <sos> màu của vòi nước là gì <eos> --> màu_đỏ
+507854 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+21622 - <sos> màu của phòng tắm là gì <eos> --> màu_đen
+128670 - <sos> màu sắc của cây là gì <eos> --> màu_xanh_lá
+555493 - <sos> màu của con chó là gì <eos> --> màu_nâu
+527628 - <sos> màu của chiếc ô là gì <eos> --> màu_xanh_dương
+38896 - <sos> màu của khuôn mặt là gì <eos> --> màu_cam
+3514 - <sos> màu của bãi cỏ là gì <eos> --> màu_xanh_lá
+447684 - <sos> màu của con bò là gì <eos> --> màu_nâu
+301602 - <sos> màu của áo khoác là gì <eos> --> màu_vàng
+54399 - <sos> màu của con mèo là gì <eos> --> màu_đen
+348639 - <sos> hai tàu màu vàng ở đâu <eos> --> tòa_nhà
+24193 - <sos> màu của chiếc tàu là gì <eos> --> màu_đen
+337663 - <sos> màu của quần jean là gì <eos> --> màu_xanh_dương
+184300 - <sos> màu của máy bay là gì <eos> --> màu_trắng
+234255 - <sos> màu của sườn đồi là gì <eos> --> màu_xanh_lá
+448702 - <sos> màu của vòi nước là gì <eos> --> màu_đỏ
+492137 - <sos> màu của con mèo là gì <eos> --> màu_cam
+252952 - <sos> màu của chiếc ô là gì <eos> --> màu_trắng
+172669 - <sos> màu của chiếc bình là gì <eos> --> màu_xanh_dương
+448698 - <sos> màu của bãi cỏ là gì <eos> --> màu_xanh_lá
+473014 - <sos> màu của xe máy là gì <eos> --> màu_đen
+460505 - <sos> con mèo lớn nằm ở đâu <eos> --> vali
+472089 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+448161 - <sos> màu của món ăn là gì <eos> --> màu_vàng
+114749 - <sos> màu của chiếc bình là gì <eos> --> màu_xanh_dương
+574419 - <sos> màu của áo khoác là gì <eos> --> màu_đen
+126590 - <sos> màu của dấu hiệu là gì <eos> --> màu_xanh_dương
+366810 - <sos> màu của tường là gì <eos> --> màu_xám
+281700 - <sos> màu của tường là gì <eos> --> màu_tía
+411875 - <sos> con chó nằm ở đâu <eos> --> cái_ghế
+380425 - <sos> màu của áo là gì <eos> --> màu_xanh_lá
+477634 - <sos> màu của lông là gì <eos> --> màu_đen
+385146 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+220601 - <sos> màu của gạch là gì <eos> --> màu_nâu
+330770 - <sos> màu của màn là gì <eos> --> màu_trắng
+125928 - <sos> màu của ghế là gì <eos> --> màu_tía
+362278 - <sos> màu của dấu là gì <eos> --> màu_đỏ
+381544 - <sos> màu của áo là gì <eos> --> màu_cam
+222122 - <sos> màu của gấu là gì <eos> --> màu_nâu
+258854 - <sos> màu của ghế là gì <eos> --> màu_xanh_dương
+253785 - <sos> màu của ottoman là gì <eos> --> màu_đen
+139152 - <sos> màu của xe là gì <eos> --> màu_xanh_dương
+370739 - <sos> màu của cây là gì <eos> --> màu_xanh_dương
+578169 - <sos> màu của cốc là gì <eos> --> màu_cam
+207686 - <sos> màu của sàn là gì <eos> --> màu_xám
+65457 - <sos> một con mèo màu cam và trắng đang nằm ở đâu <eos> --> chậu
+223369 - <sos> em bé đang ăn một miếng thức ăn ở đâu <eos> --> phòng_bếp
+185945 - <sos> đứa trẻ với chiếc găng tay chạy ở đâu <eos> --> đường_bộ
+336267 - <sos> màu sắc của những con chim là gì <eos> --> màu_nâu
+359131 - <sos> màu của xe cảnh sát là gì <eos> --> màu_xanh_dương
+501523 - <sos> con mèo đen đang ngồi ở đâu <eos> --> chậu
+270524 - <sos> màu của mũ bảo hiểm là gì <eos> --> màu_đỏ
+512431 - <sos> màu sắc của bông hoa là gì <eos> --> màu_vàng
+511143 - <sos> màu của chiếc ghế dài là gì <eos> --> màu_xám
+125377 - <sos> màu của nhà để xe là gì <eos> --> màu_xám
+144475 - <sos> màu của chiếc bình là gì <eos> --> màu_xanh_dương
+445156 - <sos> màu của lò sưởi là gì <eos> --> màu_trắng
+489762 - <sos> màu của dĩa nhựa là gì <eos> --> màu_xanh_lá
+221156 - <sos> màu của bộ đồ là gì <eos> --> màu_đen
+574144 - <sos> màu của vùng đất là gì <eos> --> màu_xanh_lá
+213349 - <sos> màu của bề mặt là gì <eos> --> màu_nâu
+110735 - <sos> màu của con chó là gì <eos> --> màu_nâu
+132258 - <sos> màu của quần jean là gì <eos> --> màu_xanh_dương
+204052 - <sos> màu của chiếc đĩa là gì <eos> --> màu_xanh_dương
+351888 - <sos> màu của cái vợt là gì <eos> --> màu_trắng
+57178 - <sos> màu của màn hình là gì <eos> --> màu_vàng
+513214 - <sos> màu của thân cây là gì <eos> --> màu_đen
+21514 - <sos> màu của con chó là gì <eos> --> màu_xám
+78695 - <sos> màu của lọ mứt là gì <eos> --> màu_cam
+78572 - <sos> màu của xe tải là gì <eos> --> màu_trắng
+394 - <sos> màu của dĩa nhựa là gì <eos> --> màu_tía
+136433 - <sos> người đàn ông đang đi đâu <eos> --> sân_bay
+184536 - <sos> màu của dĩa nhựa là gì <eos> --> màu_đỏ
+417478 - <sos> màu của xe đạp là gì <eos> --> màu_đỏ
+251084 - <sos> màu của xe buýt là gì <eos> --> màu_đỏ
+381047 - <sos> màu của trải giường là gì <eos> --> màu_trắng
+401232 - <sos> màu của con mèo là gì <eos> --> màu_đen
+207889 - <sos> màu của con chó là gì <eos> --> màu_nâu
+151945 - <sos> màu của các tấm là gì <eos> --> màu_trắng
+366643 - <sos> màu của chiếc thẻ là gì <eos> --> màu_đỏ
+232231 - <sos> màu của áo khoác là gì <eos> --> màu_cam
+92868 - <sos> màu của đường dẫn là gì <eos> --> màu_xám
+90820 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+520551 - <sos> màu của ngân hàng là gì <eos> --> màu_xanh_lá
+480064 - <sos> màu của xe buýt là gì <eos> --> màu_xanh_dương
+166503 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+271416 - <sos> màu của cái bát là gì <eos> --> màu_nâu
+97890 - <sos> màu sắc của giỏ là gì <eos> --> màu_xanh_dương
+513298 - <sos> màu của con quạ là gì <eos> --> màu_đen
+271949 - <sos> màu của xe ngựa là gì <eos> --> màu_trắng
+44569 - <sos> màu của nước ép là gì <eos> --> màu_cam
+502153 - <sos> màu của xe tải là gì <eos> --> màu_xanh_dương
+67246 - <sos> màu của con mèo là gì <eos> --> màu_xanh_dương
+56303 - <sos> màu của bàn chân là gì <eos> --> màu_trắng
+200202 - <sos> màu của con chó là gì <eos> --> màu_đen
+170990 - <sos> màu của bảng là gì <eos> --> màu_đen
+367724 - <sos> màu của xe là gì <eos> --> màu_xám
+334373 - <sos> màu của gấu là gì <eos> --> màu_nâu
+115681 - <sos> màu của gấu là gì <eos> --> màu_nâu
+49062 - <sos> màu của ghế là gì <eos> --> màu_xanh_dương
+202767 - <sos> màu của ghế là gì <eos> --> màu_xanh_lá
+539675 - <sos> màu của tường là gì <eos> --> màu_xám
+70164 - <sos> màu của bảng là gì <eos> --> màu_trắng
+208894 - <sos> màu của lửa là gì <eos> --> màu_vàng
+560683 - <sos> màu của gối là gì <eos> --> màu_đỏ
+223870 - <sos> màu của lửa là gì <eos> --> màu_xanh_lá
+280189 - <sos> màu của gấu là gì <eos> --> màu_trắng
+386029 - <sos> màu của ghế là gì <eos> --> màu_tía
+208433 - <sos> màu nước là gì <eos> --> màu_xanh_dương
+179331 - <sos> con chó nhìn ra khỏi cửa sổ xe được phản chiếu ở đâu <eos> --> gương
+397454 - <sos> người đàn ông đang cưỡi ván trượt của mình ở đâu <eos> --> đường_phố
+173019 - <sos> người phụ nữ và một con chó đứng ở đâu <eos> --> phòng_bếp
+488583 - <sos> người đàn ông đẩy rất nhiều hành lý ở đâu <eos> --> sân_bay
+538518 - <sos> nhóm người đang chơi trò chơi điện thoại ở đâu <eos> --> phòng
+421944 - <sos> màu của bàn chải đánh răng là gì <eos> --> màu_xanh_lá
+419273 - <sos> con mèo xám đã cuộn tròn ở đâu <eos> --> cái_rổ
+90140 - <sos> màu sắc của hoa lan là gì <eos> --> màu_cam
+74411 - <sos> màu sắc của công viên là gì <eos> --> màu_xanh_lá
+433389 - <sos> hướng hoa hướng dương cắm ở đâu <eos> --> lọ_cắm_hoa
+531450 - <sos> màu của những ngọn núi là gì <eos> --> màu_nâu
+174892 - <sos> màu của xe tải lớn là gì <eos> --> màu_tía
+516470 - <sos> con mèo đen trắng nằm ở đâu <eos> --> cái_túi
+155102 - <sos> màu sắc của bông hoa là gì <eos> --> màu_tía
+332723 - <sos> màu sắc của bông hoa là gì <eos> --> màu_tía
+2752 - <sos> nhóm phụ nữ tập hợp ở đâu <eos> --> phòng
+407196 - <sos> màu của con chó là gì <eos> --> màu_đen
+278870 - <sos> màu của con voi là gì <eos> --> màu_xám
+496274 - <sos> màu của xe máy là gì <eos> --> màu_đỏ
+539340 - <sos> màu của cà vạt là gì <eos> --> màu_tía
+254670 - <sos> màu của con mèo là gì <eos> --> màu_xám
+137806 - <sos> màu của con bò là gì <eos> --> màu_đen
+434221 - <sos> màu của xe buýt là gì <eos> --> màu_đỏ
+299050 - <sos> màu của bầu trời là gì <eos> --> màu_xám
+224260 - <sos> màu của đường ray là gì <eos> --> màu_xanh_dương
+364698 - <sos> màu của tòa nhà là gì <eos> --> màu_trắng
+377804 - <sos> màu của con chó là gì <eos> --> màu_vàng
+261342 - <sos> màu sắc của cực là gì <eos> --> màu_vàng
+101215 - <sos> màu sắc của váy là gì <eos> --> màu_trắng
+404972 - <sos> màu của đồng cỏ là gì <eos> --> màu_xanh_lá
+74828 - <sos> màu của con chim là gì <eos> --> màu_vàng
+507769 - <sos> màu của chiếc đĩa là gì <eos> --> màu_xanh_dương
+114204 - <sos> màu của xe buýt là gì <eos> --> màu_đỏ
+455132 - <sos> màu của động cơ là gì <eos> --> màu_cam
+461510 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+196346 - <sos> màu của con chó là gì <eos> --> màu_nâu
+109654 - <sos> màu của con bò là gì <eos> --> màu_nâu
+248132 - <sos> bếp và tủ lạnh ở đâu <eos> --> phòng_bếp
+68063 - <sos> màu của chiếc tàu là gì <eos> --> màu_đỏ
+55630 - <sos> màu của mèo con là gì <eos> --> màu_cam
+400275 - <sos> màu của chiếc thuyền là gì <eos> --> màu_vàng
+200619 - <sos> màu của ánh sáng là gì <eos> --> màu_đỏ
+59318 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+570574 - <sos> màu của du thuyền là gì <eos> --> màu_trắng
+103219 - <sos> màu của con chó là gì <eos> --> màu_đen
+292982 - <sos> màu của bông hoa là gì <eos> --> màu_tía
+124985 - <sos> con vật đang ngủ ở đâu <eos> --> cái_ghế
+357810 - <sos> màu của nước ép là gì <eos> --> màu_cam
+308600 - <sos> màu của áo là gì <eos> --> màu_cam
+180713 - <sos> màu của vali là gì <eos> --> màu_tía
+194056 - <sos> màu của áo là gì <eos> --> màu_vàng
+74032 - <sos> màu của gấu là gì <eos> --> màu_đen
+132170 - <sos> màu của ghế là gì <eos> --> màu_xanh_dương
+222858 - <sos> màu của gấu là gì <eos> --> màu_đen
+390288 - <sos> màu của lửa là gì <eos> --> màu_vàng
+456678 - <sos> màu của ghế là gì <eos> --> màu_xanh_dương
+128943 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+84625 - <sos> màu của xe là gì <eos> --> màu_trắng
+236936 - <sos> màu của cửa là gì <eos> --> màu_xanh_dương
+544449 - <sos> màu của cam là gì <eos> --> màu_cam
+77563 - <sos> màu của tháp là gì <eos> --> màu_trắng
+532555 - <sos> màu tóc là gì <eos> --> màu_trắng
+101863 - <sos> màu nước là gì <eos> --> màu_xám
+342146 - <sos> con bò ở đâu <eos> --> chuồng_trại
+449467 - <sos> bốn quả cam, cà rốt; bưởi, cây trứng, măng tây và hành tây trên bàn nằm ở đâu <eos> --> cái_túi
+244646 - <sos> người phụ nữ đứng ở đâu trong khi sử dụng máy tính xách tay <eos> --> phòng_bếp
+251418 - <sos> bồn rửa được phản chiếu trong gương nằm ở đâu <eos> --> nhà_vệ_sinh
+436649 - <sos> người đàn ông và một đứa bé đang ở đâu <eos> --> phòng_bếp
+534521 - <sos> nhà vệ sinh trắng đang đặt ở đâu <eos> --> phòng_tắm
+46852 - <sos> nơi chỉ có một bàn chải đánh răng <eos> --> tách
+26958 - <sos> con hươu cao cổ đơn độc ở đâu <eos> --> vườn_bách_thú
+54869 - <sos> màu của xe buýt / thuyền là gì <eos> --> màu_vàng
+312299 - <sos> người đó đã chạy nước ở đâu <eos> --> chậu
+308522 - <sos> màu sắc của đồ chơi là gì <eos> --> màu_đen
+486573 - <sos> những bông hoa trắng nằm ở đâu <eos> --> lọ_cắm_hoa
+538349 - <sos> cậu bé đang đánh răng ở đâu <eos> --> gương
+569530 - <sos> cây bồ công anh chết ở đâu <eos> --> lọ_cắm_hoa
+234452 - <sos> màu sắc của bông hoa là gì <eos> --> màu_trắng
+271416 - <sos> màu của chất lỏng là gì <eos> --> màu_vàng
+399809 - <sos> màu của đồ bơi là gì <eos> --> màu_đen
+155707 - <sos> màu của chiếc nơ là gì <eos> --> màu_xám
+539340 - <sos> màu của chiếc nơ là gì <eos> --> màu_tía
+186103 - <sos> màu của bồn rửa là gì <eos> --> màu_trắng
+479103 - <sos> màu của chiếc thuyền là gì <eos> --> màu_xanh_dương
+114844 - <sos> màu của xe buýt là gì <eos> --> màu_trắng
+38022 - <sos> màu của xe buýt là gì <eos> --> màu_xanh_lá
+526089 - <sos> người đàn ông đang ở đâu <eos> --> gian_hàng
+526701 - <sos> màu của dấu hiệu là gì <eos> --> màu_xanh_lá
+397772 - <sos> màu của tòa án là gì <eos> --> màu_xanh_dương
+131460 - <sos> màu của ô cửa là gì <eos> --> màu_xanh_lá
+477785 - <sos> tàu chở hành khách ở đâu <eos> --> tàu_hỏa
+84165 - <sos> màu của gấu bông là gì <eos> --> màu_nâu
+87126 - <sos> màu của tủ lạnh là gì <eos> --> màu_đen
+85624 - <sos> màu của bộ đồ là gì <eos> --> màu_đen
+82929 - <sos> màu của chiếc đĩa là gì <eos> --> màu_trắng
+342724 - <sos> màu của chiếc đĩa là gì <eos> --> màu_cam
+443735 - <sos> màu của dấu hiệu là gì <eos> --> màu_vàng
+63703 - <sos> màu của bộ đồ là gì <eos> --> màu_tía
+321709 - <sos> màu của xe máy là gì <eos> --> màu_xanh_dương
+82735 - <sos> màu của đồng hồ là gì <eos> --> màu_nâu
+108582 - <sos> màu của điện thoại là gì <eos> --> màu_đỏ
+271890 - <sos> màu của món ăn là gì <eos> --> màu_trắng
+187509 - <sos> màu của xe đạp là gì <eos> --> màu_cam
+341272 - <sos> màu của băng ghế là gì <eos> --> màu_xanh_dương
+491250 - <sos> màu của con mèo là gì <eos> --> màu_đen
+345667 - <sos> màu của máy kéo là gì <eos> --> màu_đỏ
+441751 - <sos> màu của chiếc nắp là gì <eos> --> màu_trắng
+395314 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+98162 - <sos> ba người đang chơi ở đâu <eos> --> hồ_bơi
+430654 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+46786 - <sos> màu của điểm dừng là gì <eos> --> màu_đỏ
+120846 - <sos> màu của giấc ngủ là gì <eos> --> màu_nâu
+520655 - <sos> màu của con mèo là gì <eos> --> màu_đen
+427603 - <sos> màu của ô liu là gì <eos> --> màu_đen
+394806 - <sos> màu của thanh xà là gì <eos> --> màu_cam
+126815 - <sos> màu của con chó là gì <eos> --> màu_đen
+505597 - <sos> màu của chiếc bình là gì <eos> --> màu_xanh_lá
+335092 - <sos> màu của động vật là gì <eos> --> màu_đen
+282899 - <sos> màu của xe tải là gì <eos> --> màu_trắng
+518901 - <sos> màu sắc của nêm là gì <eos> --> màu_cam
+114219 - <sos> màu của bệ là gì <eos> --> màu_nâu
+581351 - <sos> màu của thảm là gì <eos> --> màu_xanh_lá
+69350 - <sos> màu của gấu là gì <eos> --> màu_nâu
+386684 - <sos> màu của áo là gì <eos> --> màu_cam
+176978 - <sos> màu của áo là gì <eos> --> màu_đen
+289223 - <sos> màu của nền là gì <eos> --> màu_cam
+432583 - <sos> những bông hoa ở đâu <eos> --> lọ_cắm_hoa
+204919 - <sos> màu tóc là gì <eos> --> màu_đen
+549746 - <sos> cậu bé mỉm cười ở đâu trong khi đánh răng <eos> --> bồn_tắm
+278636 - <sos> đàn ông mặc áo đỏ đang chơi game ở đâu <eos> --> tòa_nhà
+535820 - <sos> những người đang làm những việc khác nhau ở đâu <eos> --> nhà_ở
+64170 - <sos> nhóm người trên xe đạp đã làm gì ở đâu <eos> --> đường_phố
+571535 - <sos> món đồ có vẻ hấp dẫn ở đâu <eos> --> ảnh_chụp
+520087 - <sos> màu sắc của các món ăn là gì <eos> --> màu_xanh_dương
+524531 - <sos> hai hươu cao cổ đứng ở đâu <eos> --> lồng
+349621 - <sos> màu sắc của bông hoa là gì <eos> --> màu_tía
+146926 - <sos> ba bánh pizza đang nằm ở đâu <eos> --> xe_ô_tô
+519616 - <sos> màu sắc của chiếc váy là gì <eos> --> màu_đỏ
+308292 - <sos> màu của chiếc tàu là gì <eos> --> màu_xanh_lá
+424760 - <sos> màu của con mèo là gì <eos> --> màu_đen
+288131 - <sos> màu của dấu hiệu là gì <eos> --> màu_đỏ
+168963 - <sos> màu của con mèo là gì <eos> --> màu_cam
+541797 - <sos> màu của đối tượng là gì <eos> --> màu_xanh_dương
+440340 - <sos> màu của chiếc ô là gì <eos> --> màu_đỏ
+436990 - <sos> màu của bệ đở là gì <eos> --> màu_trắng
+545804 - <sos> màu của con mèo là gì <eos> --> màu_xám
+94884 - <sos> mẻ bánh quy nướng ở đâu <eos> --> lò_vi_sóng
+345497 - <sos> con chuột ăn rau ở đâu <eos> --> lồng
+327550 - <sos> màu của cái bát là gì <eos> --> màu_đỏ
+531266 - <sos> màu của khoảng sân là gì <eos> --> màu_xanh_lá
+579757 - <sos> màu của dĩa nhựa là gì <eos> --> màu_tía
+391971 - <sos> màu của tòa án là gì <eos> --> màu_đỏ
+111583 - <sos> màu của con chó là gì <eos> --> màu_trắng
+432805 - <sos> màu của con chim là gì <eos> --> màu_xanh_dương
+428091 - <sos> màu của con ngựa là gì <eos> --> màu_trắng
+5757 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+274916 - <sos> màu của con chó là gì <eos> --> màu_đen
+276750 - <sos> màu của chiếc ô là gì <eos> --> màu_tía
+479929 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+460290 - <sos> màu của vòi nước là gì <eos> --> màu_đỏ
+299466 - <sos> màu của nước ép là gì <eos> --> màu_cam
+412781 - <sos> màu của con mèo là gì <eos> --> màu_cam
+88697 - <sos> màu của xe máy là gì <eos> --> màu_xám
+272876 - <sos> màu của áo len là gì <eos> --> màu_xám
+157295 - <sos> màu của xe tải là gì <eos> --> màu_cam
+445815 - <sos> màu của chiếc thẻ là gì <eos> --> màu_xanh_lá
+41233 - <sos> màu của dòng kẻ là gì <eos> --> màu_xanh_dương
+517395 - <sos> màu của chiếc tàu là gì <eos> --> màu_tía
+26027 - <sos> màu của xe máy là gì <eos> --> màu_xanh_dương
+506198 - <sos> màu của gấu là gì <eos> --> màu_nâu
+25765 - <sos> màu của bếp là gì <eos> --> màu_đen
+264511 - <sos> màu của áo là gì <eos> --> màu_trắng
+469181 - <sos> màu của gấu là gì <eos> --> màu_trắng
+288943 - <sos> màu của áo là gì <eos> --> màu_tía
+413539 - <sos> màu của bóng là gì <eos> --> màu_đen
+493500 - <sos> màu của bể là gì <eos> --> màu_xanh_dương
+291499 - <sos> màu của nền là gì <eos> --> màu_đen
+570483 - <sos> pizza được chứa ở đâu <eos> --> hộp
+8595 - <sos> màu của cỏ là gì <eos> --> màu_xanh_lá
+253247 - <sos> màu của chăn là gì <eos> --> màu_cam
+208834 - <sos> màu của vali là gì <eos> --> màu_đen
+150641 - <sos> màu của xe là gì <eos> --> màu_xanh_dương
+84165 - <sos> màu của gấu là gì <eos> --> màu_nâu
+204806 - <sos> màu của gấu là gì <eos> --> màu_nâu
+38310 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+355344 - <sos> màu của thảm là gì <eos> --> màu_xám
+568572 - <sos> màu của giỏ là gì <eos> --> màu_xanh_lá
+14432 - <sos> màu của chân là gì <eos> --> màu_đen
+365236 - <sos> con chó đang ở đâu <eos> --> cái_ví
+136338 - <sos> màu của lửa là gì <eos> --> màu_vàng
+559682 - <sos> cái muỗng ở đâu <eos> --> cái_lọ
+498988 - <sos> màu mắt là gì <eos> --> màu_vàng
+349932 - <sos> những người sử dụng máy tính xách tay ngồi ở đâu <eos> --> giường
+436407 - <sos> thức ăn cùng những quả chuố được nấu ở đâu <eos> --> chảo
+458631 - <sos> sự phản chiếu của mèo xám và trắng ở đâu <eos> --> gương
+146705 - <sos> màu sắc của bộ trang phục là gì <eos> --> màu_đen
+477135 - <sos> màu sắc của cô gái là gì <eos> --> màu_trắng
+555811 - <sos> mèo lông vàng đang ngồi ở đâu <eos> --> cửa_sổ
+345899 - <sos> màu của chiếc ghế dài là gì <eos> --> màu_trắng
+350075 - <sos> hai con mèo con rúc vào đâu <eos> --> chậu
+254237 - <sos> bó hoa được sắp xếp ở đâu <eos> --> lọ_cắm_hoa
+536008 - <sos> màu sắc của bông hoa là gì <eos> --> màu_tía
+33417 - <sos> màu của sự lây lan là gì <eos> --> màu_cam
+77662 - <sos> màu của kính bảo hộ là gì <eos> --> màu_xanh_lá
+220518 - <sos> màu của sự lây lan là gì <eos> --> màu_tía
+303047 - <sos> màu sắc của gót chân là gì <eos> --> màu_đỏ
+106843 - <sos> màu sắc của đi bộ là gì <eos> --> màu_tía
+468960 - <sos> gấu bông nâu nằm ở đâu <eos> --> đường_phố
+554564 - <sos> màu của con mèo là gì <eos> --> màu_trắng
+101675 - <sos> màu của đồng hồ là gì <eos> --> màu_đen
+23158 - <sos> màu của chiếc đĩa là gì <eos> --> màu_trắng
+335255 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+556360 - <sos> màu của thảo mộc là gì <eos> --> màu_xanh_lá
+165036 - <sos> màu của áo khoác là gì <eos> --> màu_đen
+30187 - <sos> đồ chơi nhồi bông ở đâu <eos> --> lò_vi_sóng
+556647 - <sos> màu của chiếc tàu là gì <eos> --> màu_cam
+510596 - <sos> màu của quả táo là gì <eos> --> màu_xanh_lá
+263589 - <sos> màu của dấu hiệu là gì <eos> --> màu_vàng
+131101 - <sos> màu sắc của teeshirt là gì <eos> --> màu_trắng
+171430 - <sos> màu của chiếc tàu là gì <eos> --> màu_cam
+458935 - <sos> màu của chiếc mũ là gì <eos> --> màu_nâu
+371773 - <sos> con mèo đang ngồi ở đâu <eos> --> chậu
+135459 - <sos> màu của băng ghế là gì <eos> --> màu_đỏ
+305315 - <sos> màu của hóa đơn là gì <eos> --> màu_đỏ
+522185 - <sos> người đang chụp ảnh ở đâu <eos> --> gương
+99010 - <sos> màu của tòa nhà là gì <eos> --> màu_vàng
+64818 - <sos> màu của con bò là gì <eos> --> màu_nâu
+245746 - <sos> màu của con voi là gì <eos> --> màu_nâu
+253470 - <sos> màu của cà vạt là gì <eos> --> màu_cam
+525101 - <sos> màu của chiếc tàu là gì <eos> --> màu_vàng
+105580 - <sos> màu của bề mặt là gì <eos> --> màu_trắng
+381470 - <sos> thợ sửa ống nước ở đâu <eos> --> phòng_tắm
+211116 - <sos> màu của bánh xe là gì <eos> --> màu_vàng
+234357 - <sos> màu của chiếc bình là gì <eos> --> màu_xanh_lá
+357208 - <sos> màu của vest là gì <eos> --> màu_cam
+431008 - <sos> màu của container là gì <eos> --> màu_cam
+65209 - <sos> màu của áo là gì <eos> --> màu_đen
+518083 - <sos> màu của xe là gì <eos> --> màu_xanh_dương
+202966 - <sos> màu của gấu là gì <eos> --> màu_nâu
+201929 - <sos> màu của áo là gì <eos> --> màu_xanh_lá
+418989 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+531362 - <sos> màu của bánh là gì <eos> --> màu_trắng
+116771 - <sos> màu của nón là gì <eos> --> màu_cam
+422375 - <sos> người đàn ông ở đâu <eos> --> gương
+311589 - <sos> màu của diều là gì <eos> --> màu_vàng
+177840 - <sos> màu của áo là gì <eos> --> màu_tía
+572804 - <sos> màu của lửa là gì <eos> --> màu_vàng
+284464 - <sos> màu của ghế là gì <eos> --> màu_trắng
+158428 - <sos> màu của ghế là gì <eos> --> màu_nâu
+547100 - <sos> màu của gấu là gì <eos> --> màu_tía
+487256 - <sos> màu của gạch là gì <eos> --> màu_nâu
+321011 - <sos> màu của áo là gì <eos> --> màu_nâu
+264709 - <sos> màu của bảng là gì <eos> --> màu_xanh_lá
+307583 - <sos> màu của gấu là gì <eos> --> màu_đen
+557685 - <sos> màu của yếm là gì <eos> --> màu_vàng
+283618 - <sos> màu của áo là gì <eos> --> màu_xám
+420864 - <sos> con công đầy màu sắc đang đi dạo trên con đường bê tông ở đâu <eos> --> quán_ăn
+342441 - <sos> một số đồ chơi, và không ai ở trong căn phòng này <eos> --> nhà_vệ_sinh
+20202 - <sos> người thanh niên nặn bột thành những quả bóng ở đâu <eos> --> phòng_bếp
+281602 - <sos> người đang ở đâu với một chiếc ô đen và trắng <eos> --> ô_cửa
+78880 - <sos> đống hộp đựng dụng cụ được cất giữ ở đâu <eos> --> phòng
+558851 - <sos> hai người ở đâu với một con chèo <eos> --> con_thuyền
+94791 - <sos> pizza rau đã sẵn sàng để đi đâu <eos> --> lò_vi_sóng
+316514 - <sos> một số rau thái lát nằm ở đâu <eos> --> bát
+414764 - <sos> màu của xe tải bán chạy là gì <eos> --> màu_xanh_lá
+214022 - <sos> màu sắc của những con chim là gì <eos> --> màu_xanh_lá
+491845 - <sos> màu sắc của thư giãn là gì <eos> --> màu_cam
+303367 - <sos> màu sắc của trái tim là gì <eos> --> màu_tía
+175251 - <sos> trẻ nhỏ đang đánh răng ở đâu <eos> --> phòng_tắm
+127304 - <sos> đâu là đám hươu cao cổ đứng <eos> --> chuồng
+168758 - <sos> màu sắc của hành khách là gì <eos> --> màu_xanh_dương
+501867 - <sos> màu sắc của boong tàu là gì <eos> --> màu_đỏ
+579534 - <sos> màu sắc của bông hoa là gì <eos> --> màu_đỏ
+364082 - <sos> màu sắc của hành lý là gì <eos> --> màu_cam
+385844 - <sos> màu của nhà vệ sinh là gì <eos> --> màu_trắng
+251293 - <sos> màu sắc của đồng phục là gì <eos> --> màu_xanh_lá
+26733 - <sos> màu của mèo con là gì <eos> --> màu_đen
+507067 - <sos> màu của hình vuông là gì <eos> --> màu_vàng
+361376 - <sos> màu của cà rốt là gì <eos> --> màu_vàng
+87403 - <sos> màu của biển báo là gì <eos> --> màu_đỏ
+312344 - <sos> màu của dấu hiệu là gì <eos> --> màu_vàng
+201644 - <sos> màu của cuốn sách là gì <eos> --> màu_tía
+398139 - <sos> màu của vòi nước là gì <eos> --> màu_đỏ
+354282 - <sos> màu của xe buýt là gì <eos> --> màu_đỏ
+34973 - <sos> màu của hoa hồng là gì <eos> --> màu_đỏ
+11508 - <sos> màu sắc của giày là gì <eos> --> màu_xám
+573529 - <sos> màu của dĩa nhựa là gì <eos> --> màu_cam
+278569 - <sos> màu của chiếc tàu là gì <eos> --> màu_vàng
+453016 - <sos> màu của chiếc đĩa là gì <eos> --> màu_trắng
+118997 - <sos> màu của con mèo là gì <eos> --> màu_cam
+232218 - <sos> màu của phòng tắm là gì <eos> --> màu_trắng
+140360 - <sos> màu của con mèo là gì <eos> --> màu_đen
+320649 - <sos> màu của con mèo là gì <eos> --> màu_cam
+269557 - <sos> màu của bàn tay là gì <eos> --> màu_tía
+410533 - <sos> con mèo đang ngồi ở đâu <eos> --> chậu
+392606 - <sos> màu của xe buýt là gì <eos> --> màu_đỏ
+428495 - <sos> màu của dấu hiệu là gì <eos> --> màu_xanh_lá
+149143 - <sos> màu của con mèo là gì <eos> --> màu_đen
+476170 - <sos> màu của con mèo là gì <eos> --> màu_xám
+400487 - <sos> ô dù đang nằm ở đâu <eos> --> bồn_tắm
+50817 - <sos> màu của cà vạt là gì <eos> --> màu_đỏ
+519716 - <sos> con mèo trắng ngủ ở đâu <eos> --> cái_rổ
+465266 - <sos> màu của điểm dừng là gì <eos> --> màu_đỏ
+393617 - <sos> màu của chiếc tàu là gì <eos> --> màu_đỏ
+110459 - <sos> màu của bộ đồ là gì <eos> --> màu_xám
+500130 - <sos> màu của gấu là gì <eos> --> màu_nâu
+540750 - <sos> mèo đen nằm ở đâu <eos> --> phòng
+59384 - <sos> màu của xe là gì <eos> --> màu_đỏ
+551166 - <sos> màu của gấu là gì <eos> --> màu_vàng
+399547 - <sos> màu của cốc là gì <eos> --> màu_xanh_lá
+110142 - <sos> màu của áo là gì <eos> --> màu_trắng
+257751 - <sos> màu của cỏ là gì <eos> --> màu_xanh_lá
+480599 - <sos> màu của vali là gì <eos> --> màu_xanh_dương
+291107 - <sos> màu của chuối là gì <eos> --> màu_xanh_lá
+76187 - <sos> màu của cây là gì <eos> --> màu_cam
+554106 - <sos> màu của bảng là gì <eos> --> màu_trắng
+270558 - <sos> màu của gấu là gì <eos> --> màu_đen
+11222 - <sos> màu của ghế là gì <eos> --> màu_xám
+513456 - <sos> màu của áo là gì <eos> --> màu_xanh_dương
+138604 - <sos> màu mắt là gì <eos> --> màu_vàng
+43609 - <sos> một chiếc xe tải đón cũ và một phần khác của thiết bị trang trại được lưu giữ ở đâu <eos> --> ga-ra
+499024 - <sos> người đàn ông đang dựa lưng ở đâu ăn bánh rán <eos> --> cái_ghế
+147290 - <sos> tv đang ngồi ở đâu trên một nơi cháy <eos> --> phòng
+490099 - <sos> nhóm phụ nữ đã tập hợp ở đâu <eos> --> phòng_bếp
+369082 - <sos> không gian truy cập hạn chế ở đâu <eos> --> phòng_bếp
+345411 - <sos> bánh sandwich với rau xắt nhỏ ở đâu <eos> --> thùng_chứa
+38134 - <sos> những quả cam đang nằm ở đâu <eos> --> bát
+365138 - <sos> màu sắc của xe máy là gì <eos> --> màu_xanh_lá
+196676 - <sos> màu sắc của bức ảnh là gì <eos> --> màu_trắng
+113845 - <sos> màu sắc của bông hoa là gì <eos> --> màu_tía
+353761 - <sos> tàu điện nhẹ đang dừng ở đâu <eos> --> trạm
+30149 - <sos> màu sắc của đồ chơi là gì <eos> --> màu_vàng
+381244 - <sos> màu sắc của chiếc váy là gì <eos> --> màu_đỏ
+114080 - <sos> màu của phòng thí nghiệm là gì <eos> --> màu_vàng
+365934 - <sos> người phụ nữ đang ngồi ở đâu <eos> --> bồn_tắm
+565081 - <sos> màu sắc của quần áo là gì <eos> --> màu_cam
+146961 - <sos> người đàn ông nấu ăn ở đâu <eos> --> phòng_bếp
+164094 - <sos> con mèo trắng cuộn tròn ở đâu <eos> --> chậu
+398301 - <sos> màu của ánh sáng là gì <eos> --> màu_vàng
+552813 - <sos> màu của áo khoác là gì <eos> --> màu_cam
+260917 - <sos> màu của quần jean là gì <eos> --> màu_xanh_dương
+322945 - <sos> màu của con chó là gì <eos> --> màu_nâu
+493841 - <sos> màu của cây cột là gì <eos> --> màu_xanh_lá
+88608 - <sos> màu của mèo con là gì <eos> --> màu_xám
+280454 - <sos> đâu là người sửa chữa tủ <eos> --> phòng_bếp
+556763 - <sos> màu của chiếc bình là gì <eos> --> màu_xanh_lá
+397075 - <sos> nải chuối xanh treo ở đâu <eos> --> kho
+216036 - <sos> màu sắc của cánh là gì <eos> --> màu_vàng
+156963 - <sos> màu của xe buýt là gì <eos> --> màu_đỏ
+183504 - <sos> màu của con chim là gì <eos> --> màu_đen
+446307 - <sos> màu của chiếc tàu là gì <eos> --> màu_vàng
+463655 - <sos> màu của chiếc thuyền là gì <eos> --> màu_xanh_lá
+60599 - <sos> màu của con bò là gì <eos> --> màu_nâu
+546261 - <sos> màu của con chó là gì <eos> --> màu_đen
+38896 - <sos> màu của khuôn mặt là gì <eos> --> màu_cam
+303012 - <sos> màu của con bò là gì <eos> --> màu_đen
+250352 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+521657 - <sos> màu của chiếc bình là gì <eos> --> màu_xanh_dương
+84625 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+22415 - <sos> màu của con mèo là gì <eos> --> màu_nâu
+105580 - <sos> màu của cái bát là gì <eos> --> màu_cam
+315057 - <sos> màu của chiếc đĩa là gì <eos> --> màu_cam
+303668 - <sos> chuối được trưng bày ở đâu <eos> --> cửa_hàng
+173760 - <sos> màu của con bò là gì <eos> --> màu_nâu
+567189 - <sos> màu sắc của vali là gì <eos> --> màu_đen
+504280 - <sos> màu của con con là gì <eos> --> màu_nâu
+472166 - <sos> màu của lửa là gì <eos> --> màu_vàng
+48710 - <sos> hai giường đơn ở đâu <eos> --> phòng
+112114 - <sos> màu của xe là gì <eos> --> màu_xanh_dương
+185296 - <sos> màu của ngói là gì <eos> --> màu_đen
+499801 - <sos> màu của bảng là gì <eos> --> màu_đen
+265982 - <sos> màu của đá là gì <eos> --> màu_xám
+39913 - <sos> màu của tường là gì <eos> --> màu_tía
+516176 - <sos> màu của áo là gì <eos> --> màu_xám
+555339 - <sos> con mèo ngồi ở đâu <eos> --> cửa_tiệm
+206377 - <sos> màu của gấu là gì <eos> --> màu_đen
+51583 - <sos> màu của bồn là gì <eos> --> màu_xanh_dương
+413414 - <sos> màu của ghế là gì <eos> --> màu_đỏ
+285562 - <sos> màu của cupcake là gì <eos> --> màu_xanh_lá
+20825 - <sos> màu của cỏ là gì <eos> --> màu_xanh_lá
+261144 - <sos> màu của tường là gì <eos> --> màu_xanh_lá
+268781 - <sos> màu mắt là gì <eos> --> màu_xanh_dương
+466097 - <sos> màu tóc là gì <eos> --> màu_nâu
+545804 - <sos> màu mắt là gì <eos> --> màu_vàng
+549746 - <sos> cậu bé mỉm cười ở đâu trong khi cầm bàn chải đánh răng <eos> --> bồn_tắm
+544850 - <sos> hai người đàn ông đang chơi trò chơi điện tử ở đâu <eos> --> phòng
+349709 - <sos> cô gái trẻ mỉm cười ở đâu khi cắt một chiếc bánh <eos> --> phòng_bếp
+282889 - <sos> người đàn ông mang gì trong khu vực nhà bếp <eos> --> tạp_dề
+228376 - <sos> bông hoa màu xanh bên cạnh quả lê ở đâu <eos> --> lọ_cắm_hoa
+40870 - <sos> màu của máy bay phản lực là gì <eos> --> màu_xám
+500390 - <sos> màu sắc của sân bóng đá là gì <eos> --> màu_xanh_lá
+558748 - <sos> một số cây cam với cam ở đâu <eos> --> cửa_hàng
+256731 - <sos> màu sắc của con búp bê là gì <eos> --> màu_đỏ
+307299 - <sos> màu của các loại thảo mộc là gì <eos> --> màu_xanh_lá
+443315 - <sos> màu sắc của bông hoa là gì <eos> --> màu_trắng
+200952 - <sos> màu của chiếc ghế dài là gì <eos> --> màu_đen
+177840 - <sos> màu sắc của chiếc váy là gì <eos> --> màu_tía
+428740 - <sos> màu của tàu điện ngầm là gì <eos> --> màu_xanh_lá
+505597 - <sos> màu sắc của bông hoa là gì <eos> --> màu_tía
+501700 - <sos> màu sắc của chiếc váy là gì <eos> --> màu_tía
+455597 - <sos> người phụ nữ đang đứng ở đâu <eos> --> phòng_bếp
+169845 - <sos> màu của mái nhà là gì <eos> --> màu_xanh_lá
+476605 - <sos> em bé đang ngồi ở đâu <eos> --> bồn_tắm
+525589 - <sos> màu của con cừu là gì <eos> --> màu_đen
+129719 - <sos> màu sắc của cánh là gì <eos> --> màu_vàng
+403525 - <sos> màu của tòa nhà là gì <eos> --> màu_xám
+22415 - <sos> màu của chiếc bình là gì <eos> --> màu_xám
+62301 - <sos> màu của con chim là gì <eos> --> màu_xám
+41087 - <sos> màu của xe tải là gì <eos> --> màu_vàng
+578072 - <sos> màu của con mèo là gì <eos> --> màu_xám
+267708 - <sos> màu của ngôi nhà là gì <eos> --> màu_trắng
+296161 - <sos> màu của con mèo là gì <eos> --> màu_đen
+506576 - <sos> màu của phòng tắm là gì <eos> --> màu_trắng
+377983 - <sos> màu của con chó là gì <eos> --> màu_trắng
+526467 - <sos> màu sắc của macbook là gì <eos> --> màu_đen
+99162 - <sos> màu của boong tàu là gì <eos> --> màu_đỏ
+234293 - <sos> màu của con mèo là gì <eos> --> màu_xám
+335249 - <sos> màu của các tấm là gì <eos> --> màu_trắng
+366810 - <sos> màu sắc của graffitii là gì <eos> --> màu_đen
+411849 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+273443 - <sos> màu của con chó là gì <eos> --> màu_đen
+104811 - <sos> màu của vòi nước là gì <eos> --> màu_xanh_lá
+444373 - <sos> màu của xe buýt là gì <eos> --> màu_đỏ
+230109 - <sos> màu của phòng ngủ là gì <eos> --> màu_trắng
+400091 - <sos> màu của xe buýt là gì <eos> --> màu_xanh_dương
+308739 - <sos> màu của con mèo là gì <eos> --> màu_xám
+342724 - <sos> màu của chiếc đĩa là gì <eos> --> màu_cam
+287173 - <sos> màu của xe máy là gì <eos> --> màu_xanh_lá
+567055 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+388312 - <sos> màu của con mèo là gì <eos> --> màu_xám
+498529 - <sos> màu của thuyền buồm là gì <eos> --> màu_trắng
+239596 - <sos> màu của nước ép là gì <eos> --> màu_cam
+78695 - <sos> màu của mứt cam là gì <eos> --> màu_cam
+547348 - <sos> màu của chiếc ô là gì <eos> --> màu_xanh_lá
+470711 - <sos> màu của con mèo là gì <eos> --> màu_xám
+48408 - <sos> màu của chiếc ô là gì <eos> --> màu_cam
+364549 - <sos> màu của thức ăn là gì <eos> --> màu_trắng
+503069 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+69768 - <sos> màu của ghế là gì <eos> --> màu_đen
+195761 - <sos> màu của sàn là gì <eos> --> màu_xám
+340103 - <sos> màu của cây là gì <eos> --> màu_cam
+562205 - <sos> màu của cốc là gì <eos> --> màu_xanh_dương
+205380 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+514676 - <sos> màu của xe là gì <eos> --> màu_trắng
+515206 - <sos> màu của xe là gì <eos> --> màu_vàng
+420544 - <sos> màu của gấu là gì <eos> --> màu_nâu
+476431 - <sos> màu của diều là gì <eos> --> màu_xanh_dương
+149835 - <sos> màu của gấu là gì <eos> --> màu_nâu
+425758 - <sos> đầu bếp đang nấu ở đâu trong khi mọi người chờ đợi để đặt thức ăn <eos> --> phòng_bếp
+302481 - <sos> máy bay trực thăng lớn ở đâu trong khi máy bay lớn ở bên ngoài <eos> --> ga-ra
+297929 - <sos> người phụ nữ đang nhìn ở đâu khi cô ấy đánh răng <eos> --> gương
+81707 - <sos> người đàn ông đang cố gắng sửa lò nướng ở đâu <eos> --> phòng_bếp
+513618 - <sos> người đàn ông chụp một bức ảnh của mình ở đâu <eos> --> gương
+368844 - <sos> người phụ nữ giữ một chiếc bánh sandwich ở đâu <eos> --> phòng_bếp
+142187 - <sos> màu sắc của các bộ truyền phát là gì <eos> --> màu_xanh_dương
+551148 - <sos> màu của điện thoại di động là gì <eos> --> màu_đen
+312744 - <sos> màu sắc của những con ngựa là gì <eos> --> màu_nâu
+548893 - <sos> màu của chiếc xe đang chạy là gì <eos> --> màu_cam
+210416 - <sos> màu của bàn chải đánh răng là gì <eos> --> màu_xanh_dương
+158486 - <sos> màu của thứ đang hạ cánh là gì <eos> --> màu_xám
+383210 - <sos> một số ngựa đen trắng nâu ở đâu <eos> --> chuồng
+129006 - <sos> bánh mì được sưởi ấml ở đâu <eos> --> lò_vi_sóng
+182960 - <sos> màu sắc của hình ảnh là gì <eos> --> màu_xám
+449504 - <sos> màu sắc của bông hoa là gì <eos> --> màu_tía
+579534 - <sos> màu sắc của bông hoa là gì <eos> --> màu_cam
+305690 - <sos> màu sắc của dây nịch là gì <eos> --> màu_tía
+196977 - <sos> màu của nhà vệ sinh là gì <eos> --> màu_trắng
+69745 - <sos> màu của chiếc ghế dài là gì <eos> --> màu_trắng
+329012 - <sos> màu của dĩa nhựa là gì <eos> --> màu_tía
+215405 - <sos> màu sắc của kem là gì <eos> --> màu_xanh_dương
+318529 - <sos> màu của dĩa nhựa là gì <eos> --> màu_vàng
+521806 - <sos> màu của gấu bông là gì <eos> --> màu_xám
+291290 - <sos> màu của chiếc tàu là gì <eos> --> màu_đỏ
+569567 - <sos> màu của nước ép là gì <eos> --> màu_cam
+73244 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+255176 - <sos> màu của bầu trời là gì <eos> --> màu_xám
+294937 - <sos> màu của tủ lạnh là gì <eos> --> màu_đen
+306288 - <sos> màu của chiếc đĩa là gì <eos> --> màu_xanh_dương
+68136 - <sos> màu của con mèo là gì <eos> --> màu_đen
+429092 - <sos> màu của động vật là gì <eos> --> màu_đen
+71879 - <sos> màu của chiếc hộp là gì <eos> --> màu_đen
+128351 - <sos> màu của xe buýt là gì <eos> --> màu_xanh_dương
+234274 - <sos> màu của chiếc đĩa là gì <eos> --> màu_xanh_dương
+240653 - <sos> màu của băng ghế là gì <eos> --> màu_vàng
+135086 - <sos> màu của chiếc tàu là gì <eos> --> màu_vàng
+573485 - <sos> màu của xe buýt là gì <eos> --> màu_đỏ
+214036 - <sos> màu của tam giác là gì <eos> --> màu_vàng
+417607 - <sos> màu của xe tải là gì <eos> --> màu_cam
+478505 - <sos> màu của bồn tắm là gì <eos> --> màu_trắng
+320563 - <sos> con mèo trắng nằm ở đâu <eos> --> chậu
+469918 - <sos> màu của con mèo là gì <eos> --> màu_đen
+10759 - <sos> màu của xe tải là gì <eos> --> màu_xanh_dương
+446351 - <sos> màu của quả bóng là gì <eos> --> màu_vàng
+155058 - <sos> màu của con ngựa là gì <eos> --> màu_xám
+411937 - <sos> màu của chiếc mũ là gì <eos> --> màu_trắng
+347135 - <sos> màu của xe buýt là gì <eos> --> màu_xanh_lá
+574739 - <sos> màu của xe máy là gì <eos> --> màu_xanh_dương
+326390 - <sos> màu của bên trong là gì <eos> --> màu_cam
+29712 - <sos> màu của các thẻ là gì <eos> --> màu_vàng
+429059 - <sos> màu của ria mép là gì <eos> --> màu_trắng
+262012 - <sos> màu của chiếc ô là gì <eos> --> màu_vàng
+226747 - <sos> màu của áo là gì <eos> --> màu_trắng
+461819 - <sos> màu của lửa là gì <eos> --> màu_đỏ
+157926 - <sos> màu của đậu là gì <eos> --> màu_xanh_lá
+352143 - <sos> màu của rèm là gì <eos> --> màu_xanh_dương
+580026 - <sos> màu của bánh là gì <eos> --> màu_trắng
+313820 - <sos> màu của lửa là gì <eos> --> màu_đỏ
+93232 - <sos> màu của xe là gì <eos> --> màu_đỏ
+377868 - <sos> màu trang điểm là gì <eos> --> màu_xám
+349912 - <sos> màu của chuối là gì <eos> --> màu_vàng
+196406 - <sos> màu của áo là gì <eos> --> màu_xanh_lá
+227484 - <sos> màu của xe là gì <eos> --> màu_đỏ
+333653 - <sos> hai bồn rửa, bồn tắm và vòi hoa sen đặt ở đâu <eos> --> phòng_tắm
+259113 - <sos> chiếc máy bay nhỏ màu xanh và trắng đã đậu ở đâu <eos> --> ga-ra
+26086 - <sos> nhà vệ sinh và bồn rửa chén ở đâu <eos> --> phòng_tắm
+391213 - <sos> người phụ nữ đang làm việc ở đâu <eos> --> phòng_bếp
+349621 - <sos> màu sắc của bông hoa là gì <eos> --> màu_tía
+314561 - <sos> màu sắc của bông hoa là gì <eos> --> màu_vàng
+139333 - <sos> màu sắc của bông hoa là gì <eos> --> màu_đỏ
+114510 - <sos> nơi chụp ảnh tự sướng ở đâu <eos> --> cửa
+507495 - <sos> màu của nhà vệ sinh là gì <eos> --> màu_xanh_lá
+239828 - <sos> màu sắc của cái dù là gì <eos> --> màu_đỏ
+542090 - <sos> màu của tòa án là gì <eos> --> màu_nâu
+204345 - <sos> gấu nhồi nhỏ nằm ở đâu <eos> --> giường
+69393 - <sos> màu của xe tải là gì <eos> --> màu_đỏ
+75811 - <sos> màu của cửa sổ là gì <eos> --> màu_nâu
+94499 - <sos> màu của con mèo là gì <eos> --> màu_xám
+102987 - <sos> màu của ba lô là gì <eos> --> màu_xanh_lá
+371628 - <sos> màu của vùng đất là gì <eos> --> màu_xanh_lá
+572024 - <sos> màu của cái bát là gì <eos> --> màu_xanh_lá
+287228 - <sos> màu của vòi nước là gì <eos> --> màu_vàng
+376972 - <sos> màu của áo khoác là gì <eos> --> màu_vàng
+538686 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+127809 - <sos> con mèo đang ngồi ở đâu <eos> --> cây
+410533 - <sos> con mèo đang ngồi ở đâu <eos> --> chậu
+575199 - <sos> màu của các container là gì <eos> --> màu_vàng
+545088 - <sos> màu của quần short là gì <eos> --> màu_đen
+96517 - <sos> con mèo đang ngồi ở đâu <eos> --> cái_túi
+37854 - <sos> màu của dấu hiệu là gì <eos> --> màu_xanh_dương
+172800 - <sos> màu của gấu bông là gì <eos> --> màu_nâu
+206636 - <sos> màu của dĩa nhựa là gì <eos> --> màu_tía
+325799 - <sos> màu của chiếc bình là gì <eos> --> màu_trắng
+485161 - <sos> màu của tủ lạnh là gì <eos> --> màu_đen
+369609 - <sos> màu của ánh sáng là gì <eos> --> màu_đỏ
+439720 - <sos> màu của chiếc ô là gì <eos> --> màu_cam
+580549 - <sos> màu của xe buýt là gì <eos> --> màu_cam
+168178 - <sos> màu của mặt phẳng là gì <eos> --> màu_xám
+439595 - <sos> màu của con ngựa là gì <eos> --> màu_trắng
+517521 - <sos> màu của con chó là gì <eos> --> màu_đen
+292152 - <sos> màu của chiếc đĩa là gì <eos> --> màu_trắng
+80519 - <sos> màu của con mèo là gì <eos> --> màu_cam
+147735 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+52347 - <sos> màu của con bò là gì <eos> --> màu_nâu
+76264 - <sos> màu của bồn rửa là gì <eos> --> màu_trắng
+7642 - <sos> màu của chiếc ô là gì <eos> --> màu_tía
+275168 - <sos> màu của xe buýt là gì <eos> --> màu_cam
+432909 - <sos> màu của gin là gì <eos> --> màu_đỏ
+348825 - <sos> màu của bảng là gì <eos> --> màu_đen
+33567 - <sos> màu của lông là gì <eos> --> màu_nâu
+549256 - <sos> màu của áo là gì <eos> --> màu_xanh_lá
+578964 - <sos> thứ bắt được ở đâu <eos> --> ảnh_chụp
+576026 - <sos> màu của xe là gì <eos> --> màu_vàng
+141994 - <sos> màu của cỏ là gì <eos> --> màu_xanh_lá
+52324 - <sos> màu của áo là gì <eos> --> màu_đỏ
+131731 - <sos> màu của lông là gì <eos> --> màu_đen
+187732 - <sos> màu của nón là gì <eos> --> màu_cam
+186646 - <sos> màu của thùng là gì <eos> --> màu_xanh_dương
+468280 - <sos> những con cừu ở đâu <eos> --> chuồng
+293716 - <sos> màu của tường là gì <eos> --> màu_cam
+127454 - <sos> màu của băng là gì <eos> --> màu_vàng
+572358 - <sos> màu của ghế là gì <eos> --> màu_đỏ
+327328 - <sos> màu của túi là gì <eos> --> màu_cam
+372789 - <sos> màu của sàn là gì <eos> --> màu_xám
+16169 - <sos> màu của giấy là gì <eos> --> màu_nâu
+267454 - <sos> màu của cạnh là gì <eos> --> màu_xanh_lá
+542165 - <sos> màu mắt là gì <eos> --> màu_xanh_lá
+96185 - <sos> những con gấu tranh chấp ở đâu trong vòng vây vườn thú <eos> --> hồ_bơi
+11701 - <sos> một người phụ nữ lớn tuổi chuẩn bị thức ăn ở đâu <eos> --> phòng_bếp
+535768 - <sos> giường với một đứa trẻ nằm trên nó đặt ở đâu <eos> --> phòng_ngủ
+75230 - <sos> dụng cụ chăm sóc răng miệng đã hiển thị ở đâu <eos> --> người_giữ
+10205 - <sos> người đàn ông nhảy lên khi chơi game ở đâu <eos> --> phòng
+469595 - <sos> màu sắc của đừng kẻ ngang là gì <eos> --> màu_cam
+406208 - <sos> màu sắc của các dấu hiệu là gì <eos> --> màu_cam
+151327 - <sos> màu sắc của người đàn ông là gì <eos> --> màu_trắng
+305315 - <sos> màu của cái mỏ con vật là gì <eos> --> màu_đỏ
+228727 - <sos> màu sắc của các dấu hiệu là gì <eos> --> màu_xanh_lá
+67462 - <sos> màu của khinh khí cầu là gì <eos> --> màu_tía
+164222 - <sos> màu sắc của bức ảnh là gì <eos> --> màu_trắng
+435764 - <sos> màu sắc của giao thông là gì <eos> --> màu_đỏ
+495502 - <sos> màu của bề mặt là gì <eos> --> màu_đen
+334938 - <sos> màu của tủ lạnh là gì <eos> --> màu_xám
+516043 - <sos> người phụ nữ nằm ở đâu <eos> --> giường
+194089 - <sos> màu của băng ghế là gì <eos> --> màu_xanh_lá
+342591 - <sos> màu của xe buýt là gì <eos> --> màu_xanh_lá
+250735 - <sos> màu của chiếc đĩa là gì <eos> --> màu_trắng
+577835 - <sos> màu của xe tải là gì <eos> --> màu_cam
+570945 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+559754 - <sos> màu của đồng hồ là gì <eos> --> màu_đen
+10743 - <sos> màu của chiếc ô là gì <eos> --> màu_vàng
+256419 - <sos> màu của chiếc đĩa là gì <eos> --> màu_trắng
+22195 - <sos> màu của chiếc tàu là gì <eos> --> màu_xanh_dương
+427662 - <sos> màu của quần short là gì <eos> --> màu_xanh_dương
+87123 - <sos> màu của bông hoa là gì <eos> --> màu_tía
+463969 - <sos> màu của bông hoa là gì <eos> --> màu_trắng
+460737 - <sos> màu của thùng rác là gì <eos> --> màu_đỏ
+55373 - <sos> màu của đám mây là gì <eos> --> màu_xanh_dương
+294214 - <sos> màu của móng tay là gì <eos> --> màu_vàng
+419439 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+251293 - <sos> màu của chiếc nón là gì <eos> --> màu_xanh_lá
+274116 - <sos> màu của áo mưa là gì <eos> --> màu_đỏ
+251264 - <sos> màu của chiếc tàu là gì <eos> --> màu_đỏ
+332352 - <sos> màu của ngôi nhà là gì <eos> --> màu_vàng
+211788 - <sos> màu của chiếc tàu là gì <eos> --> màu_xanh_lá
+464809 - <sos> màu của chiếc nơ là gì <eos> --> màu_vàng
+224468 - <sos> màu của con chó là gì <eos> --> màu_nâu
+43776 - <sos> màu của chiếc tàu là gì <eos> --> màu_đỏ
+14619 - <sos> màu của hình ảnh là gì <eos> --> màu_trắng
+150919 - <sos> màu của con mèo là gì <eos> --> màu_đen
+155221 - <sos> màu của biển là gì <eos> --> màu_xanh_dương
+307016 - <sos> màu của gấu là gì <eos> --> màu_đen
+232279 - <sos> màu của áo là gì <eos> --> màu_xám
+447108 - <sos> màu của cỏ là gì <eos> --> màu_xanh_lá
+504917 - <sos> màu của áo là gì <eos> --> màu_xanh_dương
+459959 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+108920 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+401235 - <sos> màu của cỏ là gì <eos> --> màu_xanh_lá
+10303 - <sos> màu của lát là gì <eos> --> màu_xanh_lá
+463430 - <sos> màu của ans là gì <eos> --> màu_vàng
+236198 - <sos> màu của cây là gì <eos> --> màu_xanh_lá
+12107 - <sos> màu của cửa là gì <eos> --> màu_xanh_dương
+34333 - <sos> màu của tường là gì <eos> --> màu_đỏ
+454996 - <sos> màu của chăn là gì <eos> --> màu_xanh_dương
+472662 - <sos> màu của ngựa là gì <eos> --> màu_đen
+83252 - <sos> nhà vệ sinh ở đâu <eos> --> phòng_tắm
+105134 - <sos> màu của gấu là gì <eos> --> màu_đen
+37165 - <sos> màu của kính là gì <eos> --> màu_đỏ
+304614 - <sos> màu của quần là gì <eos> --> màu_vàng
+316181 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+38241 - <sos> màu của xe là gì <eos> --> màu_vàng
+400313 - <sos> màu mắt là gì <eos> --> màu_xanh_dương
+463108 - <sos> những người ở đâu gần một khu vực yêu cầu hành lý <eos> --> sân_bay
+570538 - <sos> cô gái đeo kính râm đang chơi bóng chày ở đâu <eos> --> sân
+371222 - <sos> một số loại trái cây khác nhau nằm ở đâu <eos> --> bát
+519635 - <sos> người phụ nữ đang ngồi và làm việc ở đâu <eos> --> gian_hàng
+430092 - <sos> người phụ nữ mỉm cười đang ở đâu <eos> --> sân_vườn
+467318 - <sos> màu của mặt tiền cửa hàng là gì <eos> --> màu_xanh_dương
+437395 - <sos> sự phản chiếu của con chó ở đâu <eos> --> gương
+204969 - <sos> màu sắc của bông hoa là gì <eos> --> màu_tía
+502204 - <sos> con mèo đen trắng đang ở đâu <eos> --> chậu
+367188 - <sos> màu sắc của bông hoa là gì <eos> --> màu_vàng
+516596 - <sos> màu sắc của ánh sáng là gì <eos> --> màu_xanh_lá
+71409 - <sos> màu sắc của lựa chọn là gì <eos> --> màu_đỏ
+193629 - <sos> màu sắc của ca nô là gì <eos> --> màu_xanh_dương
+416741 - <sos> khung giường kim loại nằm ở đâu <eos> --> phòng
+293328 - <sos> màu của ghế sofa là gì <eos> --> màu_vàng
+555906 - <sos> màu của cà vạt là gì <eos> --> màu_xanh_dương
+30449 - <sos> màu của cái tủ là gì <eos> --> màu_xanh_dương
+148474 - <sos> màu của con chim là gì <eos> --> màu_nâu
+324870 - <sos> màu của chiếc tàu là gì <eos> --> màu_xanh_lá
+63345 - <sos> màu sắc của sneaker là gì <eos> --> màu_trắng
+449889 - <sos> màu của xe máy là gì <eos> --> màu_đỏ
+173073 - <sos> màu của con bò là gì <eos> --> màu_đen
+172654 - <sos> màu của vòi nước là gì <eos> --> màu_xanh_lá
+444692 - <sos> màu của quả bóng là gì <eos> --> màu_xanh_dương
+323448 - <sos> màu của chiếc ô là gì <eos> --> màu_xanh_dương
+6710 - <sos> màu của nền tảng là gì <eos> --> màu_vàng
+458960 - <sos> màu của chiếc mũ là gì <eos> --> màu_đen
+275604 - <sos> màu của xe tải là gì <eos> --> màu_đen
+109738 - <sos> màu của xe tải là gì <eos> --> màu_đỏ
+275939 - <sos> màu sắc của sọc là gì <eos> --> màu_cam
+84956 - <sos> màu của con bò là gì <eos> --> màu_nâu
+419364 - <sos> màu của xe buýt là gì <eos> --> màu_tía
+162828 - <sos> màu của dĩa nhựa là gì <eos> --> màu_vàng
+474356 - <sos> màu sắc của giày là gì <eos> --> màu_tía
+400275 - <sos> màu của chiếc thuyền là gì <eos> --> màu_vàng
+485044 - <sos> màu của con mèo là gì <eos> --> màu_đen
+52394 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+417814 - <sos> màu của chiếc giường là gì <eos> --> màu_trắng
+183071 - <sos> màu của chiếc mũ là gì <eos> --> màu_tía
+528127 - <sos> màu của chiếc bình là gì <eos> --> màu_xanh_lá
+63353 - <sos> màu của tủ lạnh là gì <eos> --> màu_tía
+271654 - <sos> màu của chiếc ô là gì <eos> --> màu_vàng
+495988 - <sos> màu của cà vạt là gì <eos> --> màu_xanh_dương
+395614 - <sos> tàu đỏ dừng ở đâu <eos> --> trạm
+271254 - <sos> màu của bánh là gì <eos> --> màu_xanh_lá
+70380 - <sos> màu của bánh là gì <eos> --> màu_trắng
+332723 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+89912 - <sos> màu của rau là gì <eos> --> màu_xanh_lá
+458879 - <sos> màu của gấu là gì <eos> --> màu_đen
+340126 - <sos> màu của tường là gì <eos> --> màu_đỏ
+4579 - <sos> màu của gạo là gì <eos> --> màu_trắng
+311953 - <sos> màu của gấu là gì <eos> --> màu_đen
+332614 - <sos> màu của bánh là gì <eos> --> màu_vàng
+408116 - <sos> màu của túi là gì <eos> --> màu_xanh_dương
+286656 - <sos> màu của áo là gì <eos> --> màu_cam
+416936 - <sos> màu của sơn là gì <eos> --> màu_vàng
+482330 - <sos> gia đình ngồi ở đâu <eos> --> phòng
+188511 - <sos> màu của tường là gì <eos> --> màu_cam
+142034 - <sos> màu của nút là gì <eos> --> màu_đỏ
+575351 - <sos> màu của áo là gì <eos> --> màu_cam
+31540 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+274170 - <sos> màu của khay là gì <eos> --> màu_trắng
+345797 - <sos> màu của tường là gì <eos> --> màu_cam
+348290 - <sos> màu của ghế là gì <eos> --> màu_đen
+575060 - <sos> người phụ nữ đặt một số món đồ để cô ấy có thể hòa chúng vào nhau ở đâu <eos> --> máy_xay
+411362 - <sos> người đàn ông đang giữ huy chương quân sự ở đâu <eos> --> quán_bar
+512892 - <sos> một số bánh ngọt đang được chuẩn bị ở đâu <eos> --> lò_vi_sóng
+523211 - <sos> nơi nấu đồ ăn với phô mai và hành tây <eos> --> cái_rổ
+316781 - <sos> ai đó đang giữ một chiếc tivi ở đâu <eos> --> phòng_tắm
+362764 - <sos> ván lướt sóng đang được hiển thị ở đâu <eos> --> cửa_hàng
+33799 - <sos> nước uống chim ở đâu treo ngoài cửa sổ <eos> --> chai
+361417 - <sos> màu sắc của người đi làm là gì <eos> --> màu_vàng
+400560 - <sos> ghế và đồ nội thất khác ở đâu <eos> --> phòng
+168480 - <sos> màu sắc thứ có chấm bi là gì <eos> --> màu_nâu
+256664 - <sos> bánh sandwich bbq đã phục vụ ở đâu <eos> --> cái_rổ
+378461 - <sos> màu của máy rửa chén là gì <eos> --> màu_đen
+222191 - <sos> màu sắc của thiết kế là gì <eos> --> màu_vàng
+419173 - <sos> màu sắc của trang phục là gì <eos> --> màu_tía
+313015 - <sos> màu sắc của đồ uống là gì <eos> --> màu_xanh_lá
+202832 - <sos> màu của nhà vệ sinh là gì <eos> --> màu_vàng
+540495 - <sos> màu sắc của xe máy là gì <eos> --> màu_đỏ
+67230 - <sos> màu của dĩa nhựa là gì <eos> --> màu_nâu
+240873 - <sos> màu của con chó là gì <eos> --> màu_nâu
+403250 - <sos> màu của con chó là gì <eos> --> màu_đen
+227484 - <sos> màu của xe tải là gì <eos> --> màu_đen
+532509 - <sos> màu của phòng tắm là gì <eos> --> màu_xanh_dương
+130886 - <sos> màu của dĩa nhựa là gì <eos> --> màu_tía
+118989 - <sos> màu của xe buýt là gì <eos> --> màu_xanh_lá
+22274 - <sos> màu của xe buýt là gì <eos> --> màu_xanh_dương
+51124 - <sos> màu của chiếc bình là gì <eos> --> màu_đen
+195712 - <sos> màu của bồn rửa là gì <eos> --> màu_trắng
+80084 - <sos> màu của áo choàng là gì <eos> --> màu_đỏ
+533255 - <sos> màu của cái tủ là gì <eos> --> màu_trắng
+211439 - <sos> màu của dấu hiệu là gì <eos> --> màu_xanh_dương
+373653 - <sos> màu của xe buýt là gì <eos> --> màu_đỏ
+143490 - <sos> màu của chiếc ô là gì <eos> --> màu_vàng
+361773 - <sos> màu của con chim là gì <eos> --> màu_đỏ
+335318 - <sos> màu của áo khoác là gì <eos> --> màu_đỏ
+257044 - <sos> màu của xe buýt là gì <eos> --> màu_xanh_dương
+202128 - <sos> màu của quả bóng là gì <eos> --> màu_đỏ
+257013 - <sos> màu của xe buýt là gì <eos> --> màu_xanh_lá
+495116 - <sos> màu của dây buộc là gì <eos> --> màu_tía
+393386 - <sos> màu của cánh đồng là gì <eos> --> màu_xanh_lá
+274022 - <sos> màu của chiếc xe là gì <eos> --> màu_trắng
+418808 - <sos> màu của chiếc bình là gì <eos> --> màu_tía
+150746 - <sos> màu của con mèo là gì <eos> --> màu_cam
+33189 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+157920 - <sos> màu của cỏ là gì <eos> --> màu_xanh_lá
+378618 - <sos> cặp vợ chồng ở đâu <eos> --> đường_phố
+171585 - <sos> màu của áo là gì <eos> --> màu_trắng
+581732 - <sos> màu của nền là gì <eos> --> màu_đen
+271789 - <sos> màu của áo là gì <eos> --> màu_trắng
+501002 - <sos> màu của lửa là gì <eos> --> màu_đỏ
+250848 - <sos> màu của bảng là gì <eos> --> màu_vàng
+466597 - <sos> màu của xe là gì <eos> --> màu_xanh_dương
+483530 - <sos> màu của soda là gì <eos> --> màu_cam
+462785 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+461560 - <sos> màu của gấu là gì <eos> --> màu_đen
+215746 - <sos> màu của bảng là gì <eos> --> màu_xanh_lá
+337962 - <sos> màu của gấu là gì <eos> --> màu_đen
+230109 - <sos> màu của thoete là gì <eos> --> màu_tía
+497768 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+201655 - <sos> màu của áo là gì <eos> --> màu_xanh_dương
+308119 - <sos> màu của túi là gì <eos> --> màu_đỏ
+501957 - <sos> màu của xe là gì <eos> --> màu_xanh_dương
+398177 - <sos> màu của lửa là gì <eos> --> màu_đen
+12107 - <sos> màu của cửa là gì <eos> --> màu_xanh_dương
+15906 - <sos> màu của ghế là gì <eos> --> màu_đen
+42705 - <sos> người ở đâu trên đường trước một cửa hàng được theo sau bởi một chiếc xe buýt <eos> --> xe_tay_ga
+98162 - <sos> hai người phụ nữ và một người đàn ông chơi ở đâu <eos> --> hồ_bơi
+78286 - <sos> ô tô và tòa nhà ở đâu trong thành phố <eos> --> đường_phố
+26356 - <sos> người phụ nữ nuôi hai con cừu ở đâu <eos> --> chuồng
+240713 - <sos> con chim kỳ lạ phản chiếu ở đâu <eos> --> gương
+477029 - <sos> màu sắc của thứ đang đặt là gì <eos> --> màu_vàng
+24204 - <sos> màu của chiếc ghế dài là gì <eos> --> màu_đỏ
+64953 - <sos> xe tải dozer màu đỏ ở đâu <eos> --> đường_phố
+391976 - <sos> con chó con đang tắm ở đâu <eos> --> chậu
+433637 - <sos> màu sắc của đại dương là gì <eos> --> màu_xanh_dương
+59910 - <sos> màu của chiếc ghế dài là gì <eos> --> màu_cam
+203920 - <sos> màu của dấu hiệu là gì <eos> --> màu_đỏ
+88082 - <sos> màu của con mèo là gì <eos> --> màu_đen
+114474 - <sos> màu của tòa án là gì <eos> --> màu_tía
+488686 - <sos> màu của xe tải là gì <eos> --> màu_đỏ
+500324 - <sos> màu của quả táo là gì <eos> --> màu_xanh_lá
+13274 - <sos> màu của xe tải là gì <eos> --> màu_vàng
+395314 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+268737 - <sos> màu của dấu hiệu là gì <eos> --> màu_đỏ
+377609 - <sos> màu của chiếc đĩa là gì <eos> --> màu_trắng
+302353 - <sos> màu của chiếc giường là gì <eos> --> màu_trắng
+422301 - <sos> màu của con chó là gì <eos> --> màu_đen
+136993 - <sos> màu của chiếc bình là gì <eos> --> màu_đen
+416690 - <sos> màu của chiếc ô là gì <eos> --> màu_đỏ
+517032 - <sos> màu của chiếc tàu là gì <eos> --> màu_đỏ
+577807 - <sos> màu của con chó là gì <eos> --> màu_trắng
+141063 - <sos> màu của con chim là gì <eos> --> màu_xám
+552819 - <sos> màu của tấm thảm là gì <eos> --> màu_đỏ
+105047 - <sos> màu của ranh giới là gì <eos> --> màu_xanh_dương
+177786 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+387401 - <sos> màu của xe buýt là gì <eos> --> màu_xanh_lá
+198524 - <sos> màu của máy bay là gì <eos> --> màu_vàng
+59282 - <sos> màu của ván lướt là gì <eos> --> màu_đỏ
+344672 - <sos> màu của con voi là gì <eos> --> màu_xám
+391956 - <sos> người đàn ông đang ở đâu <eos> --> đường_phố
+546078 - <sos> màu của xe buýt là gì <eos> --> màu_tía
+160660 - <sos> màu của chiếc tàu là gì <eos> --> màu_đỏ
+331524 - <sos> màu của xe buýt là gì <eos> --> màu_trắng
+517032 - <sos> màu của chiếc tàu là gì <eos> --> màu_đỏ
+224938 - <sos> màu của xe máy là gì <eos> --> màu_xanh_dương
+158486 - <sos> màu của máy bay là gì <eos> --> màu_xám
+53604 - <sos> người đàn ông đứng ở đâu <eos> --> phòng_tắm
+507397 - <sos> màu của con chó là gì <eos> --> màu_nâu
+342342 - <sos> màu của cái tủ là gì <eos> --> màu_nâu
+10969 - <sos> màu của chiếc đĩa là gì <eos> --> màu_xanh_lá
+234217 - <sos> màu của con mèo là gì <eos> --> màu_xám
+5500 - <sos> màu của bầu trời là gì <eos> --> màu_xám
+48141 - <sos> màu của chiếc tàu là gì <eos> --> màu_đỏ
+520049 - <sos> màu của chiếc xe là gì <eos> --> màu_vàng
+399154 - <sos> màu của phòng tắm là gì <eos> --> màu_đen
+330516 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+445276 - <sos> màu của gấu là gì <eos> --> màu_đen
+176923 - <sos> màu của bánh là gì <eos> --> màu_cam
+222122 - <sos> màu của gấu là gì <eos> --> màu_đen
+267552 - <sos> màu của sàn là gì <eos> --> màu_nâu
+366753 - <sos> màu của quần là gì <eos> --> màu_tía
+160229 - <sos> màu của nón là gì <eos> --> màu_cam
+284510 - <sos> màu của xe là gì <eos> --> màu_đỏ
+318162 - <sos> màu của áo là gì <eos> --> màu_tía
+289915 - <sos> màu của áo là gì <eos> --> màu_cam
+481598 - <sos> màu của bếp là gì <eos> --> màu_đen
+110761 - <sos> màu của quần là gì <eos> --> màu_nâu
+265036 - <sos> màu của cốc là gì <eos> --> màu_xanh_dương
+513944 - <sos> màu sắc của một <eos> --> màu_trắng
+494190 - <sos> con chó đang nghiêng về phía cửa sổ của một chiếc xe được phản chiếu ở đâu <eos> --> gương
+508822 - <sos> cậu bé đang ngồi ăn một ít thức ăn ở đâu <eos> --> giường
+28099 - <sos> người đàn ông đang sửa xe đạp ở đâu <eos> --> cửa_tiệm
+382582 - <sos> con mèo con lông tơ đang ngồi ở đâu <eos> --> cái_ghế
+152746 - <sos> màu sắc của người đàn ông là gì <eos> --> màu_đen
+297175 - <sos> bánh rán và bánh ngọt để ở đâu <eos> --> hộp
+560615 - <sos> màu sắc của mũ bảo hiểm là gì <eos> --> màu_trắng
+135086 - <sos> màu sắc của đầu máy là gì <eos> --> màu_vàng
+233677 - <sos> màu sắc của bông hoa là gì <eos> --> màu_tía
+481120 - <sos> màu của các loại hạt là gì <eos> --> màu_xanh_lá
+476080 - <sos> màu sắc của lá cờ là gì <eos> --> màu_cam
+395170 - <sos> con mèo đen đang ngồi ở đâu <eos> --> vali
+403592 - <sos> màu sắc của đôi bốt là gì <eos> --> màu_đen
+483272 - <sos> những con vật ở đâu cùng nhau <eos> --> chuồng_trại
+251292 - <sos> màu của chiếc ghế dài là gì <eos> --> màu_đỏ
+119304 - <sos> màu sắc của áo khoác là gì <eos> --> màu_vàng
+29801 - <sos> màu của nước ép là gì <eos> --> màu_cam
+454745 - <sos> màu của xe máy là gì <eos> --> màu_xanh_lá
+237098 - <sos> màu của con chim là gì <eos> --> màu_nâu
+406708 - <sos> màu của dấu hiệu là gì <eos> --> màu_đỏ
+480876 - <sos> màu của chiếc ô là gì <eos> --> màu_xanh_dương
+566128 - <sos> màu của con cú là gì <eos> --> màu_xám
+567616 - <sos> màu của cái bát là gì <eos> --> màu_đỏ
+314647 - <sos> màu của khu vực là gì <eos> --> màu_xanh_lá
+145432 - <sos> màu của bụi cây là gì <eos> --> màu_xanh_lá
+121441 - <sos> màu của chiếc ô là gì <eos> --> màu_đỏ
+487837 - <sos> màu của bề mặt là gì <eos> --> màu_đen
+192827 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+117722 - <sos> màu của con chó là gì <eos> --> màu_xám
+364582 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+340222 - <sos> màu của cây cầu là gì <eos> --> màu_đỏ
+171103 - <sos> màu của áo len là gì <eos> --> màu_xám
+399102 - <sos> màu của xe máy là gì <eos> --> màu_vàng
+353912 - <sos> màu của vòi nước là gì <eos> --> màu_cam
+380632 - <sos> màu của cà vạt là gì <eos> --> màu_đen
+501323 - <sos> màu của hoa tulip là gì <eos> --> màu_vàng
+392537 - <sos> màu của phòng tắm là gì <eos> --> màu_nâu
+214413 - <sos> màu của lái xe là gì <eos> --> màu_tía
+543391 - <sos> màu của dĩa nhựa là gì <eos> --> màu_vàng
+78572 - <sos> màu của ánh sáng là gì <eos> --> màu_vàng
+491525 - <sos> màu của con chó là gì <eos> --> màu_đen
+119294 - <sos> màu của động cơ là gì <eos> --> màu_xanh_lá
+96800 - <sos> màu của bộ đồ là gì <eos> --> màu_đen
+365140 - <sos> màu của động cơ là gì <eos> --> màu_đen
+521881 - <sos> màu của con chim là gì <eos> --> màu_vàng
+503318 - <sos> màu của phòng tắm là gì <eos> --> màu_trắng
+476530 - <sos> con mèo phơi nắng ở đâu <eos> --> cửa_sổ
+113504 - <sos> màu của vòi nước là gì <eos> --> màu_vàng
+74913 - <sos> màu của con chó là gì <eos> --> màu_trắng
+338059 - <sos> màu của chất thải là gì <eos> --> màu_xanh_dương
+254714 - <sos> màu của lửa là gì <eos> --> màu_đỏ
+322180 - <sos> nhiều cái ghế ở đâu <eos> --> phòng_ngủ
+521473 - <sos> màu của khăn là gì <eos> --> màu_nâu
+401434 - <sos> màu của cỏ là gì <eos> --> màu_xanh_lá
+158569 - <sos> màu của sàn là gì <eos> --> màu_xanh_lá
+24253 - <sos> màu của chăn là gì <eos> --> màu_cam
+157181 - <sos> màu của cửa là gì <eos> --> màu_đỏ
+285022 - <sos> màu của ghế là gì <eos> --> màu_vàng
+331249 - <sos> màu của bảng là gì <eos> --> màu_nâu
+525218 - <sos> màu của áo là gì <eos> --> màu_xanh_dương
+372390 - <sos> màu của xe là gì <eos> --> màu_xanh_dương
+269508 - <sos> màu của cây là gì <eos> --> màu_cam
+167359 - <sos> màu của gấu là gì <eos> --> màu_đen
+519911 - <sos> màu của gấu là gì <eos> --> màu_nâu
+185448 - <sos> nơi nào ba con ngựa vằn nằm dưới bóng râm của hai chiếc ô khổng lồ <eos> --> vườn_bách_thú
+311488 - <sos> khu vực giải trí chứa một tv nhỏ, hoa, phim, sách và chăn ở đâu <eos> --> cái_nồi
+198120 - <sos> hai hộp lớn của bánh rán và đồ uống ở đâu <eos> --> văn_phòng
+132857 - <sos> xe buýt thành phố màu xanh và trắng đang ở đâu <eos> --> ga-ra
+138699 - <sos> mèo xiêm đánh hơi hoa vàng và đỏ ở đâu <eos> --> lọ_cắm_hoa
+485595 - <sos> người đàn ông ăn mặc đẹp đang chờ ở đâu <eos> --> sân_vườn
+561256 - <sos> người phụ nữ đang chụp ảnh mình ở đâu <eos> --> phòng_tắm
+337062 - <sos> màu sắc của các dấu hiệu là gì <eos> --> màu_xanh_lá
+562325 - <sos> người đàn ông đá bóng đá ở đâu, <eos> --> sân_vận_động
+133295 - <sos> màu sắc của những con chó là gì <eos> --> màu_nâu
+482967 - <sos> màu sắc của thiên nga là gì <eos> --> màu_trắng
+188854 - <sos> người phụ nữ đang ngồi ở đâu <eos> --> cái_ghế
+580790 - <sos> màu sắc của bông hoa là gì <eos> --> màu_vàng
+274759 - <sos> màu của điểm đánh dấu là gì <eos> --> màu_cam
+54706 - <sos> màu sắc của khán đài là gì <eos> --> màu_xám
+279415 - <sos> ba người bạn say rượu ở đâu <eos> --> quán_bar
+20436 - <sos> hai củ cà rốt đang ở đâu <eos> --> tách
+172751 - <sos> màu sắc ở phía sau là gì <eos> --> màu_cam
+335087 - <sos> con búp bê đang tắm ở đâu <eos> --> phòng_tắm
+120717 - <sos> màu của những đám mây là gì <eos> --> màu_cam
+175513 - <sos> người đang chụp ảnh ở đâu <eos> --> gương
+360693 - <sos> màu của xe buýt là gì <eos> --> màu_đỏ
+296161 - <sos> màu của con mèo là gì <eos> --> màu_đen
+173688 - <sos> màu của vòi nước là gì <eos> --> màu_vàng
+215436 - <sos> màu của vòi nước là gì <eos> --> màu_vàng
+318467 - <sos> màu của chiếc thẻ là gì <eos> --> màu_cam
+369357 - <sos> màu của cà phê là gì <eos> --> màu_đen
+95737 - <sos> màu của chiếc đĩa là gì <eos> --> màu_trắng
+258642 - <sos> màu của xe buýt là gì <eos> --> màu_đỏ
+100647 - <sos> màu của sợi dây là gì <eos> --> màu_cam
+228376 - <sos> màu của chiếc bình là gì <eos> --> màu_xanh_dương
+242472 - <sos> màu của xe máy là gì <eos> --> màu_cam
+503153 - <sos> màu của con bò là gì <eos> --> màu_nâu
+426445 - <sos> màu của nước ép là gì <eos> --> màu_cam
+114749 - <sos> màu của chiếc bình là gì <eos> --> màu_xanh_dương
+111707 - <sos> màu của máy bay là gì <eos> --> màu_vàng
+275831 - <sos> màu của con mèo là gì <eos> --> màu_trắng
+189306 - <sos> màu của con chim là gì <eos> --> màu_tía
+212840 - <sos> màu của áo khoác là gì <eos> --> màu_đen
+72605 - <sos> màu của con mèo là gì <eos> --> màu_xám
+139333 - <sos> màu của bông hoa là gì <eos> --> màu_đỏ
+382356 - <sos> màu của con chó là gì <eos> --> màu_xám
+299134 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+22229 - <sos> màu của xe buýt là gì <eos> --> màu_đỏ
+38134 - <sos> màu của cái bát là gì <eos> --> màu_trắng
+569347 - <sos> màu của chiếc ô là gì <eos> --> màu_vàng
+284686 - <sos> màu của đồng hồ là gì <eos> --> màu_nâu
+394229 - <sos> màu của băng ghế là gì <eos> --> màu_xanh_dương
+179965 - <sos> màu của con mèo là gì <eos> --> màu_đen
+415335 - <sos> màu của cửa là gì <eos> --> màu_nâu
+487466 - <sos> màu của gấu là gì <eos> --> màu_tía
+46927 - <sos> màu của ghế là gì <eos> --> màu_đen
+531093 - <sos> màu của cây là gì <eos> --> màu_cam
+454832 - <sos> màu của gấu là gì <eos> --> màu_đen
+178674 - <sos> con mèo nằm ở đâu <eos> --> hộp
+85031 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+262756 - <sos> màu của đầu là gì <eos> --> màu_nâu
+283996 - <sos> màu của rèm là gì <eos> --> màu_vàng
+412687 - <sos> màu của cỏ là gì <eos> --> màu_xanh_lá
+426548 - <sos> màu của bảng là gì <eos> --> màu_nâu
+199469 - <sos> màu tóc là gì <eos> --> màu_trắng
+237851 - <sos> bông hoa ở đâu <eos> --> lọ_cắm_hoa
+360178 - <sos> màu mắt là gì <eos> --> màu_xanh_lá
+433637 - <sos> màu nước là gì <eos> --> màu_xanh_dương
+490639 - <sos> con mèo đang nhìn vào sự phản chiếu của người phụ nữ ở đâu <eos> --> gương
+178746 - <sos> một đứa trẻ với một thanh kiếm ánh sáng đứng ở đâu <eos> --> sân_bay
+168020 - <sos> con chó đang mặc một bộ đồ santa đỏ ở đâu <eos> --> gương
+466800 - <sos> bồn tắm hiện đại được hiển thị ở đâu <eos> --> phòng_tắm
+196672 - <sos> người phụ nữ và hai em bé ở đâu <eos> --> hồ_bơi
+184589 - <sos> màu của máy tính xách tay là gì <eos> --> màu_cam
+508938 - <sos> màu sắc của các tòa nhà là gì <eos> --> màu_nâu
+56784 - <sos> màu sắc của các điểm là gì <eos> --> màu_nâu
+198788 - <sos> màu sắc của chiếc váy là gì <eos> --> màu_trắng
+210363 - <sos> màu của người đàn ông là gì <eos> --> màu_đen
+311228 - <sos> một số thực phẩm nướng ở đâu <eos> --> món_ăn
+10337 - <sos> màu sắc của máy giặt là gì <eos> --> màu_đỏ
+354570 - <sos> màu sắc của bánh ngọt là gì <eos> --> màu_vàng
+323829 - <sos> màu của chiếc bình là gì <eos> --> màu_đỏ
+79831 - <sos> màu của mèo con là gì <eos> --> màu_đen
+403398 - <sos> màu của vòi nước là gì <eos> --> màu_đỏ
+260679 - <sos> màu của xe buýt là gì <eos> --> màu_trắng
+563155 - <sos> màu của vùng đất là gì <eos> --> màu_xanh_lá
+379226 - <sos> màu của cổ áo là gì <eos> --> màu_tía
+516176 - <sos> màu của áo khoác là gì <eos> --> màu_xám
+1926 - <sos> con mèo xám nằm ở đâu <eos> --> chậu
+521947 - <sos> màu của bàn phím là gì <eos> --> màu_trắng
+277907 - <sos> thức ăn được nấu ở đâu <eos> --> chảo
+281713 - <sos> màu của phòng tắm là gì <eos> --> màu_trắng
+189330 - <sos> màu của băng ghế là gì <eos> --> màu_đỏ
+297843 - <sos> màu của máy bay là gì <eos> --> màu_trắng
+239915 - <sos> màu của xe máy là gì <eos> --> màu_vàng
+10420 - <sos> màu của dấu hiệu là gì <eos> --> màu_xanh_dương
+251503 - <sos> màu của nước ép là gì <eos> --> màu_cam
+480861 - <sos> màu của lề đường là gì <eos> --> màu_đỏ
+232114 - <sos> màu của tín hiệu là gì <eos> --> màu_đỏ
+386154 - <sos> màu của chiếc ô là gì <eos> --> màu_cam
+419052 - <sos> màu của chiếc đĩa là gì <eos> --> màu_trắng
+531316 - <sos> màu của màn hình là gì <eos> --> màu_xanh_dương
+530154 - <sos> màu của bề mặt là gì <eos> --> màu_trắng
+306569 - <sos> những miếng pizza nằm ở đâu <eos> --> thùng_chứa
+97255 - <sos> màu của chiếc tàu là gì <eos> --> màu_xanh_lá
+8439 - <sos> màu của xe máy là gì <eos> --> màu_cam
+52498 - <sos> màu của đám mây là gì <eos> --> màu_xanh_dương
+103613 - <sos> cậu bé trượt ván ở đâu <eos> --> ga-ra
+124606 - <sos> màu của đường đua là gì <eos> --> màu_xanh_lá
+439278 - <sos> màu của vòi nước là gì <eos> --> màu_vàng
+291321 - <sos> màu của thùng rác là gì <eos> --> màu_tía
+344566 - <sos> màu của chiếc chiếu là gì <eos> --> màu_đỏ
+313131 - <sos> màu của xe buýt là gì <eos> --> màu_cam
+165433 - <sos> giường, tv và loveseat ở đâu <eos> --> phòng_ngủ
+448503 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+468626 - <sos> màu của áo là gì <eos> --> màu_đỏ
+151170 - <sos> màu của bàn là gì <eos> --> màu_nâu
+90290 - <sos> màu của tường là gì <eos> --> màu_xanh_dương
+579224 - <sos> màu của tường là gì <eos> --> màu_đỏ
+124606 - <sos> màu của bìa là gì <eos> --> màu_xanh_lá
+474732 - <sos> màu của tường là gì <eos> --> màu_đỏ
+307371 - <sos> màu của tháp là gì <eos> --> màu_nâu
+549409 - <sos> màu của bảng là gì <eos> --> màu_trắng
+43011 - <sos> màu của gạch là gì <eos> --> màu_xám
+325648 - <sos> màu của bảng là gì <eos> --> màu_xanh_dương
+445187 - <sos> màu của ghế là gì <eos> --> màu_vàng
+368811 - <sos> màu của gấu là gì <eos> --> màu_tía
+414161 - <sos> màu của cây là gì <eos> --> màu_xanh_lá
+147270 - <sos> màu của quần là gì <eos> --> màu_đen
+544703 - <sos> tv đang ngồi ở đâu <eos> --> phòng
+276554 - <sos> màu của tường là gì <eos> --> màu_trắng
+11222 - <sos> màu của ghế là gì <eos> --> màu_xanh_lá
+55447 - <sos> người đàn ông đứng ở đâu trước một con vật lông trắng <eos> --> áo_vest
+504257 - <sos> nam nữ đứng quay lưng đeo tạp dề ở đâu <eos> --> phòng_bếp
+519939 - <sos> người phụ nữ và một đứa trẻ ở đâu <eos> --> sân_vận_động
+394330 - <sos> màu sắc của ấm đun nước là gì <eos> --> màu_xanh_dương
+120276 - <sos> màu sắc của người đi làm là gì <eos> --> màu_vàng
+307583 - <sos> màu sắc của đi bộ là gì <eos> --> màu_đen
+374805 - <sos> màu của nhà vệ sinh là gì <eos> --> màu_trắng
+86916 - <sos> màu sắc của bông hoa là gì <eos> --> màu_đỏ
+118480 - <sos> màu của thứ bên trong là gì <eos> --> màu_xám
+534959 - <sos> màu của thứ đang ngủ là gì <eos> --> màu_cam
+482525 - <sos> màu sắc của dã ngoại là gì <eos> --> màu_đỏ
+112783 - <sos> màu sắc của quần áo là gì <eos> --> màu_đen
+300738 - <sos> màu sắc của chi tiết là gì <eos> --> màu_vàng
+345831 - <sos> màu sắc của khăn choàng là gì <eos> --> màu_xanh_dương
+462238 - <sos> màu của xe buýt là gì <eos> --> màu_đỏ
+93267 - <sos> màu của nước ép là gì <eos> --> màu_cam
+181975 - <sos> màu của chiếc đĩa là gì <eos> --> màu_trắng
+42529 - <sos> màu của lái xe là gì <eos> --> màu_đỏ
+45628 - <sos> màu của đất sét là gì <eos> --> màu_xám
+559366 - <sos> màu của con mèo là gì <eos> --> màu_đen
+147975 - <sos> màu của chiếc nắp là gì <eos> --> màu_xanh_dương
+531948 - <sos> màu của bồn rửa là gì <eos> --> màu_trắng
+315232 - <sos> màu của dấu hiệu là gì <eos> --> màu_đỏ
+330524 - <sos> màu của màn hình là gì <eos> --> màu_xanh_dương
+42705 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+426470 - <sos> màu sắc của biển là gì <eos> --> màu_xanh_dương
+128670 - <sos> màu của chiếc bình là gì <eos> --> màu_nâu
+420692 - <sos> màu của áo khoác là gì <eos> --> màu_xanh_dương
+426664 - <sos> màu của dấu hiệu là gì <eos> --> màu_cam
+336735 - <sos> người đàn ông nằm ở đâu <eos> --> giường
+420673 - <sos> màu của vòi nước là gì <eos> --> màu_đỏ
+64708 - <sos> màu của con chó là gì <eos> --> màu_trắng
+563578 - <sos> màu của con bò là gì <eos> --> màu_đen
+99844 - <sos> màu của xe buýt là gì <eos> --> màu_trắng
+218446 - <sos> màu của xe buýt là gì <eos> --> màu_đen
+154414 - <sos> màu của chiếc đĩa là gì <eos> --> màu_đen
+315517 - <sos> con mèo đang ngồi ở đâu <eos> --> phòng
+22462 - <sos> màu của con chó là gì <eos> --> màu_nâu
+6800 - <sos> màu của cái bát là gì <eos> --> màu_xanh_dương
+532482 - <sos> màu của vòi nước là gì <eos> --> màu_xanh_lá
+190845 - <sos> màu của máy kéo là gì <eos> --> màu_cam
+209383 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+68532 - <sos> màu của mũ nồi là gì <eos> --> màu_đen
+370149 - <sos> màu của xe tải là gì <eos> --> màu_trắng
+502604 - <sos> màu của con mèo là gì <eos> --> màu_đen
+63275 - <sos> màu của ghế là gì <eos> --> màu_nâu
+538058 - <sos> màu của sàn là gì <eos> --> màu_cam
+331520 - <sos> màu của chuỗi là gì <eos> --> màu_đỏ
+380395 - <sos> con chó nhỏ ở đâu <eos> --> hành_lý
+71265 - <sos> màu của bảng là gì <eos> --> màu_đen
+480026 - <sos> màu của bảng là gì <eos> --> màu_cam
+431008 - <sos> màu của thùng là gì <eos> --> màu_vàng
+333216 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+35573 - <sos> màu của gối là gì <eos> --> màu_trắng
+447108 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+175500 - <sos> màu của xe là gì <eos> --> màu_trắng
+91869 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+458960 - <sos> màu của áo là gì <eos> --> màu_xanh_dương
+373898 - <sos> màu của xe là gì <eos> --> màu_xám
+169878 - <sos> màu của container là gì <eos> --> màu_đỏ
+281959 - <sos> màu kem là gì <eos> --> màu_trắng
+557824 - <sos> tấm biển ở đâu <eos> --> cửa_sổ
+90989 - <sos> màu tóc là gì <eos> --> màu_đen
+577301 - <sos> bếp ở đâu <eos> --> phòng_bếp
+228256 - <sos> người phụ nữ cắt lát táo ngoài trời mặc gì <eos> --> tạp_dề
+283835 - <sos> cô gái nhỏ đang bắt bóng chày ở đâu <eos> --> găng_tay
+469035 - <sos> màu sắc của một cái gì đó là gì <eos> --> màu_xám
+499978 - <sos> người đàn ông đang làm gì đó ở đâu <eos> --> phòng
+175608 - <sos> màu sắc của máy bay phản lực là gì <eos> --> màu_trắng
+85902 - <sos> màu sắc của các phân khúc là gì <eos> --> màu_cam
+324764 - <sos> màu sắc của các thiết bị là gì <eos> --> màu_trắng
+263178 - <sos> trái cây và rau quả nằm ở đâu <eos> --> thùng_chứa
+299488 - <sos> màu sắc của các chữ cái là gì <eos> --> màu_xanh_dương
+493252 - <sos> nơi một số đang đứng là ở đâu <eos> --> trạm
+411937 - <sos> màu sắc của những con ngựa là gì <eos> --> màu_nâu
+11495 - <sos> con vẹt đuôi dài đang nhìn ở đâu <eos> --> gương
+443727 - <sos> màu sắc của chiếc váy là gì <eos> --> màu_xanh_dương
+497035 - <sos> màu sắc của bông hoa là gì <eos> --> màu_tía
+438968 - <sos> tàu điện ngầm dừng lại ở đâu <eos> --> trạm
+264797 - <sos> màu sắc của bông hoa là gì <eos> --> màu_tía
+152871 - <sos> màu sắc của bánh kem là gì <eos> --> màu_trắng
+541004 - <sos> màu của lò vi sóng là gì <eos> --> màu_đen
+496274 - <sos> màu của xe máy là gì <eos> --> màu_đỏ
+58429 - <sos> màu của vòi nước là gì <eos> --> màu_vàng
+72421 - <sos> màu của cái tủ là gì <eos> --> màu_trắng
+369452 - <sos> màu của chiếc hộp là gì <eos> --> màu_cam
+77569 - <sos> màu của xe đạp là gì <eos> --> màu_trắng
+19955 - <sos> màu của bộ đồ là gì <eos> --> màu_đen
+456422 - <sos> màu của nước mắt là gì <eos> --> màu_nâu
+457904 - <sos> màu của xe tải là gì <eos> --> màu_trắng
+457016 - <sos> màu của chiếc ô là gì <eos> --> màu_vàng
+305019 - <sos> màu của băng ghế là gì <eos> --> màu_đen
+212712 - <sos> màu của động cơ là gì <eos> --> màu_đen
+214926 - <sos> màu của tòa nhà là gì <eos> --> màu_đỏ
+320292 - <sos> màu của xe máy là gì <eos> --> màu_đen
+392869 - <sos> màu của chiếc tàu là gì <eos> --> màu_đỏ
+218574 - <sos> màu của con mèo là gì <eos> --> màu_đen
+434004 - <sos> màu của ván lướt là gì <eos> --> màu_xanh_dương
+66005 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+404673 - <sos> màu của con mèo là gì <eos> --> màu_đen
+416484 - <sos> màu của dĩa nhựa là gì <eos> --> màu_tía
+150017 - <sos> em bé đang tắm ở đâu <eos> --> chậu
+128387 - <sos> màu của con chim là gì <eos> --> màu_tía
+293276 - <sos> màu của con mèo là gì <eos> --> màu_đen
+418808 - <sos> màu của chiếc bình là gì <eos> --> màu_tía
+506782 - <sos> màu của con mèo là gì <eos> --> màu_đen
+497172 - <sos> màu của cà vạt là gì <eos> --> màu_tía
+107705 - <sos> màu của tòa nhà là gì <eos> --> màu_đỏ
+289352 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+731 - <sos> màu của chiếc ô là gì <eos> --> màu_đen
+431675 - <sos> màu của xe buýt là gì <eos> --> màu_đỏ
+364885 - <sos> màu sắc của đội là gì <eos> --> màu_vàng
+65612 - <sos> màu của ánh sáng là gì <eos> --> màu_vàng
+301527 - <sos> màu của xe máy là gì <eos> --> màu_đỏ
+482079 - <sos> màu của chiếc tàu là gì <eos> --> màu_vàng
+409732 - <sos> màu của xe là gì <eos> --> màu_cam
+172582 - <sos> màu của lửa là gì <eos> --> màu_xanh_dương
+143521 - <sos> màu của chăn là gì <eos> --> màu_đỏ
+111152 - <sos> màu của bếp là gì <eos> --> màu_vàng
+29466 - <sos> màu của áo là gì <eos> --> màu_đen
+409889 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+290668 - <sos> màu của đèn là gì <eos> --> màu_trắng
+168480 - <sos> màu của gạch là gì <eos> --> màu_xanh_dương
+360367 - <sos> màu của gấu là gì <eos> --> màu_nâu
+113412 - <sos> màu của xe là gì <eos> --> màu_trắng
+60140 - <sos> màu của bảng là gì <eos> --> màu_đỏ
+39272 - <sos> màu của lá là gì <eos> --> màu_vàng
+29643 - <sos> màu con hổ là gì <eos> --> màu_xám
+484281 - <sos> người phụ nữ xinh đẹp đang chuẩn bị một số thực phẩm ở đâu <eos> --> phòng_bếp
+481398 - <sos> sự phản chiếu của một đuôi động vật nhìn thấy ở đâu <eos> --> gương
+98220 - <sos> một đống thức ăn đang được nấu ở đâu <eos> --> chảo
+28589 - <sos> nhà vệ sinh và bồn rửa đặt ở đâu <eos> --> phòng_tắm
+454680 - <sos> màu sắc của các dấu hiệu là gì <eos> --> màu_cam
+116570 - <sos> bàn máy tính ở đâu trước cửa sổ <eos> --> văn_phòng
+450761 - <sos> người đàn ông lật bánh pizza ở đâu <eos> --> phòng_bếp
+67496 - <sos> đậu hà lan được nấu chín ở đâu <eos> --> chảo
+308541 - <sos> người đó trên ván trượt đang ở đâu <eos> --> chậu
+164918 - <sos> màu của những quả chuối là gì <eos> --> màu_xanh_lá
+458166 - <sos> con mèo đen lớn nằm ở đâu <eos> --> cái_ghế
+329191 - <sos> người chuẩn bị thức ăn ở đâu <eos> --> phòng_bếp
+502364 - <sos> màu của nhà vệ sinh là gì <eos> --> màu_trắng
+279457 - <sos> màu sắc của trang phục là gì <eos> --> màu_xanh_lá
+55630 - <sos> mèo con nhỏ đang ngồi ở đâu <eos> --> bát
+177749 - <sos> màu sắc của đi bộ là gì <eos> --> màu_nâu
+296161 - <sos> con mèo đang thư giãn ở đâu <eos> --> cái_ghế
+577623 - <sos> màu của lò nướng là gì <eos> --> màu_trắng
+393760 - <sos> màu sắc của tấm là gì <eos> --> màu_trắng
+434951 - <sos> màu của cấu trúc là gì <eos> --> màu_cam
+495752 - <sos> màu của dấu hiệu là gì <eos> --> màu_vàng
+331074 - <sos> màu của vòi nước là gì <eos> --> màu_vàng
+340354 - <sos> màu của áo khoác là gì <eos> --> màu_tía
+22409 - <sos> màu của chiếc ô là gì <eos> --> màu_đỏ
+408975 - <sos> màu của xe tải là gì <eos> --> màu_đỏ
+438485 - <sos> màu của chiếc mũ là gì <eos> --> màu_vàng
+383658 - <sos> màu của con chó là gì <eos> --> màu_đen
+318328 - <sos> màu của con mèo là gì <eos> --> màu_đen
+374376 - <sos> màu của con mèo là gì <eos> --> màu_cam
+366290 - <sos> màu của chiếc đĩa là gì <eos> --> màu_trắng
+100064 - <sos> màu của con chim là gì <eos> --> màu_đen
+288846 - <sos> màu của gấu bông là gì <eos> --> màu_nâu
+206636 - <sos> màu của dĩa nhựa là gì <eos> --> màu_tía
+103219 - <sos> màu của con chó là gì <eos> --> màu_đen
+250284 - <sos> màu của con bò là gì <eos> --> màu_đen
+528161 - <sos> màu sắc của kéo là gì <eos> --> màu_cam
+18006 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+322059 - <sos> màu của chiếc thuyền là gì <eos> --> màu_xanh_dương
+52693 - <sos> màu của xe buýt là gì <eos> --> màu_đỏ
+565572 - <sos> màu của chiếc ô là gì <eos> --> màu_cam
+182960 - <sos> màu của chiếc ô là gì <eos> --> màu_vàng
+26780 - <sos> màu của dĩa nhựa là gì <eos> --> màu_xanh_dương
+235446 - <sos> màu của con chó là gì <eos> --> màu_nâu
+154916 - <sos> màu của điện thoại là gì <eos> --> màu_đỏ
+123916 - <sos> màu của chiếc ô là gì <eos> --> màu_xanh_dương
+409216 - <sos> màu của bên trong là gì <eos> --> màu_đỏ
+82007 - <sos> màu sắc của lội là gì <eos> --> màu_trắng
+53975 - <sos> màu của giỏ hàng là gì <eos> --> màu_đen
+477831 - <sos> màu của lửa là gì <eos> --> màu_vàng
+109106 - <sos> màu của xe là gì <eos> --> màu_đen
+417679 - <sos> màu của khói là gì <eos> --> màu_đỏ
+469035 - <sos> màu của áo là gì <eos> --> màu_đen
+472913 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+94499 - <sos> màu của bìa là gì <eos> --> màu_xanh_dương
+62301 - <sos> màu của cây là gì <eos> --> màu_xanh_lá
+395259 - <sos> màu của tường là gì <eos> --> màu_trắng
+120399 - <sos> màu của ghế là gì <eos> --> màu_trắng
+74179 - <sos> màu của xe là gì <eos> --> màu_vàng
+208868 - <sos> màu của vải là gì <eos> --> màu_đỏ
+484734 - <sos> màu của ontop là gì <eos> --> màu_đen
+60140 - <sos> màu của ghế là gì <eos> --> màu_tía
+179906 - <sos> màu của cây là gì <eos> --> màu_xanh_lá
+504280 - <sos> màu của gấu là gì <eos> --> màu_nâu
+73996 - <sos> màu sắc của một <eos> --> màu_xanh_dương
+544516 - <sos> một số ngựa nâu và một là đang ăn ở đâu <eos> --> chuồng
+407808 - <sos> hòn đảo gần bàn ăn với bốn ghế ở đâu <eos> --> phòng_bếp
+436539 - <sos> con chó và một người phụ nữ ở đâu <eos> --> phòng_bếp
+44923 - <sos> màu của bàn chải đánh răng là gì <eos> --> màu_vàng
+48199 - <sos> nhà vệ sinh và bồn tắm ở đâu <eos> --> phòng_tắm
+486595 - <sos> một đám xe tay ga đậu ở đâu <eos> --> ga-ra
+116270 - <sos> màu sắc của bông hoa là gì <eos> --> màu_vàng
+381985 - <sos> màu sắc của bông hoa là gì <eos> --> màu_đỏ
+421059 - <sos> màu sắc của bông hoa là gì <eos> --> màu_trắng
+319295 - <sos> màu sắc của hành tây là gì <eos> --> màu_tía
+55642 - <sos> màu sắc của đầu máy là gì <eos> --> màu_đen
+466615 - <sos> màu sắc của chiếc váy là gì <eos> --> màu_tía
+93601 - <sos> những cuộn bánh quế nằm ở đâu <eos> --> lò_vi_sóng
+120385 - <sos> màu sắc của công viên là gì <eos> --> màu_đỏ
+492352 - <sos> màu của con mèo là gì <eos> --> màu_cam
+219760 - <sos> màu của con chó là gì <eos> --> màu_đen
+326313 - <sos> màu của con mèo là gì <eos> --> màu_đen
+178242 - <sos> màu của xe buýt là gì <eos> --> màu_cam
+281103 - <sos> màu của máy bay là gì <eos> --> màu_trắng
+396572 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+566835 - <sos> màu của băng ghế là gì <eos> --> màu_xanh_lá
+510402 - <sos> màu của con chó là gì <eos> --> màu_trắng
+358457 - <sos> màu của con bò là gì <eos> --> màu_nâu
+305661 - <sos> màu của con ngựa là gì <eos> --> màu_nâu
+345742 - <sos> màu của con mèo là gì <eos> --> màu_nâu
+433224 - <sos> màu của tủ lạnh là gì <eos> --> màu_trắng
+580562 - <sos> màu của xe tải là gì <eos> --> màu_trắng
+449889 - <sos> màu của xe máy là gì <eos> --> màu_đỏ
+166503 - <sos> màu của xe buýt là gì <eos> --> màu_vàng
+439366 - <sos> màu của bông hoa là gì <eos> --> màu_tía
+7642 - <sos> màu của chiếc ô là gì <eos> --> màu_tía
+208082 - <sos> cô gái trẻ ngủ ở đâu <eos> --> giường
+43829 - <sos> màu của áo khoác là gì <eos> --> màu_nâu
+288131 - <sos> màu của tòa nhà là gì <eos> --> màu_nâu
+297843 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+345238 - <sos> màu của chiếc nơ là gì <eos> --> màu_tía
+79613 - <sos> màu sắc của giày là gì <eos> --> màu_nâu
+243895 - <sos> màu của bầu trời là gì <eos> --> màu_xanh_dương
+59997 - <sos> màu của chiếc bình là gì <eos> --> màu_trắng
+99180 - <sos> màu của dấu hiệu là gì <eos> --> màu_vàng
+127301 - <sos> người đang chụp ảnh ở đâu <eos> --> gương
+169732 - <sos> màu của con dao là gì <eos> --> màu_xanh_lá
+160615 - <sos> màu của đậu là gì <eos> --> màu_xanh_lá
+164667 - <sos> màu của cỏ là gì <eos> --> màu_xanh_lá
+500871 - <sos> bia được rót vào đâu <eos> --> bát
+319688 - <sos> màu của lát là gì <eos> --> màu_cam
+389171 - <sos> thuyền neo đậu ở đâu <eos> --> bến_du_thuyền
+407053 - <sos> màu của cửa là gì <eos> --> màu_cam
+110937 - <sos> màu của gạch là gì <eos> --> màu_đỏ
+127339 - <sos> màu của áo là gì <eos> --> màu_cam
+75084 - <sos> màu của vali là gì <eos> --> màu_xanh_dương
+300441 - <sos> màu của lá là gì <eos> --> màu_xanh_lá
+104454 - <sos> màu của chăn là gì <eos> --> màu_xanh_dương
+439911 - <sos> màu của cao là gì <eos> --> màu_xanh_dương
+495797 - <sos> màu của cây là gì <eos> --> màu_tía
+550099 - <sos> màu của gấu là gì <eos> --> màu_đen
+419489 - <sos> màu của áo là gì <eos> --> màu_nâu

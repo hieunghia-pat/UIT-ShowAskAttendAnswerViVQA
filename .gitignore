@@ -4,3 +4,5 @@ vqa
 examine.py
 
 *.h5
+
+saved_model

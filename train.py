@@ -50,7 +50,7 @@ def run(net, loaders, optimizer, tracker, train=False, prefix='', epoch=0):
             q_len = q_len.cuda()
 
             out = net(v, q, q_len)
-            scores = metrics.get_scores(out.cpu(), a.cpu())
+            scores = metrics.get_scores(loader.dataset._decode_answer(out.cpu()), loader.dataset._decode_answer(a.cpu()))
 
             if train:
                 global total_iterations
@@ -80,7 +80,7 @@ def run(net, loaders, optimizer, tracker, train=False, prefix='', epoch=0):
                 "accuracy": acc_tracker.mean.value,
                 "precision": pre_tracker.mean.value,
                 "recall": rec_tracker.mean.value,
-                "F1": np.mean(f1_tracker.mean.value)
+                "F1": f1_tracker.mean.value
             }
 
 
@@ -118,15 +118,16 @@ def main():
                     "f1": val_returned["F1"]
                 },
                 'vocab': train_dataset.vocab,
+                "folds": folds,
             }
         
-            torch.save(results, os.path.join(config.model_checkpoint, f"model_last_fold_{k+1}.pth"))
+            torch.save(results, os.path.join(config.model_checkpoint, f"model_last_stage_{k+1}.pth"))
             if val_returned["F1"] > max_f1:
                 max_f1 = val_returned["F1"]
-                torch.save(results, os.path.join(config.model_checkpoint, f"model_best_fold_{k+1}.pth"))
+                torch.save(results, os.path.join(config.model_checkpoint, f"model_best_stage_{k+1}.pth"))
 
         print(f"Finished for stage {k+1}. Best F1 score: {max_f1}.")
-        print("="*13)
+        print("="*31)
 
         # change roles of the folds
         for i in range(k_fold):

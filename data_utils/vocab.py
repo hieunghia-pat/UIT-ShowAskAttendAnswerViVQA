@@ -22,7 +22,7 @@ class Vocab(object):
             numerical identifiers.
         itos: A list of token strings indexed by their numerical identifiers.
     """
-    def __init__(self, json_dir, max_size=None, min_freq=1, specials=['<pad>', "<sos>", "<eos>", "<unk>"],
+    def __init__(self, json_dirs, max_size=None, min_freq=1, specials=['<pad>', "<sos>", "<eos>"],
                  vectors=None, unk_init=None, vectors_cache=None):
         """Create a Vocab object from a collections.Counter.
         Arguments:
@@ -43,7 +43,7 @@ class Vocab(object):
                 returns a Tensor of the same size. Default: torch.Tensor.zero_
             vectors_cache: directory for cached vectors. Default: '.vector_cache'
         """ 
-        self.freqs = self.make_vocab(json_dir)
+        self.make_vocab(json_dirs)
         counter = self.freqs.copy()
         min_freq = max(min_freq, 1)
 
@@ -74,14 +74,53 @@ class Vocab(object):
         else:
             assert unk_init is None and vectors_cache is None
 
-    def make_vocab(self, json_dir):
-        counter = Counter()
-        json_data = json.load(open(os.path.join(json_dir)))
-        for ann in json_data["annotations"]:
-            question = preprocess_question(ann["question"])
-            counter.update(question)
+    def make_vocab(self, json_dirs):
+        self.freqs = Counter()
+        self.output_cats = set()
+        self.max_question_length = 0
+        for json_dir in json_dirs:
+            json_data = json.load(open(json_dir))
+            for ann in json_data["annotations"]:
+                question = preprocess_question(ann["question"])
+                answer = preprocess_answer(ann["answer"])
+                self.freqs.update(question)
+                self.output_cats.add(answer)
+                if len(question) > self.max_question_length:
+                    self.max_question_length = len(question)
 
-        return counter
+        self.output_cats = list(self.output_cats)
+
+    def _encode_question(self, question):
+        """ Turn a question into a vector of indices and a question length """
+        vec = torch.ones(self.max_question_length).long() * self.stoi["<pad>"]
+        for i, token in enumerate(question):
+            vec[i] = self.stoi[token]
+        return vec, len(question)
+
+    def _encode_answer(self, answer):
+        """ Turn an answer into a vector """
+        # answer vec will be a vector of answer counts to determine which answers will contribute to the loss.
+        # this should be multiplied with 0.1 * negative log-likelihoods that a model produces and then summed up
+        # to get the loss that is weighted by how many humans gave that answer
+        answer_vec = torch.zeros(len(self.output_cats))
+        answer_vec[self.output_cats.index(answer)] = 1
+
+        return answer_vec
+
+    def _decode_question(self, question_vecs):
+        questions = []
+        for vec in question_vecs.cpu():
+            questions.append(" ".join([self.itos[idx] for idx in vec.tolist() if idx > 0]))
+
+        return questions
+
+    def _decode_answer(self, predicted):
+        predicted = torch.argmax(predicted, dim=-1).tolist()
+        answers = []
+        for idx in predicted:
+            answers.append(self.output_cats[idx])
+
+        return answers
 
     def __eq__(self, other):
         if self.freqs != other.freqs:
