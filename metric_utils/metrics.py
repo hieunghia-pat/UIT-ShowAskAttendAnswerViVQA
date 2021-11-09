@@ -15,9 +15,9 @@ class Metrics(object):
         true = self.vocab._decode_answer(true)
 
         acc = accuracy_score(true, predicted)
-        pre = precision_score(true, predicted, average="micro")
-        recall = recall_score(true, predicted, average="micro")
-        f1 = f1_score(true, predicted, average="micro")
+        pre = precision_score(true, predicted, average="macro")
+        recall = recall_score(true, predicted, average="macro")
+        f1 = f1_score(true, predicted, average="macro")
 
         return {
             "accuracy": acc,
