@@ -5,6 +5,8 @@ examine.py
 
 *.h5
 
-saved_model
+saved_models
 
 *.txt
+*.json
+*.ipynb

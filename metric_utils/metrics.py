@@ -26,7 +26,7 @@ class Metrics(object):
             "F1": f1
         }
 
-    def evaluate(self, net, test_dataset, train_dataset, tracker, prefix=''):
+    def evaluate(self, net, test_dataset, tracker, prefix=''):
         net.eval()
         tracker_class, tracker_params = tracker.MeanMonitor, {}
 
@@ -51,9 +51,7 @@ class Metrics(object):
             q_len = q_len.cuda()
 
             out = net(v, q, q_len)
-            out_a = train_dataset._decode_answer(out.cpu())
-            gt_a = loader.dataset._decode_answer(a.cpu())
-            scores = self.get_scores(out_a, gt_a)
+            scores = self.get_scores(out.cpu(), a.cpu())
 
             acc_tracker.append(scores["accuracy"])
             pre_tracker.append(scores["precision"])
