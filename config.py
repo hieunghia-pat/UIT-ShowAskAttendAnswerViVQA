@@ -27,6 +27,8 @@ lr_halflife = 50000  # in iterations
 data_workers = 0
 model_checkpoint = "saved_models"
 best_model_checkpoint = "saved_models"
+tmp_model_checkpoint = "saved_models/last_model.pth"
+start_from = None
 
 ## self-attention based method configurations
 d_model = 512
