@@ -58,7 +58,7 @@ def run(net, loaders, optimizer, tracker, train=False, prefix='', epoch=0):
                 update_learning_rate(optimizer, total_iterations)
 
                 optimizer.zero_grad()
-                loss = loss_objective(out, a)
+                loss = loss_objective(out, a.argmax(dim=-1))
                 loss.backward()
                 optimizer.step()
 
