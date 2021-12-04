@@ -43,7 +43,7 @@ def run(net, loaders, optimizer, tracker, train=False, prefix='', epoch=0):
         rec_tracker = tracker.track('{}_recall'.format(prefix), tracker_class(**tracker_params))
         f1_tracker = tracker.track('{}_F1'.format(prefix), tracker_class(**tracker_params))
 
-        log_softmax = nn.LogSoftmax(dim=-1).cuda()
+        loss_objective = nn.CrossEntropyLoss(label_smoothing=0.2).cuda()
         for v, q, a, q_len in tq:
             v = v.cuda()
             q = q.cuda()
@@ -58,8 +58,7 @@ def run(net, loaders, optimizer, tracker, train=False, prefix='', epoch=0):
                 update_learning_rate(optimizer, total_iterations)
 
                 optimizer.zero_grad()
-                nll = -log_softmax(out)
-                loss = (nll * a / 10).sum(dim=1).mean()
+                loss = loss_objective(out, a)
                 loss.backward()
                 optimizer.step()
 

@@ -4,7 +4,6 @@ from torch import nn
 import numpy as np
 
 from model.latent_encoder import LatentEncoderLayer, LatentEncoder
-from model.classifier import Classifier
 from model.embedding import TextEmbedding, VisualEmbedding
 
 class SAAA(nn.Module):
@@ -28,8 +27,7 @@ class SAAA(nn.Module):
             LatentEncoderLayer(d_model, nheads, dff, dropout, batch_first=True), 
             nlayers
         )
-        
-        self.proj = nn.Linear(vocab.max_question_length, 1)
+
         self.generator = nn.Linear(d_model, len(vocab.output_cats))
         self.dropout = nn.Dropout(dropout)
 
@@ -54,7 +52,6 @@ class SAAA(nn.Module):
         v_encoded = self.visual_encoder(v_embedded)
         q_encoded = self.linguistic_encoder(q_embedded, attn_mask, key_padding_mask)
         
-        out = self.latent_encoder(v_encoded, q_encoded) # (n, s, e)
-        out = self.proj(out.permute(0, -1, -2)).squeeze() # (n, e)
+        out = self.latent_encoder(v_encoded, q_encoded).sum(dim=1) # (n, e)
 
         return self.dropout(self.generator(out))
