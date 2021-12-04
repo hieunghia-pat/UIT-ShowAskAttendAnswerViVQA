@@ -30,7 +30,8 @@ class SAAA(nn.Module):
         )
         
         self.proj = nn.Linear(vocab.max_question_length, 1)
-        self.generator = Classifier(d_model, d_model // 2, len(vocab.output_cats), drop=dropout)
+        self.generator = nn.Linear(d_model, len(vocab.output_cats))
+        self.dropout = nn.Dropout(dropout)
 
     def key_padding_mask(self, x, padding_idx):
         "Mask out subsequent positions."
@@ -56,4 +57,4 @@ class SAAA(nn.Module):
         out = self.latent_encoder(v_encoded, q_encoded) # (n, s, e)
         out = self.proj(out.permute(0, -1, -2)).squeeze() # (n, e)
 
-        return self.generator(out)
+        return self.dropout(self.generator(out))
