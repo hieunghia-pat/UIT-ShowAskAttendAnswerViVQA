@@ -18,12 +18,6 @@ from metric_utils.tracker import Tracker
 import os
 
 
-def update_learning_rate(optimizer, iteration):
-    lr = config.initial_lr * 0.5**(float(iteration) / config.lr_halflife)
-    for param_group in optimizer.param_groups:
-        param_group['lr'] = lr
-
-
 total_iterations = 0
 metrics = Metrics()
 
@@ -54,15 +48,11 @@ def run(net, loaders, fold_idx, stage, optimizer, tracker, train=False, prefix='
             scores = metrics.get_scores(out.cpu(), a.cpu())
 
             if train:
-                global total_iterations
-                update_learning_rate(optimizer, total_iterations)
 
                 optimizer.zero_grad()
                 loss = loss_objective(out, a.argmax(dim=-1))
                 loss.backward()
                 optimizer.step()
-
-                total_iterations += 1
             else:
                 loss = np.array(0)
 
