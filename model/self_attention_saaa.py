@@ -29,6 +29,7 @@ class SAAA(nn.Module):
         )
 
         self.generator = nn.Linear(d_model, len(vocab.output_cats))
+        self.softmax = nn.Softmax(dim=-1)
         self.dropout = nn.Dropout(dropout)
 
     def key_padding_mask(self, x, padding_idx):
@@ -53,5 +54,6 @@ class SAAA(nn.Module):
         q_encoded = self.linguistic_encoder(q_embedded, attn_mask, key_padding_mask)
         
         out = self.latent_encoder(v_encoded, q_encoded).sum(dim=1) # (n, e)
+        out = self.dropout(self.generator(out))
 
-        return self.dropout(self.generator(out))
+        return self.softmax(out)
