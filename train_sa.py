@@ -50,7 +50,7 @@ def run(net, loaders, optimizer, tracker, train=False, prefix='', epoch=0):
             a = a.cuda()
             q_len = q_len.cuda()
 
-            out = net(v, q, q_len)
+            out = net(v, q)
             scores = metrics.get_scores(out.cpu(), a.cpu())
 
             if train:
