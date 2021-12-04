@@ -21,3 +21,11 @@ def tile_2d_over_nd(feature_vector, feature_map):
     spatial_size = feature_map.dim() - 2
     tiled = feature_vector.view(n, c, *([1] * spatial_size)).expand_as(feature_map)
     return tiled
+
+def _get_activation_fn(activation):
+    if activation == "relu":
+        return F.relu
+    elif activation == "gelu":
+        return F.gelu
+
+    raise RuntimeError("activation should be relu/gelu, not {}".format(activation))

@@ -27,3 +27,12 @@ lr_halflife = 50000  # in iterations
 data_workers = 0
 model_checkpoint = "saved_models"
 best_model_checkpoint = "saved_models"
+
+## self-attention based method configurations
+d_model = 512
+visual_shape = (2048, 14, 14)
+embedding_dim = 1024
+dff = 1024
+nheads = 8
+nlayers = 4
+dropout = 0.5
