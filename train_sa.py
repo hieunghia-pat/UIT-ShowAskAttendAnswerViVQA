@@ -68,8 +68,9 @@ def run(net, loaders, fold_idx, stage, optimizer, tracker, train=False, prefix='
         torch.save({
             "fold": fold_idx+1,
             "epoch": epoch,
-            "stage": stage
-        })
+            "stage": stage,
+            "weights": net.state_dict()
+        }, os.path.join(config.tmp_model_checkpoint, "last_model.pth"))
 
     if not train:
         return {
@@ -89,7 +90,7 @@ def main():
     else:
         vocab = Vocab([config.json_train_path, config.json_test_path], 
                             specials=["<pad>", "<sos", "<eos>"])
-        pickle.dump(open(os.path.join(config.model_checkpoint, "vocab.pkl"), "wb"))
+        pickle.dump(vocab, open(os.path.join(config.model_checkpoint, "vocab.pkl"), "wb"))
 
     metrics.vocab = vocab
     train_dataset = ViVQA(config.json_train_path, config.preprocessed_path, vocab)
@@ -99,24 +100,30 @@ def main():
         folds, test_fold = pickle.load(open(os.path.join(config.model_checkpoint, "folds.pkl"), "rb"))
     else:
         folds, test_fold = get_loader(train_dataset, test_dataset)
-        pickle.dumps((folds, test_fold), open(os.path.join(config.model_checkpoint, "folds.pkl"), "wb"))
+        pickle.dump((folds, test_fold), open(os.path.join(config.model_checkpoint, "folds.pkl"), "wb"))
 
     if config.start_from:
         saved_info = torch.load(config.start_from)
         from_epoch = saved_info["epoch"]
         from_stage = saved_info["stage"]
         from_fold = saved_info["fold"] + 1
+        net = nn.DataParallel(SAAA(vocab, config.visual_shape, config.d_model, config.embedding_dim, config.dff, config.nheads, 
+                                    config.nlayers, config.dropout)).cuda()
+        net.load_state_dict(saved_info["weights"])
+
     else:
         from_epoch = 0
         from_stage = 0
         from_fold = 0
+        net = None
     
     k_fold = len(folds) - 1
 
     for k in range(from_stage, k_fold):
         print(f"Stage {k+1}:")
-        net = nn.DataParallel(SAAA(vocab, config.visual_shape, config.d_model, config.embedding_dim, config.dff, config.nheads, 
-                                    config.nlayers, config.dropout)).cuda()
+        if net is None:
+            net = nn.DataParallel(SAAA(vocab, config.visual_shape, config.d_model, config.embedding_dim, config.dff, config.nheads, 
+                                        config.nlayers, config.dropout)).cuda()
         optimizer = optim.Adam([p for p in net.parameters() if p.requires_grad])
 
         tracker = Tracker()
