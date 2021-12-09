@@ -90,7 +90,7 @@ def main():
     cudnn.benchmark = True
 
     vocab = Vocab([config.json_train_path, config.json_test_path], 
-                            specials=["<pad>", "<sos", "<eos>"], vectors=config.word_embedding)
+                            specials=config.specials, vectors=config.word_embedding)
     metrics.vocab = vocab
     train_dataset = ViVQA(config.json_train_path, config.preprocessed_path, vocab)
     test_dataset = ViVQA(config.json_test_path, config.preprocessed_path, vocab)

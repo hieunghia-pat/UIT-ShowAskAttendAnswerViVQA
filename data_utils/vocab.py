@@ -1,7 +1,7 @@
 import torch
 from data_utils.vector import Vectors
 from data_utils.vector import pretrained_aliases
-from data_utils.utils import preprocess_answer, preprocess_question
+from data_utils.utils import preprocess_answer, preprocess_question, unk_init
 from collections import defaultdict, Counter
 import logging
 import six
@@ -23,7 +23,7 @@ class Vocab(object):
         itos: A list of token strings indexed by their numerical identifiers.
     """
     def __init__(self, json_dirs, max_size=None, min_freq=1, specials=['<pad>', "<sos>", "<eos>", "<unk>"],
-                 vectors=None, unk_init=None, vectors_cache=None):
+                 vectors=None, unk_init=unk_init, vectors_cache=None):
         """Create a Vocab object from a collections.Counter.
         Arguments:
             counter: collections.Counter object holding the frequencies of

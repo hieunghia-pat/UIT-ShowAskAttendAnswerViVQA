@@ -32,6 +32,10 @@ start_from = None
 
 # model confiuguration
 word_embedding = "fasttext.vi.300d"
+                # "fasttext.vi.300d"
                 # "phow2v.syllable.100d"
                 # "phow2v.syllable.300d"
+                # "phow2v.word.100d"
+                # "phow2v.word.300d"
 embedding_dim = 300
+specials = ["<pad>", "<sos>", "<eos>"]
