@@ -3,9 +3,11 @@ from torch.nn import init
 from torch.nn.utils.rnn import pack_padded_sequence
 
 class TextProcessor(nn.Module):
-    def __init__(self, embedding_tokens, embedding_features, lstm_features, drop=0.0):
+    def __init__(self, vocab, embedding_features, lstm_features, drop=0.0):
         super(TextProcessor, self).__init__()
-        self.embedding = nn.Embedding(embedding_tokens, embedding_features, padding_idx=0)
+        self.embedding = nn.Embedding(len(vocab.stoi), embedding_features, padding_idx=0)
+        if vocab.vectors:
+            self.embedding.from_pretrained(vocab.vectors, padding_idx=vocab.stoi["<pad>"])
         self.drop = nn.Dropout(drop)
         self.tanh = nn.Tanh()
         self.lstm = nn.LSTM(input_size=embedding_features,

@@ -30,11 +30,8 @@ best_model_checkpoint = "saved_models"
 tmp_model_checkpoint = "saved_models/last_model.pth"
 start_from = None
 
-## self-attention based method configurations
-d_model = 512
-visual_shape = (2048, 14, 14)
-embedding_dim = 512
-dff = 1024
-nheads = 8
-nlayers = 4
-dropout = 0.5
+# model confiuguration
+word_embedding = "fasttext.vi.300d"
+                # "phow2v.syllable.100d"
+                # "phow2v.syllable.300d"
+embedding_dim = 300
