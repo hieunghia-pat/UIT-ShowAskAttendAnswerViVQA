@@ -9,7 +9,7 @@ import numpy as np
 
 import config
 from data_utils.vocab import Vocab
-from model.asaa import ASAA
+from model.saaa import SAAA
 from data_utils.vivqa import ViVQA, get_loader
 from metric_utils.metrics import Metrics
 from metric_utils.tracker import Tracker
@@ -99,7 +99,7 @@ def main():
 
     for k in range(k_fold):
         print(f"Stage {k+1}:")
-        net = nn.DataParallel(ASAA(train_dataset.num_tokens, len(train_dataset.vocab.output_cats))).cuda()
+        net = nn.DataParallel(SAAA(vocab)).cuda()
         optimizer = optim.Adam([p for p in net.parameters() if p.requires_grad])
 
         tracker = Tracker()
@@ -139,10 +139,9 @@ def main():
         print("="*31)
 
         # change roles of the folds
-        for i in range(k_fold):
-            tmp = folds[i]
-            folds[i] = folds[i-1]
-            folds[i-1] = tmp
+        tmp = folds[0]
+        folds[:-1] = folds[1:]
+        folds[-1] = tmp
 
 if __name__ == '__main__':
     main()

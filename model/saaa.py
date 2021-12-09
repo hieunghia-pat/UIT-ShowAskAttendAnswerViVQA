@@ -1,30 +1,32 @@
 import torch
 from torch import nn
+from torch.nn import init
+
 from model.text_processor import TextProcessor
 from model.attention import Attention
 from model.classifier import Classifier
 from model.utils import apply_attention
-from torch.nn import init
+from data_utils.vocab import Vocab
 
 import config
 
-class ASAA(nn.Module):
+class SAAA(nn.Module):
     """ Re-implementation of ``Show, Ask, Attend, and Answer: A Strong Baseline For Visual Question Answering'' [0]
 
     [0]: https://arxiv.org/abs/1704.03162
     """
 
-    def __init__(self, embedding_tokens, num_output_cats):
-        super(ASAA, self).__init__()
+    def __init__(self, vocab: Vocab):
+        super(SAAA, self).__init__()
         question_features = 1024
         vision_features = config.output_features
         glimpses = 2
 
         self.text = TextProcessor(
-            embedding_tokens=embedding_tokens,
-            embedding_features=300,
+            vocab,
+            embedding_features=config.embedding_dim,
             lstm_features=question_features,
-            drop=0.5,
+            drop=0.5
         )
         self.attention = Attention(
             v_features=vision_features,
@@ -36,7 +38,7 @@ class ASAA(nn.Module):
         self.classifier = Classifier(
             in_features=glimpses * vision_features + question_features,
             mid_features=1024,
-            out_features=num_output_cats,
+            out_features=len(vocab.output_cats),
             drop=0.5,
         )
 
