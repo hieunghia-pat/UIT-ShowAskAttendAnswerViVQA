@@ -5,7 +5,7 @@ import torch.backends.cudnn as cudnn
 
 import config
 # from metric_utils.tracker import Tracker
-from model.asaa import ASAA
+from model.saaa import SAAA
 from data_utils.vivqa import ViVQA, collate_fn
 from metric_utils.metrics import Metrics
 
@@ -34,7 +34,7 @@ def main():
             test_dataset.vocab = saved_model["vocab"]
             metrics.vocab = saved_model["vocab"]
 
-            net = nn.DataParallel(ASAA(len(test_dataset.vocab.stoi), len(test_dataset.vocab.output_cats))).cuda()
+            net = nn.DataParallel(SAAA(saved_model["vocab"])).cuda()
             net.load_state_dict(saved_model["weights"])
 
             loader = torch.utils.data.DataLoader(
