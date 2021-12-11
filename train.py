@@ -16,7 +16,6 @@ from metric_utils.tracker import Tracker
 
 import os
 
-
 def update_learning_rate(optimizer, iteration):
     lr = config.initial_lr * 0.5**(float(iteration) / config.lr_halflife)
     for param_group in optimizer.param_groups:
@@ -88,16 +87,31 @@ def run(net, loaders, optimizer, tracker, train=False, prefix='', epoch=0):
 def main():
 
     cudnn.benchmark = True
+    
+    if config.start_from:
+        saved_info = torch.load(config.start_from)
+    else:
+        saved_info = None
 
-    vocab = Vocab([config.json_train_path, config.json_test_path], 
-                            specials=config.specials, vectors=config.word_embedding)
+    if not saved_info:
+        vocab = Vocab([config.json_train_path, config.json_test_path], 
+                                    specials=config.specials, vectors=config.word_embedding)
+    else:
+        vocab = saved_info["vocab"]
+
     metrics.vocab = vocab
     train_dataset = ViVQA(config.json_train_path, config.preprocessed_path, vocab)
     test_dataset = ViVQA(config.json_test_path, config.preprocessed_path, vocab)
     folds, test_fold = get_loader(train_dataset, test_dataset)
-    k_fold = len(folds) - 1
+    if saved_info:
+        folds = saved_info["folds"]
+        from_stage = saved_info["stage"]
+        from_epoch = saved_info["epoch"] + 1
+    else:
+        from_stage = 0
+        from_epoch = 0
 
-    for k in range(k_fold):
+    for k in range(from_stage, len(folds)):
         print(f"Stage {k+1}:")
         net = nn.DataParallel(SAAA(vocab)).cuda()
         optimizer = optim.Adam([p for p in net.parameters() if p.requires_grad])
@@ -107,7 +121,7 @@ def main():
 
         max_f1 = 0 # for saving the best model
         f1_test = 0
-        for e in range(config.epochs):
+        for e in range(from_epoch, config.epochs):
             run(net, folds[:-1], optimizer, tracker, train=True, prefix='Training', epoch=e)
             val_returned = run(net, [folds[-1]], optimizer, tracker, train=False, prefix='Validation', epoch=e)
             test_returned = run(net, [test_fold], optimizer, tracker, train=False, prefix='Evaluation', epoch=e)
@@ -127,6 +141,9 @@ def main():
 
                 },
                 'vocab': train_dataset.vocab,
+                "folds": folds,
+                "stage": k,
+                "epoch": e
             }
         
             torch.save(results, os.path.join(config.model_checkpoint, f"model_last_stage_{k+1}.pth"))
