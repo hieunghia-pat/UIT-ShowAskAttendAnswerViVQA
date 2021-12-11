@@ -22,12 +22,11 @@ central_fraction = 0.875  # only take this much of the centre when scaling and c
 # training config
 epochs = 30
 batch_size = 64
-initial_lr = 5e-5  # default Adam lr
+initial_lr = 5e-3  # default Adam lr
 lr_halflife = 50000  # in iterations
 data_workers = 0
 model_checkpoint = "saved_models"
-best_model_checkpoint = "saved_models"
-tmp_model_checkpoint = "saved_models/last_model.pth"
+best_model_checkpoint = "saved_models/SAAA_word_embedding"
 start_from = None
 
 # model confiuguration

@@ -1,3 +1,4 @@
+import pickle
 import torch
 import torch.nn as nn
 import torch.optim as optim
@@ -87,24 +88,25 @@ def run(net, loaders, optimizer, tracker, train=False, prefix='', epoch=0):
 def main():
 
     cudnn.benchmark = True
-    
-    if config.start_from:
-        saved_info = torch.load(config.start_from)
-    else:
-        saved_info = None
 
-    if not saved_info:
+    if not os.path.isfile(os.path.join(config.model_checkpoint, "vocab.plk")):
         vocab = Vocab([config.json_train_path, config.json_test_path], 
                                     specials=config.specials, vectors=config.word_embedding)
+        pickle.dump(vocab, open(os.path.join(config.model_checkpoint, "vocab.plk"), "wb"))
     else:
-        vocab = saved_info["vocab"]
+        vocab = pickle.load(open(os.path.join(config.model_checkpoint, "vocab.pkl"), "rb"))
 
     metrics.vocab = vocab
     train_dataset = ViVQA(config.json_train_path, config.preprocessed_path, vocab)
     test_dataset = ViVQA(config.json_test_path, config.preprocessed_path, vocab)
-    folds, test_fold = get_loader(train_dataset, test_dataset)
-    if saved_info:
-        folds = saved_info["folds"]
+    if not os.path.isfile(os.path.join(config.model_checkpoint, "folds.plk")):
+        folds, test_fold = get_loader(train_dataset, test_dataset)
+        pickle.dump([folds, test_fold], open(os.path.join(config.model_checkpoint, "folds.pkl"), "wb"))
+    else:
+        folds, test_fold = pickle.load(open(os.path.join(config.model_checkpoint, "folds.plk"), "rb"))
+
+    if config.start_from:
+        saved_info = torch.load(config.start_from)
         from_stage = saved_info["stage"]
         from_epoch = saved_info["epoch"] + 1
     else:
@@ -122,7 +124,7 @@ def main():
         max_f1 = 0 # for saving the best model
         f1_test = 0
         for e in range(from_epoch, config.epochs):
-            run(net, folds[:-1], optimizer, tracker, train=True, prefix='Training', epoch=e)
+            # run(net, folds[:-1], optimizer, tracker, train=True, prefix='Training', epoch=e)
             val_returned = run(net, [folds[-1]], optimizer, tracker, train=False, prefix='Validation', epoch=e)
             test_returned = run(net, [test_fold], optimizer, tracker, train=False, prefix='Evaluation', epoch=e)
 
@@ -140,8 +142,6 @@ def main():
                     "f1-test": test_returned["F1"]
 
                 },
-                'vocab': train_dataset.vocab,
-                "folds": folds,
                 "stage": k,
                 "epoch": e
             }
