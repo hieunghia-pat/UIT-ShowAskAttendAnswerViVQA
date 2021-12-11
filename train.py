@@ -89,10 +89,10 @@ def main():
 
     cudnn.benchmark = True
 
-    if not os.path.isfile(os.path.join(config.model_checkpoint, "vocab.plk")):
+    if not os.path.isfile(os.path.join(config.model_checkpoint, "vocab.pkl")):
         vocab = Vocab([config.json_train_path, config.json_test_path], 
                                     specials=config.specials, vectors=config.word_embedding)
-        pickle.dump(vocab, open(os.path.join(config.model_checkpoint, "vocab.plk"), "wb"))
+        pickle.dump(vocab, open(os.path.join(config.model_checkpoint, "vocab.pkl"), "wb"))
     else:
         vocab = pickle.load(open(os.path.join(config.model_checkpoint, "vocab.pkl"), "rb"))
 
@@ -124,7 +124,7 @@ def main():
         max_f1 = 0 # for saving the best model
         f1_test = 0
         for e in range(from_epoch, config.epochs):
-            # run(net, folds[:-1], optimizer, tracker, train=True, prefix='Training', epoch=e)
+            run(net, folds[:-1], optimizer, tracker, train=True, prefix='Training', epoch=e)
             val_returned = run(net, [folds[-1]], optimizer, tracker, train=False, prefix='Validation', epoch=e)
             test_returned = run(net, [test_fold], optimizer, tracker, train=False, prefix='Evaluation', epoch=e)
 
