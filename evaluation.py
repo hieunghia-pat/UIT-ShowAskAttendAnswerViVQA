@@ -24,9 +24,9 @@ def main():
     if len(os.listdir("saved_models")) == 0:
         raise Exception("No checkpoint found")
 
-    for checkpoint_name in os.listdir("saved_models"):
+    for checkpoint_name in os.listdir("saved_models/SAAA"):
         if re.match(r'model_best_+', checkpoint_name):
-            checkpoint = os.path.join("saved_models", checkpoint_name)
+            checkpoint = os.path.join("saved_models/SAAA", checkpoint_name)
 
             print(f"Evaluating {checkpoint}")
 
@@ -48,6 +48,7 @@ def main():
             tq = tqdm(loader, ncols=0)
 
             results = {
+                "question": [],
                 "predicted": [],
                 "gt": []
             }
@@ -61,6 +62,7 @@ def main():
                 predicted_answers = test_dataset.vocab._decode_answer(out.cpu())
                 gt_answers = test_dataset.vocab._decode_answer(a.cpu())
                 for predicted_answer, gt_answer in zip(predicted_answers, gt_answers):
+                    results["question"].append(test_dataset.vocab._decode_question(q.cpu()))
                     results["predicted"].append(predicted_answer)
                     results["gt"].append(gt_answer)
 

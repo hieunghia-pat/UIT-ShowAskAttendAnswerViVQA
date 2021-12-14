@@ -6,7 +6,7 @@ class TextProcessor(nn.Module):
     def __init__(self, vocab, embedding_features, lstm_features, drop=0.0):
         super(TextProcessor, self).__init__()
         self.embedding = nn.Embedding(len(vocab.stoi), embedding_features, padding_idx=0)
-        if vocab.vectors is None:
+        if vocab.vectors is not None:
             self.embedding.from_pretrained(vocab.vectors, padding_idx=vocab.stoi["<pad>"])
         self.drop = nn.Dropout(drop)
         self.tanh = nn.Tanh()
